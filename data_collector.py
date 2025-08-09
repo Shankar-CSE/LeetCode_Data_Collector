@@ -69,4 +69,10 @@ if stats["data"]["userContestRanking"] is not None:
 
 data = [user_name, problem_count, General_Ranking, Reputation, Contest_rating, Contest_attended, Global_Ranking]
 
-print(data)
+titles = ['user_name', 'problem_count', 'General_Ranking', 'Reputation', 'Contest_rating', 'Contest_attended', 'Global_Ranking']
+
+df = pd.DataFrame([data], columns=titles)
+
+df.to_csv('LeetCode_Data.csv', index=False)
+
+print(df)
