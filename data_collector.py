@@ -35,11 +35,14 @@ def get_leetcode_stats(username):
 def process_user(username, titles):
     username = str(username).strip()
     if not username:
-        return None
+        # Blank username → N/A for all fields
+        return pd.DataFrame([[ "N/A" for _ in titles ]], columns=titles)
+
     username, stats = get_leetcode_stats(username)
+
     if not stats or stats["data"]["matchedUser"] is None:
-        print(f"⚠ Username '{username}' not found.")
-        return None
+        print(f"⚠ Username '{username}' not found. Filling with N/A.")
+        return pd.DataFrame([[username, "N/A", "N/A", "N/A", "N/A", "N/A", "N/A"]], columns=titles)
 
     matched_user = stats["data"]["matchedUser"]
     contest_info = stats["data"]["userContestRanking"]
@@ -49,9 +52,9 @@ def process_user(username, titles):
         matched_user["submitStats"]["acSubmissionNum"][0]["count"],
         matched_user["profile"]["ranking"],
         matched_user["profile"]["reputation"],
-        contest_info["rating"] if contest_info else None,
-        contest_info["attendedContestsCount"] if contest_info else None,
-        contest_info["globalRanking"] if contest_info else None
+        contest_info["rating"] if contest_info else "N/A",
+        contest_info["attendedContestsCount"] if contest_info else "N/A",
+        contest_info["globalRanking"] if contest_info else "N/A"
     ]], columns=titles)
 
 # Setup
@@ -64,15 +67,14 @@ df_output = pd.DataFrame(columns=titles)
 print(f"🚀 Starting LeetCode scraping for {len(df_input)} users...\n")
 
 # Threaded execution
-max_threads = 8  # Adjust based on your network speed
+max_threads = 8  # Change based on internet speed
 with ThreadPoolExecutor(max_workers=max_threads) as executor:
     futures = [executor.submit(process_user, username, titles) for username in df_input['Leetcodeid']]
 
     for idx, future in enumerate(as_completed(futures), start=1):
         result = future.result()
-        if result is not None:
-            df_output = pd.concat([df_output, result], ignore_index=True)
-        print(f"[{idx}/{len(futures)}] ✅ Done")
+        df_output = pd.concat([df_output, result], ignore_index=True)
+        print(f"[{idx}/{len(futures)}] ✅ Processed")
 
 # Save result
 df_output.to_csv('output.csv', index=False)
