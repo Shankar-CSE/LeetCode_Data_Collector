@@ -38,41 +38,39 @@ def get_leetcode_stats(username):
     else:
         raise Exception(f"Query failed with status code {response.status_code}")
 
-# Example usage
-username = "LeetCode"  # change this to the user's ID
-stats = get_leetcode_stats(username)
-# print(stats)
-user_name = ''
-problem_count =''
-General_Ranking = ''
-Reputation = ''
-Contest_rating = ''
-Contest_attended =''
-Global_Ranking = ''
- 
-stats = get_leetcode_stats(username)
-    
-user_name = stats["data"]["matchedUser"]["username"]
+# Column titles
+titles = ["User Name", "Problem Count", "General Ranking", "Reputation", "Contest Rating", "Contest Attended", "Global Ranking"]
 
-problem_count = stats["data"]["matchedUser"]["submitStats"]["acSubmissionNum"][0]["count"]
+df_output = pd.DataFrame(columns=titles)
 
-General_Ranking = stats["data"]["matchedUser"]["profile"]["ranking"]
+# Read input CSV
+df_input = pd.read_csv('input.csv')
 
-Reputation = stats["data"]["matchedUser"]["profile"]["reputation"]
-    
-if stats["data"]["userContestRanking"] is not None:
-    Contest_rating = stats["data"]["userContestRanking"]["rating"]
+for username in df_input['Leetcodeid']:
+    if username != "":
+        stats = get_leetcode_stats(username)
+        if "errors" in stats:
+            print(f"Error fetching data for {username}: {stats['errors']}")
+            continue
+        user_name = stats["data"]["matchedUser"]["username"]
+        problem_count = stats["data"]["matchedUser"]["submitStats"]["acSubmissionNum"][0]["count"]
+        general_ranking = stats["data"]["matchedUser"]["profile"]["ranking"]
+        reputation = stats["data"]["matchedUser"]["profile"]["reputation"]
 
-    Contest_attended = stats["data"]["userContestRanking"]["attendedContestsCount"]
+        if stats["data"]["userContestRanking"] is not None:
+            contest_rating = stats["data"]["userContestRanking"]["rating"]
+            contest_attended = stats["data"]["userContestRanking"]["attendedContestsCount"]
+            global_ranking = stats["data"]["userContestRanking"]["globalRanking"]
+        else:
+            contest_rating = None
+            contest_attended = None
+            global_ranking = None
 
-    Global_Ranking = stats["data"]["userContestRanking"]["globalRanking"]
+        # FIX: use len(df_output) instead of count-based loc to avoid FutureWarning
+        df_output.loc[len(df_output)] = [
+            user_name, problem_count, general_ranking, reputation,
+            contest_rating, contest_attended, global_ranking
+        ]
 
-data = [user_name, problem_count, General_Ranking, Reputation, Contest_rating, Contest_attended, Global_Ranking]
-
-titles = ['user_name', 'problem_count', 'General_Ranking', 'Reputation', 'Contest_rating', 'Contest_attended', 'Global_Ranking']
-
-df = pd.DataFrame([data], columns=titles)
-
-df.to_csv('LeetCode_Data.csv', index=False)
-
-print(df)
+# Save output
+df_output.to_csv('output.csv', index=False)
