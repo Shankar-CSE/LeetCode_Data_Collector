@@ -47,39 +47,52 @@ df_output = pd.DataFrame(columns=titles)
 # Read input CSV
 df_input = pd.read_csv('input.csv')
 
+total_users = len(df_input['Leetcodeid'])
+processed_count = 0
+
+print(f"🔍 Starting LeetCode scraping for {total_users} users...\n")
+
 for username in df_input['Leetcodeid']:
-    if username.strip():  # Skip empty usernames
-        stats = get_leetcode_stats(username)
+    processed_count += 1
+    username = str(username).strip()
 
-        matched_user = stats["data"]["matchedUser"]
-        contest_info = stats["data"]["userContestRanking"]
+    if not username:
+        print(f"[{processed_count}/{total_users}] ⏭ Skipped empty username.")
+        continue
 
-        if matched_user is None:
-            print(f"⚠ Username '{username}' not found. Skipping...")
-            continue
+    print(f"[{processed_count}/{total_users}] ⏳ Fetching data for: {username}...")
+    stats = get_leetcode_stats(username)
 
-        user_name = matched_user["username"]
-        problem_count = matched_user["submitStats"]["acSubmissionNum"][0]["count"]
-        general_ranking = matched_user["profile"]["ranking"]
-        reputation = matched_user["profile"]["reputation"]
+    matched_user = stats["data"]["matchedUser"]
+    contest_info = stats["data"]["userContestRanking"]
 
-        if contest_info is not None:
-            contest_rating = contest_info["rating"]
-            contest_attended = contest_info["attendedContestsCount"]
-            global_ranking = contest_info["globalRanking"]
-        else:
-            contest_rating = None
-            contest_attended = None
-            global_ranking = None
+    if matched_user is None:
+        print(f"[{processed_count}/{total_users}] ⚠ Username '{username}' not found. Skipping...")
+        continue
 
-        # Append row using concat to avoid FutureWarning
-        new_row = pd.DataFrame([[
-            user_name, problem_count, general_ranking, reputation,
-            contest_rating, contest_attended, global_ranking
-        ]], columns=titles)
+    user_name = matched_user["username"]
+    problem_count = matched_user["submitStats"]["acSubmissionNum"][0]["count"]
+    general_ranking = matched_user["profile"]["ranking"]
+    reputation = matched_user["profile"]["reputation"]
 
-        df_output = pd.concat([df_output, new_row], ignore_index=True)
+    if contest_info is not None:
+        contest_rating = contest_info["rating"]
+        contest_attended = contest_info["attendedContestsCount"]
+        global_ranking = contest_info["globalRanking"]
+    else:
+        contest_rating = None
+        contest_attended = None
+        global_ranking = None
+
+    new_row = pd.DataFrame([[
+        user_name, problem_count, general_ranking, reputation,
+        contest_rating, contest_attended, global_ranking
+    ]], columns=titles)
+
+    df_output = pd.concat([df_output, new_row], ignore_index=True)
+
+    print(f"[{processed_count}/{total_users}] ✅ Data fetched for: {username}")
 
 # Save output CSV
 df_output.to_csv('output.csv', index=False)
-print("✅ Data scraping complete! Saved as output.csv")
+print("\n🎉 All done! Data saved as 'output.csv'")
