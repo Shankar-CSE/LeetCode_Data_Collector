@@ -46,7 +46,8 @@ output_file = "output.csv"
 Run the script:
 
 ```
-python leetcode_scraper.py
+cd LeetCode_Data_Collector
+python data_collector.py
 ```
 
 

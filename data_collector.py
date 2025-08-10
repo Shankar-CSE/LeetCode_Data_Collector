@@ -60,7 +60,7 @@ def process_user(row, titles_output):
     Returns:
         pd.DataFrame: Single-row DataFrame with user's data or N/A for missing fields.
     """
-    username = str(row["Leetcodeid"]).strip()
+    username = str(row["LeetCodeid"]).strip()
 
     # Handle missing or empty username
     if not username:
@@ -68,7 +68,7 @@ def process_user(row, titles_output):
             [
                 [
                     row["S.no"],
-                    row["Roll No"],
+                    row["ROLL NO"],
                     row["Name"],
                     row["DEPT"],
                     row["Interested Catagory"],
@@ -86,13 +86,13 @@ def process_user(row, titles_output):
     # Handle case where user data is not found or invalid
     if not stats or stats["data"]["matchedUser"] is None:
         print(f"⚠ Username '{username}' not found. Filling with N/A.")
-        user = [row["Name"], row["Roll No"], row["DEPT"], row["BATCH"], username]
+        user = [row["Name"], row["ROLL NO"], row["DEPT"], row["BATCH"], username]
         invalid_users.append(user)  # Track invalid users
         return pd.DataFrame(
             [
                 [
                     row["S.no"],
-                    row["Roll No"],
+                    row["ROLL NO"],
                     row["Name"],
                     row["DEPT"],
                     row["Interested Catagory"],
@@ -113,7 +113,7 @@ def process_user(row, titles_output):
         [
             [
                 row["S.no"],
-                row["Roll No"],
+                row["ROLL NO"],
                 row["Name"],
                 row["DEPT"],
                 row["Interested Catagory"],
@@ -136,7 +136,7 @@ def process_user(row, titles_output):
 # Define column names for output DataFrame
 titles_output = [
     "S.no",
-    "Roll No",
+    "ROLL NO",
     "Name",
     "DEPT",
     "Interested Catagory",
@@ -154,7 +154,7 @@ titles_output = [
 ]
 
 # Define column names for invalid users DataFrame
-titles_invalid = ["Name", "Roll no", "Dept", "Batch", "username"]
+titles_invalid = ["Name", "ROLL NO", "Dept", "Batch", "username"]
 
 # Initialize list to track invalid users and empty DataFrame for invalid users
 invalid_users = []
@@ -170,7 +170,7 @@ df_output = pd.DataFrame(columns=titles_output)
 print(f"🚀 Starting LeetCode scraping for {len(df_input)} users...\n")
 
 # Use ThreadPoolExecutor for concurrent API requests
-max_threads = 1000  # Adjust based on network capacity and API rate limits
+max_threads = 10  # Adjust based on network capacity and API rate limits
 with ThreadPoolExecutor(max_workers=max_threads) as executor:
     # Submit tasks for each user
     futures = [
