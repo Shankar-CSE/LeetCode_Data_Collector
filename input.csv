@@ -1,909 +1,916 @@
-﻿S.no,ROLL NO,Name,DEPT,Interested Catagory,BATCH,LeetCodeid,,,,,,,,,,,,,,,,
-1,22AD001,AADITHYA S,AIDS-A,IT,Batch 3,AadithyaS,,,,,,,,,,,,,,,,
-2,22AD002,AJAYKUMAR D,AIDS-A,IT,Batch 10,ajaykumar2022,,,,,,,,,,,,,,,,
-3,22AD003,AKSHAYAA S,AIDS-A,IT,Batch 10,akshayaa15,,,,,,,,,,,,,,,,
-4,22AD004,AMRUTHA A,AIDS-A,IT,Batch 3,aamrutha0210,,,,,,,,,,,,,,,,
-5,22AD005,ARUN KUMAR R,AIDS-A,IT,Batch 1,user0713RH,,,,,,,,,,,,,,,,
-6,22AD006,ASHWAND NARAYANAN S,AIDS-A,IT,Batch 3,user6055PM,,,,,,,,,,,,,,,,
-7,22AD007,ASMITA G,AIDS-A,IT,Batch 10,asmita_g20,,,,,,,,,,,,,,,,
-8,22AD008,BALASURYA P T,AIDS-A,IT,Batch 3,balasurya_20,,,,,,,,,,,,,,,,
-9,22AD009,BARATH RAJ P,AIDS-A,IT,Batch 1,Barath_Raj_p,,,,,,,,,,,,,,,,
-10,22AD010,BAVYA C,AIDS-A,IT,Batch 2,Bavya02,,,,,,,,,,,,,,,,
-11,22AD011,BAWIN S S,AIDS-A,IT,Batch 3,bawin_04,,,,,,,,,,,,,,,,
-12,22AD012,DARSHIKA R K,AIDS-A,IT,Batch 10,darshika5406,,,,,,,,,,,,,,,,
-13,22AD013,DHARINEESH N M,AIDS-A,IT,Batch 1,DHARINEESHNM,,,,,,,,,,,,,,,,
-14,22AD014,DHARSHINI M V,AIDS-A,IT,Batch 2,dharshini015,,,,,,,,,,,,,,,,
-15,22AD016,DIVYASREE S,AIDS-A,IT,Batch 3,divyasree16,,,,,,,,,,,,,,,,
-16,22AD018,GOKUL K,AIDS-A,IT,Batch 10,gokul_16,,,,,,,,,,,,,,,,
-17,22AD019,GOKUL N,AIDS-A,IT,Batch 1,Gokul435545,,,,,,,,,,,,,,,,
-18,22AD020,GOKULAN N,AIDS-A,IT,Batch 3,Gokulan_N,,,,,,,,,,,,,,,,
-19,22AD021,GOPIKA SREE G,AIDS-A,IT,Batch 2,Gopika_sree,,,,,,,,,,,,,,,,
-20,22AD022,HANISHA C,AIDS-A,IT,Batch 12,hanisha_c,,,,,,,,,,,,,,,,
-21,22AD023,HARESH A V,AIDS-A,IT,Batch 1,haresh412,,,,,,,,,,,,,,,,
-22,22AD024,HARI BABU R,AIDS-A,IT,Batch 3,haribabu__r,,,,,,,,,,,,,,,,
-23,22AD026,HARII SANKAR S,AIDS-A,IT,Batch 3,harxsan,,,,,,,,,,,,,,,,
-24,22AD027,HARISH J,AIDS-A,IT,Batch 10,harish122004,,,,,,,,,,,,,,,,
-25,22AD029,HARRINI SHREE M,AIDS-A,IT,Batch 3,harrini18,,,,,,,,,,,,,,,,
-26,22AD030,HARRIS JEREMIAH B,AIDS-A,IT,Batch 10,user5067tk,,,,,,,,,,,,,,,,
-27,22AD031,INDRA KUMAR S,AIDS-A,IT,Batch 10,Indresh2004,,,,,,,,,,,,,,,,
-28,22AD032,JAGAN G,AIDS-A,IT,Batch 3,Jagan33,,,,,,,,,,,,,,,,
-29,22AD033,JERWIN RAJA J,AIDS-A,IT,Batch 10,Jerwin_7,,,,,,,,,,,,,,,,
-30,22AD035,KARTHIKEYAN M,AIDS-A,IT,Batch 1,Karthikeyan_M3011,,,,,,,,,,,,,,,,
-31,22AD036,KAVIARASAN M,AIDS-A,IT,Batch 3,Kavi03Invincible,,,,,,,,,,,,,,,,
-32,22AD037,KAVIN SHANKAR D S,AIDS-A,IT,Batch 3,KavinShankar,,,,,,,,,,,,,,,,
-33,22AD038,KAVIYA DHARSHINI S,AIDS-A,IT,Batch 3,dharshiash21,,,,,,,,,,,,,,,,
-34,22AD039,KAWIN P,AIDS-A,IT,Batch 1,KawinP,,,,,,,,,,,,,,,,
-35,22AD040,KISHORE E,AIDS-A,IT,Batch 3,Ekishore,,,,,,,,,,,,,,,,
-36,22AD041,LINGESHWAR M C,AIDS-A,IT,Batch 10,lingesh41,,,,,,,,,,,,,,,,
-37,22AD042,LOGABAALAN R S,AIDS-A,IT,Batch 3,user1415lO,,,,,,,,,,,,,,,,
-38,22AD043,MADHAN MOHAN M,AIDS-A,IT,Batch 10,Madhan_mohan_M,,,,,,,,,,,,,,,,
-39,22AD044,MAGESHWARAN P,AIDS-A,IT,Batch 3,user9798Tq,,,,,,,,,,,,,,,,
-40,22AD045,MAHESH V,AIDS-A,IT,Batch 10,user0171OR,,,,,,,,,,,,,,,,
-41,22AD046,MAHIMA TEJESHWINI R,AIDS-A,IT,Batch 3,Caeruleaphile,,,,,,,,,,,,,,,,
-42,22AD047,MANOJ M,AIDS-A,IT,Batch 3,manoj_m36,,,,,,,,,,,,,,,,
-43,22AD048,MANOJ P D,AIDS-A,IT,Batch 10,Manojpd,,,,,,,,,,,,,,,,
-44,22AD049,MANOJKUMAR K,AIDS-A,IT,Batch 3,mano_o,,,,,,,,,,,,,,,,
-45,22AD050,MATHAN PRASHATH R,AIDS-A,IT,Batch 10,mathan003,,,,,,,,,,,,,,,,
-46,22AD051,MOHAMED ABUBAKKAR S,AIDS-A,IT,Batch 3,mdabucse,,,,,,,,,,,,,,,,
-47,22AD052,MOHAMED NAZEER M,AIDS-A,IT,Batch 1,Mohamed_Nazeer_M,,,,,,,,,,,,,,,,
-48,22AD053,MONISH G,AIDS-A,IT,Batch 3,Monish2004,,,,,,,,,,,,,,,,
-49,22AD054,MUKESH P,AIDS-A,IT,Batch 10,Mukesh_P,,,,,,,,,,,,,,,,
-50,22AD055,NAGATHILAK U,AIDS-A,IT,Batch 10,user0274cC,,,,,,,,,,,,,,,,
-51,22AD056,NAMEETHA N,AIDS-A,IT,Batch 12,Nameetha7,,,,,,,,,,,,,,,,
-52,22AD057,NARESH RAJA M L,AIDS-A,IT,Batch 10,nareshml,,,,,,,,,,,,,,,,
-53,22AD058,NAVANEETHAKRISHNAN S,AIDS-A,IT,Batch 10,Navaneethakrishnan011,,,,,,,,,,,,,,,,
-54,22AD059,NEEJAY S S,AIDS-A,IT,Batch 3,user8420C,,,,,,,,,,,,,,,,
-55,22AD060,NISHANTHAN G S,AIDS-A,IT,Batch 3,nishanthan209,,,,,,,,,,,,,,,,
-56,22AD061,NITHISH V,AIDS-A,IT,Batch 10,VNithish,,,,,,,,,,,,,,,,
-57,22AD062,PAVAN SANTHOSH D,AIDS-A,IT,Batch 10,Pavan_santhosh04,,,,,,,,,,,,,,,,
-58,22AD063,PONKRISHNAN P,AIDS-A,IT,Batch 3,ponkrishnanp,,,,,,,,,,,,,,,,
-59,22AD304,NIRANJAN K J,AIDS-A,IT,Batch 3,Niranjan_K_J,,,,,,,,,,,,,,,,
-60,22AD305,RAHUL I,AIDS-A,IT,Batch 1,user3491Bt,,,,,,,,,,,,,,,,
-61,22AD307,VIGNESH PANDIYA G,AIDS-A,IT,Batch 12,V_P3,,,,,,,,,,,,,,,,
-62,22AD501,AISHWARYA R,AIDS-A,IT,Batch 3,user4075Gb,,,,,,,,,,,,,,,,
-63,22AD064,PONSANKAR T,AIDS-B,IT,Batch 1,tponsankar,,,,,,,,,,,,,,,,
-64,22AD065,PRABHA M,AIDS-B,IT,Batch 2,user5402eU,,,,,,,,,,,,,,,,
-65,22AD066,PRADAKSHANA C,AIDS-B,IT,Batch 2,user4107uj,,,,,,,,,,,,,,,,
-66,22AD067,PRADEESH S,AIDS-B,IT,Batch 10,pradeesh89,,,,,,,,,,,,,,,,
-67,22AD068,PRAGATEESH G,AIDS-B,IT,Batch 3,Pragateesh_123,,,,,,,,,,,,,,,,
-68,22AD069,PRANITHA K M,AIDS-B,IT,Batch 2,pranithakm,,,,,,,,,,,,,,,,
-69,22AD070,PRAVEENA S,AIDS-B,IT,Batch 3,PraveenaS-03,,,,,,,,,,,,,,,,
-70,22AD071,PREMALATHA P,AIDS-B,IT,Batch 3,premalatha_p,,,,,,,,,,,,,,,,
-71,22AD072,PRIYADHARSHINI M,AIDS-B,IT,Batch 10,Priya-dharshini_M,,,,,,,,,,,,,,,,
-72,22AD073,PUVISHA P A,AIDS-B,IT,Batch 2,user0836K,,,,,,,,,,,,,,,,
-73,22AD074,RAHUL K,AIDS-B,IT,Batch 10,rahulk56,,,,,,,,,,,,,,,,
-74,22AD075,RAMKUMAR B,AIDS-B,IT,Batch 1,ramkumar-18,,,,,,,,,,,,,,,,
-75,22AD076,RAVI SHANKAR K K,AIDS-B,IT,Batch 1,ravishankar03,,,,,,,,,,,,,,,,
-76,22AD077,RUDRESH J D,AIDS-B,IT,Batch 12,RudreshJD,,,,,,,,,,,,,,,,
-77,22AD078,SAM MESHACH A,AIDS-B,IT,Batch 3,sammeshach023,,,,,,,,,,,,,,,,
-78,22AD079,SANDIYA S,AIDS-B,IT,Batch 2,user9947LG,,,,,,,,,,,,,,,,
-79,22AD080,SANGAMAHESWARAN P,AIDS-B,IT,Batch 3,mahesh-4001,,,,,,,,,,,,,,,,
-80,22AD081,SANGAMITHRA V,AIDS-B,IT,Batch 10,Sangamithra_V,,,,,,,,,,,,,,,,
-81,22AD084,SANJAY S,AIDS-B,IT,Batch 12,user0421CN,,,,,,,,,,,,,,,,
-82,22AD085,SANJITH S,AIDS-B,IT,Batch 12,Sanjith_S2004,,,,,,,,,,,,,,,,
-83,22AD086,SANTHOSH KUMAR K,AIDS-B,IT,Batch 3,Santhosh_Kumar_041,,,,,,,,,,,,,,,,
-84,22AD087,SARAN H,AIDS-B,IT,Batch 12,saran-afk,,,,,,,,,,,,,,,,
-85,22AD088,SARAVANA KUMAR M,AIDS-B,IT,Batch 3,Saravanakumar018,,,,,,,,,,,,,,,,
-86,22AD089,SARAVANA PRABAHAR M V,AIDS-B,IT,Batch 12,user6947Y,,,,,,,,,,,,,,,,
-87,22AD090,SARAVANAN B,AIDS-B,IT,Batch 12,SARAVANAN041,,,,,,,,,,,,,,,,
-88,22AD091,SARVVESH P,AIDS-B,IT,Batch 10,Sarvvesh_P,,,,,,,,,,,,,,,,
-89,22AD092,SASIKA M,AIDS-B,IT,Batch 12,user7111DV,,,,,,,,,,,,,,,,
-90,22AD093,SELVA PRASANTH S,AIDS-B,IT,Batch 12,user1110WO,,,,,,,,,,,,,,,,
-91,22AD094,SHALINI R,AIDS-B,IT,Batch 2,shalinishalu,,,,,,,,,,,,,,,,
-92,22AD095,SHALMAN M,AIDS-B,IT,Batch 10,Shalman27,,,,,,,,,,,,,,,,
-93,22AD096,SHANE ALVIN A,AIDS-B,IT,Batch 12,user3350HR,,,,,,,,,,,,,,,,
-94,22AD097,SHANJAY ADHITHYA S,AIDS-B,IT,Batch 3,shanjayadhithya,,,,,,,,,,,,,,,,
-95,22AD098,SHARATHKALYAN P,AIDS-B,IT,Batch 3,P_Sharathkalyan,,,,,,,,,,,,,,,,
-96,22AD099,SHIVA SHANKARAN N,AIDS-B,IT,Batch 12,user2634Ne,,,,,,,,,,,,,,,,
-97,22AD100,SHRI MATHI M,AIDS-B,IT,Batch 2,Shrimathi07,,,,,,,,,,,,,,,,
-98,22AD101,SHRI SHIVA GURU R V,AIDS-B,IT,Batch 12,shivagururv,,,,,,,,,,,,,,,,
-99,22AD102,SHUBIGSHA G,AIDS-B,IT,Batch 3,user9373Za,,,,,,,,,,,,,,,,
-100,22AD103,SINDHUJA G,AIDS-B,IT,Batch 2,user2406XT,,,,,,,,,,,,,,,,
-101,22AD104,SIVA ARAVINTHAN R,AIDS-B,IT,Batch 12,Siva_Aravinthan,,,,,,,,,,,,,,,,
-102,22AD105,SIVANEYAA G,AIDS-B,IT,Batch 12,Sivaneyaa,,,,,,,,,,,,,,,,
-103,22AD106,SRE DEVA J,AIDS-B,IT,Batch 10,qw12qw12,,,,,,,,,,,,,,,,
-104,22AD107,SRIHARIKRISHNA N,AIDS-B,IT,Batch 10,codehari169,,,,,,,,,,,,,,,,
-105,22AD108,SRIHARINI E N,AIDS-B,IT,Batch 10,user1022XK,,,,,,,,,,,,,,,,
-106,22AD109,SRINATH S,AIDS-B,IT,Batch 1,srinath021,,,,,,,,,,,,,,,,
-107,22AD110,SRIRAM K,AIDS-B,IT,Batch 10,user0372XV,,,,,,,,,,,,,,,,
-108,22AD111,SUDHARSANA B,AIDS-B,IT,Batch 2,Sudharsana_B,,,,,,,,,,,,,,,,
-109,22AD112,SUJITH BABU M,AIDS-B,IT,Batch 10,SUJITHBABU_M-2508,,,,,,,,,,,,,,,,
-110,22AD113,SWETHA A,AIDS-B,IT,Batch 10,user0725r,,,,,,,,,,,,,,,,
-111,22AD114,THAMARAI D,AIDS-B,IT,Batch 10,thamarai_d,,,,,,,,,,,,,,,,
-112,22AD115,THARSAN P,AIDS-B,IT,Batch 10,tharsan-sece,,,,,,,,,,,,,,,,
-113,22AD116,THIRUKUMARAN G,AIDS-B,IT,Batch 10,gtk_21,,,,,,,,,,,,,,,,
-114,22AD117,THIRUMALAIVASAN P,AIDS-B,IT,Batch 12,user5167s,,,,,,,,,,,,,,,,
-115,22AD118,UDHAYA KUMAR B,AIDS-B,IT,Batch 3,Udhaya_Kumar_B,,,,,,,,,,,,,,,,
-116,22AD119,VETRIVEL A,AIDS-B,IT,Batch 10,user7383C,,,,,,,,,,,,,,,,
-118,22AD121,VIMALSRINIVASAN R,AIDS-B,IT,Batch 12,user7630ow,,,,,,,,,,,,,,,,
-119,22AD122,VISHAL KUMAR S,AIDS-B,IT,Batch 3,user3338sv,,,,,,,,,,,,,,,,
-120,22AD123,VISHAL R,AIDS-B,IT,Batch 1,Vishal--R,,,,,,,,,,,,,,,,
-121,22AD124,VISHNUVARDAN J,AIDS-B,IT,Batch 3,vishnuvardan_j,,,,,,,,,,,,,,,,
-122,22AD126,YOGANANDAN S,AIDS-B,IT,Batch 3,user6272jO,,,,,,,,,,,,,,,,
-123,22AD301,ASHWIN T,AIDS-B,IT,Batch 10,Ashwinsece,,,,,,,,,,,,,,,,
-124,22AD302,DHINAKAR V,AIDS-B,IT,Batch 10,DHINA22SECE,,,,,,,,,,,,,,,,
-125,22AD303,LAKSHMI NARAYANAN M,AIDS-B,IT,Batch 12,lakshminarayananm30,,,,,,,,,,,,,,,,
-126,22AD306,SIDESH S,AIDS-B,IT,Batch 12,sideshcmd,,,,,,,,,,,,,,,,
-127,22AM001,ABHINDHIRA K P,AIML,IT,Batch 11,ABHINDHIRA,,,,,,,,,,,,,,,,
-128,22AM002,AJITH KUMAR M,AIML,IT,,AjithKumar02,,,,,,,,,,,,,,,,
-129,22AM003,AKSHAYA R B,AIML,IT,Batch 11,Akshaya_R_B,,,,,,,,,,,,,,,,
-130,22AM004,BARATH KUMAR L,AIML,IT,Batch 11,_barathkumar_,,,,,,,,,,,,,,,,
-131,22AM005,BARATH VISWA RAJ S,AIML,IT,,user4198R,,,,,,,,,,,,,,,,
-132,22AM007,BHARATH S M,AIML,IT,Batch 8,Bharath-SM,,,,,,,,,,,,,,,,
-133,22AM008,BHUVANESH K,AIML,IT,Batch 6,user4234OV,,,,,,,,,,,,,,,,
-134,22AM009,DARSHAN R A,AIML,IT,Batch 3,darshanRA,,,,,,,,,,,,,,,,
-135,22AM010,DEV PRASHAANT M R,AIML,IT,Batch 8,user9151UB,,,,,,,,,,,,,,,,
-136,22AM011,DHANUSH M,AIML,IT,Batch 8,Dhanush_123_,,,,,,,,,,,,,,,,
-137,22AM012,HARINISHREE R K,AIML,IT,Batch 11,user0842Nu,,,,,,,,,,,,,,,,
-138,22AM013,HARISH M,AIML,IT,Batch 8,user2553sC,,,,,,,,,,,,,,,,
-139,22AM014,HARISMITA R,AIML,IT,Batch 10,user1445K,,,,,,,,,,,,,,,,
-140,22AM015,HARSHSAVARRDHANI K R,AIML,IT,Batch 11,user5564tL,,,,,,,,,,,,,,,,
-141,22AM016,JAIGURU L,AIML,IT,,user3252B,,,,,,,,,,,,,,,,
-142,22AM017,KARTHIKEYAN R,AIML,IT,Batch 11,karthikeyan_18,,,,,,,,,,,,,,,,
-143,22AM018,KASU VYISHNAVI KAMESWARI DEVI,AIML,IT,Batch 8,user8766yH,,,,,,,,,,,,,,,,
-144,22AM019,KAYAL ENNIAN A G,AIML,IT,,Kayalennian10,,,,,,,,,,,,,,,,
-145,22AM020,KEERTHANA N,AIML,IT,Batch 3,user3375rX,,,,,,,,,,,,,,,,
-146,22AM021,KRISHNA PARESH RAICHURA,AIML,IT,,krishnapareshraichura2022ai-ml,,,,,,,,,,,,,,,,
-147,22AM022,LEELAVINOTHAN A,AIML,IT,Batch 3,LEELAVINOTHAN_A,,,,,,,,,,,,,,,,
-148,22AM024,MITHUN VIJAY V M,AIML,IT,Batch 8,MITHUNVIJAYVM,,,,,,,,,,,,,,,,
-149,22AM025,MOHAMMED ESA KHAN J,AIML,IT,Batch 6,Esakhan,,,,,,,,,,,,,,,,
-150,22AM027,MOHANASUNDARAM S,AIML,IT,Batch 11,mohan_s28,,,,,,,,,,,,,,,,
-151,22AM028,MUKESH R,AIML,IT,Batch 8,mukeshravi,,,,,,,,,,,,,,,,
-152,22AM029,NAVEEN KUMAR T,AIML,IT,Batch 3,Naveen172004,,,,,,,,,,,,,,,,
-153,22AM030,NITHYA SREE R S,AIML,IT,Batch 8,Nithya__09,,,,,,,,,,,,,,,,
-154,22AM031,PRAANESH S,AIML,IT,,praaneshselvaraj2003,,,,,,,,,,,,,,,,
-155,22AM032,PRADHEEBAN A,AIML,IT,,pradheeban15,,,,,,,,,,,,,,,,
-156,22AM033,PRAVEEN S,AIML,IT,Batch 8,praveens42725,,,,,,,,,,,,,,,,
-157,22AM034,PRAVEENA J P,AIML,IT,Batch 3,praveenajp,,,,,,,,,,,,,,,,
-158,22AM035,PRAVIN KUMAR R,AIML,IT,Batch 8,Pravin_007_,,,,,,,,,,,,,,,,
-159,22AM036,RAJESH D,AIML,IT,,Rajesh-05,,,,,,,,,,,,,,,,
-160,22AM037,RAMITA V,AIML,IT,,user7914qo,,,,,,,,,,,,,,,,
-161,22AM038,RAMYA PANDITHURAI,AIML,IT,Batch 11,RAMYA_PK,,,,,,,,,,,,,,,,
-162,22AM039,RIKTHA L,AIML,IT,,RikthaL1515,,,,,,,,,,,,,,,,
-163,22AM040,ROOBIKA V,AIML,IT,Batch 11,Roobika29,,,,,,,,,,,,,,,,
-164,22AM041,SANDHIYA P,AIML,IT,Batch 3,Sandhiya-z,,,,,,,,,,,,,,,,
-165,22AM043,SENTHAMILARASU T,AIML,IT,Batch 11,user8202e,,,,,,,,,,,,,,,,
-166,22AM044,SHANCHANA S,AIML,IT,Batch 3,shanchana,,,,,,,,,,,,,,,,
-167,22AM045,SHARVESHVAR N S,AIML,IT,Batch 3,Sharveshvarns,,,,,,,,,,,,,,,,
-168,22AM046,SHREENITHII S J,AIML,IT,Batch 11,shreenithii_sj,,,,,,,,,,,,,,,,
-169,22AM047,SIMI A,AIML,IT,Batch 8,simi_a,,,,,,,,,,,,,,,,
-170,22AM048,SIVANITHISHKUMAR D,AIML,IT,,sivanithishkumar,,,,,,,,,,,,,,,,
-171,22AM049,SOUNDARYA R,AIML,IT,Batch 11,soundaryaravichandran14,,,,,,,,,,,,,,,,
-172,22AM050,SREEJHA J,AIML,IT,,sreejhaj,,,,,,,,,,,,,,,,
-173,22AM051,SRIMATHI B,AIML,IT,Batch 10,srimathi04,,,,,,,,,,,,,,,,
-174,22AM052,SRINITHI S,AIML,IT,Batch 3,Srinithi30,,,,,,,,,,,,,,,,
-175,22AM053,SUBASHINI M,AIML,IT,,subashini2575,,,,,,,,,,,,,,,,
-176,22AM054,SUBBURAJ V,AIML,IT,Batch 8,subburaj13,,,,,,,,,,,,,,,,
-177,22AM055,SUGISIVAM A,AIML,IT,,Sugisivam,,,,,,,,,,,,,,,,
-178,22AM056,SUJAYNITHISH N,AIML,IT,Batch 11,sujaynithish03,,,,,,,,,,,,,,,,
-179,22AM057,VARUN PRASHANTH V,AIML,IT,,varunprashanth,,,,,,,,,,,,,,,,
-180,22AM059,VIGNESHWARAN G,AIML,IT,Batch 8,vigneshwarang,,,,,,,,,,,,,,,,
-181,22AM062,VISHNU RAM M,AIML,IT,,vr_dev,,,,,,,,,,,,,,,,
-182,22AM063,VISHNUPARGAVAN V,AIML,IT,,VishnupargavanV,,,,,,,,,,,,,,,,
-183,22AM302,SATHISH D K,AIML,IT,Batch 8,user6271fu,,,,,,,,,,,,,,,,
-184,22CC001,AFREED S,CCE,IT,Batch 6,afreed2005,,,,,,,,,,,,,,,,
-185,22CC002,AJAY J,CCE,IT,Batch 8,A468,,,,,,,,,,,,,,,,
-186,22CC003,AKSHAYAN K,CCE,IT,Batch 6,K_Akshayan-5005,,,,,,,,,,,,,,,,
-187,22CC004,DARSHAN R B,CCE,IT,Batch 8,Darshan_RB,,,,,,,,,,,,,,,,
-188,22CC005,DEEPAK RAJA M,CCE,IT,Batch 8,DeepakRajuu,,,,,,,,,,,,,,,,
-189,22CC006,DHANUSHPRIYAN S,CCE,IT,Batch 6,S_Dhanushpriyan,,,,,,,,,,,,,,,,
-190,22CC007,DHARSHINI K,CCE,IT,Batch 6,dharshinik2022,,,,,,,,,,,,,,,,
-191,22CC008,DHEVADHARSHINI M,CCE,IT,Batch 2,_dhevamuthu2004,,,,,,,,,,,,,,,,
-192,22CC009,DINESH R,CCE,IT,Batch 6,Dinesh_sece,,,,,,,,,,,,,,,,
-193,22CC010,ELANGO T,CCE,IT,Batch 6,ElangoT,,,,,,,,,,,,,,,,
-194,22CC011,GAYATHIRI K,CCE,IT,Batch 6,Gayathri-k,,,,,,,,,,,,,,,,
-195,22CC012,GNANARIDDHIKA R,CCE,IT,Batch 2,gnanariddhika_19,,,,,,,,,,,,,,,,
-196,22CC013,GOKUL G,CCE,IT,Batch 1,Gokul-007,,,,,,,,,,,,,,,,
-197,22CC014,GOKUL K,CCE,IT,Batch 11,GOKULK05,,,,,,,,,,,,,,,,
-,22AD082,SANGARAPANDIAN M,AIDS-B,NOT INTERESTED,,#N/A,,,,,,,,,,,,,,,,
-199,22CC016,HARIBABU T,CCE,IT,Batch 1,hariarun2004,,,,,,,,,,,,,,,,
-200,22CC017,HARIBRAGAADESH T A,CCE,IT,Batch 6,haribragadesh_1,,,,,,,,,,,,,,,,
-201,22CC018,HARITHA R,CCE,IT,Batch 2,Harithar_3010,,,,,,,,,,,,,,,,
-202,22CC019,JANANI M,CCE,IT,Batch 2,Janani_M,,,,,,,,,,,,,,,,
-203,22CC020,KABINESH S,CCE,IT,Batch 11,kabinesh__45,,,,,,,,,,,,,,,,
-204,22CC021,KAMALESH R,CCE,IT,Batch 1,kamaleshbala,,,,,,,,,,,,,,,,
-205,22CC022,KARTHICK M G,CCE,IT,Batch 8,karthxx,,,,,,,,,,,,,,,,
-206,22CC023,KARTHIK S,CCE,IT,Batch 1,Karthik-007,,,,,,,,,,,,,,,,
-207,22CC024,KATHIRVEL R,CCE,IT,Batch 8,kathirvel0124,,,,,,,,,,,,,,,,
-208,22CC025,KAVIYA A,CCE,IT,Batch 6,kaviya1234,,,,,,,,,,,,,,,,
-209,22CC026,LOGESHWARAN V,CCE,IT,Batch 6,logeshwaran_v,,,,,,,,,,,,,,,,
-210,22CC027,MADHAN A,CCE,IT,Batch 8,madhan2005,,,,,,,,,,,,,,,,
-211,22CC028,MANGAIYARKARASI R,CCE,IT,Batch 8,mangaiyarkarasiR,,,,,,,,,,,,,,,,
-212,22CC029,MOHAMED AFSAR A,CCE,IT,Batch 6,mohamed_afsar,,,,,,,,,,,,,,,,
-213,22CC030,MUTHU RAJA S,CCE,IT,Batch 8,Muthuraja378277,,,,,,,,,,,,,,,,
-214,22CC031,MUTHUVEL A,CCE,IT,Batch 1,muthuvel__a,,,,,,,,,,,,,,,,
-215,22CC032,NARAYANI S,CCE,IT,Batch 6,Narayani__S,,,,,,,,,,,,,,,,
-216,22CC033,NAVEEN K S,CCE,IT,Batch 6,NaveenKS1824,,,,,,,,,,,,,,,,
-217,22CC034,NIRMALKUMAR M,CCE,IT,Batch 8,nirmal3003,,,,,,,,,,,,,,,,
-218,22CC035,PRAKASH KUMAR M,CCE,IT,Batch 1,pra__kash,,,,,,,,,,,,,,,,
-219,22CC036,PRASANNAKUMAR V G,CCE,IT,Batch 6,prasannakumar_v_g_,,,,,,,,,,,,,,,,
-220,22CC037,PUGALENTHI A S,CCE,CORE-MECH,NON IT,pugal_sece,,,,,,,,,,,,,,,,
-221,22CC038,RAJESH KUMAR M,CCE,IT,Batch 6,Rajeshkumar__,,,,,,,,,,,,,,,,
-222,22CC039,RENUKA K,CCE,IT,Batch 8,renukaKrish,,,,,,,,,,,,,,,,
-223,22CC040,RISHAB S,CCE,IT,Batch 1,Rishabb,,,,,,,,,,,,,,,,
-224,22CC041,RITHIKA S,CCE,IT,Batch 2,Rithika_Sundaram,,,,,,,,,,,,,,,,
-225,22CC042,RITHISH S,CCE,IT,Batch 1,rithish__s,,,,,,,,,,,,,,,,
-226,22CC043,ROHIT K S,CCE,IT,Batch 1,rohitks07,,,,,,,,,,,,,,,,
-227,22CC044,SAKTHI VIGNESH S,CCE,IT,Batch 6,vicky__07,,,,,,,,,,,,,,,,
-228,22CC045,SAKTHIVEL M,CCE,IT,Batch 8,sakthii-vel,,,,,,,,,,,,,,,,
-229,22CC046,SAMRAAT M,CCE,IT,Batch 8,Sam__raat,,,,,,,,,,,,,,,,
-230,22CC047,SHANMUGAPRIYA M,CCE,IT,Batch 6,Shanmugapriya_13,,,,,,,,,,,,,,,,
-231,22CC048,SHRINAYA S K,CCE,IT,Batch 2,skshrinaya,,,,,,,,,,,,,,,,
-232,22CC049,SIDDARTHAN S,CCE,CORE-NETWORKING,Batch 13,siddarthans,,,,,,,,,,,,,,,,
-233,22CC050,SIVANANTHAM A,CCE,IT,Batch 6,Sivanantham2004,,,,,,,,,,,,,,,,
-234,22CC052,SOWBHARNIKA P G,CCE,IT,Batch 1,sowbharnika_17,,,,,,,,,,,,,,,,
-235,22CC053,SREEMATHI S,CCE,IT,Batch 2,sreemathi12,,,,,,,,,,,,,,,,
-236,22CC054,SRINIDHI P S,CCE,IT,Batch 8,Srinidhips,,,,,,,,,,,,,,,,
-237,22CC055,SUGIRTHA VARDHINI M,CCE,IT,Batch 2,sugirtha_22,,,,,,,,,,,,,,,,
-238,22CC056,SURRYA BHAARATHI S A,CCE,IT,Batch 8,surrya_18,,,,,,,,,,,,,,,,
-239,22CC057,SWETHA S,CCE,IT,Batch 2,Swetha_1122,,,,,,,,,,,,,,,,
-240,22CC058,TAMILKUMARAN N,CCE,IT,Batch 1,tamizh_17,,,,,,,,,,,,,,,,
-241,22CC059,VEDHA KAVYA SRI P,CCE,IT,Batch 8,vedhakavyasri200,,,,,,,,,,,,,,,,
-242,22CC060,VISHAL KUMAR S,CCE,IT,Batch 6,vishal____001,,,,,,,,,,,,,,,,
-243,22CC061,YALINI S,CCE,IT,Batch 6,Yalini_s,,,,,,,,,,,,,,,,
-244,22CC062,YASHWANTH B,CCE,IT,Batch 6,Yashwanth0312,,,,,,,,,,,,,,,,
-245,22CC063,YUKESH R,CCE,IT,Batch 8,yukeshcode,,,,,,,,,,,,,,,,
-246,22CC301,AJITH DAS S,CCE,CORE-EMBEDDED IOT,NON IT,Ajithdas16,,,,,,,,,,,,,,,,
-247,22CC302,RAKESH M,CCE,CORE-EMBEDDED IOT,NON IT,user5332x,,,,,,,,,,,,,,,,
-248,22CB001,AADAVAN A S,CSBS,IT,Batch 5,aadavanas,,,,,,,,,,,,,,,,
-249,22CB002,AAKASH S,CSBS,IT,Batch 5,aadavanas,,,,,,,,,,,,,,,,
-250,22CB003,AJAYPRASATH A,CSBS,IT,Batch 5,ajayprasath74,,,,,,,,,,,,,,,,
-251,22CB004,APARNA ISHWARYA S,CSBS,IT,Batch 2,Aparna_2005,,,,,,,,,,,,,,,,
-252,22CB005,ARULSELVAN M,CSBS,IT,Batch 5,0xhaider,,,,,,,,,,,,,,,,
-253,22CB006,ARYA LAKSHMI M,CSBS,IT,Batch 2,arya_lakshmi,,,,,,,,,,,,,,,,
-254,22CB007,ASVITHA S,CSBS,IT,Batch 2,asvitha_07,,,,,,,,,,,,,,,,
-255,22CB008,ASWIN B,CSBS,IT,Batch 8,aswin_b_007,,,,,,,,,,,,,,,,
-256,22CB009,ATCHAYA E S,CSBS,IT,Batch 5,atchaya95,,,,,,,,,,,,,,,,
-257,22CB010,BHARATH P,CSBS,IT,Batch 5,ft_bharath,,,,,,,,,,,,,,,,
-258,22CB011,BHOOPESH A G,CSBS,IT,Batch 8,agbhoopesh,,,,,,,,,,,,,,,,
-259,22CB012,BHUVANESWARAN M,CSBS,IT,Batch 8,bhuvaneswaran15092004,,,,,,,,,,,,,,,,
-260,22CB013,BOOPESH M,CSBS,IT,Batch 8,boopesh_6,,,,,,,,,,,,,,,,
-261,22CB014,DEEPIKA K,CSBS,IT,Batch 2,deepikak13,,,,,,,,,,,,,,,,
-262,22CB015,DHANUSUYA K,CSBS,IT,Batch 8,Dhanushya_16,,,,,,,,,,,,,,,,
-263,22CB016,DHARUN D,CSBS,IT,Batch 5,Dharun_07,,,,,,,,,,,,,,,,
-264,22CB017,DHEERANRAJ S,CSBS,IT,Batch 5,dheeran_raj,,,,,,,,,,,,,,,,
-265,22CB018,DINESH KARTHICK A,CSBS,IT,Batch 5,Dinesh_1511,,,,,,,,,,,,,,,,
-266,22CB019,DIVYAA S K,CSBS,IT,Batch 8,divyaask_2003,,,,,,,,,,,,,,,,
-267,22CB020,GOPAL N,CSBS,IT,Batch 8,Gopal_07,,,,,,,,,,,,,,,,
-268,22CB021,GOWTHAM M,CSBS,IT,Batch 8,user2254Yf,,,,,,,,,,,,,,,,
-269,22CB022,HEMA PRIYA SHREE S,CSBS,IT,Batch 5,Hemapriyashree,,,,,,,,,,,,,,,,
-270,22CB023,HOBIKA A,CSBS,IT,Batch 8,Hobika_A,,,,,,,,,,,,,,,,
-271,22CB024,INDUJAN Y,CSBS,IT,Batch 1,indujan1024,,,,,,,,,,,,,,,,
-272,22CB025,JOE ASWIN F,CSBS,IT,Batch 8,joeaswin25,,,,,,,,,,,,,,,,
-,22AD083,SANJAN U,AIDS-B,NOT INTERESTED,,#N/A,,,,,,,,,,,,,,,,
-274,22CB027,KAVIN KANNAN T,CSBS,IT,Batch 8,user8062Ap,,,,,,,,,,,,,,,,
-275,22CB028,KAVIN S,CSBS,IT,Batch 8,Kavin237,,,,,,,,,,,,,,,,
-276,22CB029,KAVIYASRI R,CSBS,IT,Batch 8,kaviyasri05,,,,,,,,,,,,,,,,
-277,22CB030,KAVSHEKAA V,CSBS,IT,Batch 8,Kavsh18,,,,,,,,,,,,,,,,
-278,22CB031,KHANISH RAM S,CSBS,IT,Batch 5,khanishram_78,,,,,,,,,,,,,,,,
-279,22CB032,LOKESH K,CSBS,IT,Batch 5,lokeshk2004,,,,,,,,,,,,,,,,
-280,22CB033,MADHUMITHA S,CSBS,IT,Batch 2,madhumitha_s20,,,,,,,,,,,,,,,,
-281,22CB034,MEGANTH KUMAAR K,CSBS,IT,Batch 5,Meganth,,,,,,,,,,,,,,,,
-282,22CB035,MOHAMMED ARSHAD S,CSBS,IT,Batch 5,Arshad_18,,,,,,,,,,,,,,,,
-283,22CB036,NANTHITHA R,CSBS,IT,Batch 8,nanthitha1214,,,,,,,,,,,,,,,,
-284,22CB037,NAVIN KUMAR R,CSBS,IT,Batch 8,Navin_14,,,,,,,,,,,,,,,,
-285,22CB038,NAWIN SHARVESH S,CSBS,IT,Batch 5,nawin0504,,,,,,,,,,,,,,,,
-286,22CB039,NHIVAS V,CSBS,IT,Batch 5,nhivas,,,,,,,,,,,,,,,,
-287,22CB040,PARTHIPAN V,CSBS,IT,Batch 5,zeffin,,,,,,,,,,,,,,,,
-288,22CB042,PIOUS K GEORGE,CSBS,IT,Batch 5,piouskg,,,,,,,,,,,,,,,,
-289,22CB043,POOJA S,CSBS,IT,Batch 5,Pooja_Sk,,,,,,,,,,,,,,,,
-290,22CB044,PRIYADARSHINI S,CSBS,IT,Batch 2,Priyadarshini__S,,,,,,,,,,,,,,,,
-291,22CB045,PRIYADHARSHINI S,CSBS,IT,Batch 2,priya_22004,,,,,,,,,,,,,,,,
-292,22CB046,RACCITHA S,CSBS,IT,Batch 8,raccitha,,,,,,,,,,,,,,,,
-293,22CB047,RACKSHANA B,CSBS,IT,Batch 1,Rackshana20,,,,,,,,,,,,,,,,
-294,22CB048,RAJARAJAN P,CSBS,IT,Batch 5,rajarajan_7,,,,,,,,,,,,,,,,
-295,22CB049,RAKESH M,CSBS,IT,Batch 5,rakeshm1218,,,,,,,,,,,,,,,,
-296,22CB050,RISHI D,CSBS,IT,Batch 5,rishid2004,,,,,,,,,,,,,,,,
-297,22CB051,ROHAN MANUEL A,CSBS,IT,Batch 1,rohanmanuel123,,,,,,,,,,,,,,,,
-298,22CB052,SANTHOSH E M,CSBS,IT,Batch 5,santhosh747,,,,,,,,,,,,,,,,
-299,22CB053,SARANYA S,CSBS,IT,Batch 8,saranya_s3092004,,,,,,,,,,,,,,,,
-300,22CB054,SENTHAMIZH SELVAN K,CSBS,IT,Batch 5,senthamizh22,,,,,,,,,,,,,,,,
-301,22CB055,SREE HARI M,CSBS,IT,Batch 8,sreehari_03,,,,,,,,,,,,,,,,
-302,22CB056,SRISHANMATHI K,CSBS,IT,Batch 5,srishanmathi13,,,,,,,,,,,,,,,,
-303,22CB057,THARIKESANI S,CSBS,IT,Batch 8,Tharikesani_S,,,,,,,,,,,,,,,,
-304,22CB058,VEDHA DIVYA SRI P,CSBS,IT,Batch 5,iamvedha,,,,,,,,,,,,,,,,
-305,22CB059,VIBHOOSHNA D M,CSBS,IT,Batch 8,DM_VIBHOOSHNA,,,,,,,,,,,,,,,,
-306,22CB060,VIJAISREE P,CSBS,IT,Batch 8,user6578nC,,,,,,,,,,,,,,,,
-307,22CB061,VIJAY SANJAY KATKAR S,CSBS,IT,Batch 5,vijaysanjay_07,,,,,,,,,,,,,,,,
-308,22CB062,VIKRAM S,CSBS,IT,Batch 5,Vikram_s002,,,,,,,,,,,,,,,,
-309,22CB063,YUVARAJ D,CSBS,IT,Batch 5,yuvaraj_04,,,,,,,,,,,,,,,,
-310,22CB301,DHANUSHYA M,CSBS,IT,Batch 5,dhanushyam,,,,,,,,,,,,,,,,
-311,22CS001,AADHAVAN P,CSE-A,IT,Batch 1,aadhavan313,,,,,,,,,,,,,,,,
-312,22CS002,AARTHI M,CSE-A,IT,Batch 4,aarthi32,,,,,,,,,,,,,,,,
-313,22CS003,AARTHI S,CSE-A,IT,Batch 1,user5364YQ,,,,,,,,,,,,,,,,
-314,22CS004,ABDUL HASEEB S,CSE-A,IT,Batch 7,abdulhaseebs,,,,,,,,,,,,,,,,
-315,22CS005,ABDUL RIJAS AHAMMED,CSE-A,IT,Batch 4,abdulrijas,,,,,,,,,,,,,,,,
-316,22CS006,ABINAYA G,CSE-A,IT,Batch 1,abinaya_g,,,,,,,,,,,,,,,,
-317,22CS007,ABINAYA M,CSE-A,IT,Batch 4,Abinaya_Murugesan,,,,,,,,,,,,,,,,
-318,22CS008,ADHITHYA A,CSE-A,IT,Batch 4,Adhithya_01,,,,,,,,,,,,,,,,
-319,22CS009,ADITHYA A,CSE-A,IT,Batch 4,adithya16,,,,,,,,,,,,,,,,
-320,22CS010,AGASH ARUN A M,CSE-A,IT,Batch 4,user8193Hv,,,,,,,,,,,,,,,,
-321,22CS011,AISHWARYA R,CSE-A,IT,Batch 2,user3825w,,,,,,,,,,,,,,,,
-322,22CS015,AKSHAI N,CSE-A,IT,Batch 4,Akshai777,,,,,,,,,,,,,,,,
-323,22CS016,AMIRTHA SWAATHINI A,CSE-A,IT,Batch 1,Amirthaswaathini,,,,,,,,,,,,,,,,
-324,22CS017,AMIRTHAVARSHNI C R,CSE-A,IT,Batch 1,amirtharavi2005,,,,,,,,,,,,,,,,
-325,22CS018,AMRUTA K S,CSE-A,IT,Batch 4,amruta2004,,,,,,,,,,,,,,,,
-326,22CS019,ANBU S,CSE-A,IT,Batch 4,Anbu09,,,,,,,,,,,,,,,,
-327,22CS020,ARAVINDH S,CSE-A,IT,Batch 4,aravindh_10,,,,,,,,,,,,,,,,
-328,22CS021,ARPITA VISWANATHAN,CSE-A,IT,Batch 7,Arpita023,,,,,,,,,,,,,,,,
-329,22CS024,ASHWIN M,CSE-A,IT,Batch 4,user4087xT,,,,,,,,,,,,,,,,
-330,22CS025,ASHWITHAA L,CSE-A,IT,Batch 7,ashwithaa_L,,,,,,,,,,,,,,,,
-331,22CS026,ASWATH C M,CSE-A,IT,Batch 1,aswathcm29,,,,,,,,,,,,,,,,
-333,22CS029,BHARATH NARAYANAN P A,CSE-A,IT,Batch 1,Bharath2277,,,,,,,,,,,,,,,,
-334,22CS030,BHUPATHI M N,CSE-A,IT,Batch 11,bhupathi_741,,,,,,,,,,,,,,,,
-335,22CS031,BHUVANESH P,CSE-A,IT,Batch 7,BHUVANESH_P,,,,,,,,,,,,,,,,
-336,22CS032,BIBIN SAMUEL NAYAGAM S,CSE-A,IT,Batch 11,bibinsamuel,,,,,,,,,,,,,,,,
-337,22CS033,CHARUBALA B,CSE-A,IT,Batch 1,user7170DP,,,,,,,,,,,,,,,,
-338,22CS034,CIBIRAJ C,CSE-A,IT,Batch 11,Cibiraj,,,,,,,,,,,,,,,,
-339,22CS035,CIBIYANNA P,CSE-A,IT,Batch 1,arulcibi007,,,,,,,,,,,,,,,,
-340,22CS036,DEEPAK PRAKASH S,CSE-A,IT,Batch 1,d_prakash_s22,,,,,,,,,,,,,,,,
-341,22CS037,DEVAYANI B,CSE-A,IT,Batch 4,DEVAYANI_B,,,,,,,,,,,,,,,,
-342,22CS038,DHANA SHEELAA S,CSE-A,IT,Batch 4,Sheelaa27,,,,,,,,,,,,,,,,
-343,22CS039,DHANUSHYA T,CSE-A,IT,Batch 4,Dhanushya_t,,,,,,,,,,,,,,,,
-344,22CS040,DHARANESWARAN V,CSE-A,IT,Batch 7,dharaneswaranv,,,,,,,,,,,,,,,,
-345,22CS042,DHARNIDHAR S,CSE-A,IT,Batch 7,dharnidhar_0723,,,,,,,,,,,,,,,,
-346,22CS043,DHARSHIKA S,CSE-A,IT,Batch 2,Dharshika11,,,,,,,,,,,,,,,,
-347,22CS044,DHARSHINI R,CSE-A,IT,Batch 4,DHARSHINI_R,,,,,,,,,,,,,,,,
-348,22CS045,DHARUN A P,CSE-A,IT,Batch 1,DharunAP,,,,,,,,,,,,,,,,
-349,22CS046,DHILIP K R,CSE-A,IT,Batch 4,dhilip975,,,,,,,,,,,,,,,,
-350,22CS047,DHIVYA S,CSE-A,IT,Batch 4,Dhivya_23,,,,,,,,,,,,,,,,
-351,22CS048,DURGA V,CSE-A,IT,Batch 4,Durga1814,,,,,,,,,,,,,,,,
-352,22CS049,ELANDHEVAN K,CSE-A,IT,Batch 11,elandhevan,,,,,,,,,,,,,,,,
-353,22CS050,ERAIANBU T,CSE-A,IT,Batch 7,ERAIANBU_T,,,,,,,,,,,,,,,,
-354,22CS051,GANESH KUMAR M,CSE-A,IT,Batch 11,Ganeshkumars_18,,,,,,,,,,,,,,,,
-355,22CS052,GAYATHRI K,CSE-A,IT,Batch 2,user5321rp,,,,,,,,,,,,,,,,
-356,22CS053,GAYATHRI V,CSE-A,IT,Batch 2,GayathriVeerasamy,,,,,,,,,,,,,,,,
-357,22CS054,GOBIKA Y,CSE-A,IT,Batch 1,user3364Bk,,,,,,,,,,,,,,,,
-358,22CS055,GRIFFIN ANNSHUAL S,CSE-A,IT,Batch 1,GriffinAnnshual04,,,,,,,,,,,,,,,,
-359,22CS056,GUHAN K,CSE-A,IT,Batch 1,Guhan0907,,,,,,,,,,,,,,,,
-360,22CS057,GURUBALAJI S,CSE-A,IT,Batch 7,gurubalaji13,,,,,,,,,,,,,,,,
-361,22CS058,HARI KRISHNAN T,CSE-A,IT,Batch 4,harikrishnant,,,,,,,,,,,,,,,,
-362,22CS060,HARINIE M,CSE-A,IT,Batch 4,user5805XA,,,,,,,,,,,,,,,,
-363,22CS061,HARSHAVARTHINI D,CSE-A,IT,Batch 4,harshavarthini_D,,,,,,,,,,,,,,,,
-365,22CS301,ABISHEIK C,CSE-A,IT,Batch 11,AbisheikCS,,,,,,,,,,,,,,,,
-366,22CS302,DEVADHARSHAN J,CSE-A,IT,Batch 11,dharshan_90,,,,,,,,,,,,,,,,
-367,22CS062,HEMARATHNA V,CSE-B,IT,Batch 4,user7196hN,,,,,,,,,,,,,,,,
-368,22CS063,ILAKKIYA S,CSE-B,IT,Batch 2,Ilakkiya_2023,,,,,,,,,,,,,,,,
-369,22CS064,JAYA GHAYATHIRI B S,CSE-B,IT,Batch 7,jaya2004,,,,,,,,,,,,,,,,
-370,22CS065,JAYASRIMEENACHI K,CSE-B,IT,Batch 7,user0939YI,,,,,,,,,,,,,,,,
-371,22CS066,JAYASUDHA T,CSE-B,IT,Batch 4,user1604qq,,,,,,,,,,,,,,,,
-372,22CS067,JAYAVARDHINI M,CSE-B,IT,Batch 1,user1922N,,,,,,,,,,,,,,,,
-373,22CS068,JAYSHREE R,CSE-B,IT,Batch 4,user2099DM,,,,,,,,,,,,,,,,
-374,22CS069,JEEVIKA G,CSE-B,IT,Batch 7,jeevika21,,,,,,,,,,,,,,,,
-375,22CS070,JEGATHEESHAN R,CSE-B,IT,Batch 7,Jegatheeshan,,,,,,,,,,,,,,,,
-376,22CS072,KAMALI V M,CSE-B,IT,Batch 7,kamalivm,,,,,,,,,,,,,,,,
-377,22CS073,KANISHKASREE R,CSE-B,IT,Batch 2,user1585Rj,,,,,,,,,,,,,,,,
-378,22CS075,KARTHI A S,CSE-B,IT,Batch 7,user6180on,,,,,,,,,,,,,,,,
-379,22CS076,KARTHICK K,CSE-B,IT,Batch 7,user1798YF,,,,,,,,,,,,,,,,
-380,22CS077,KARTHIGEYAN T,CSE-B,IT,Batch 7,karthigeyan-T,,,,,,,,,,,,,,,,
-381,22CS078,KASIRAM R,CSE-B,IT,Batch 4,kasiram_001,,,,,,,,,,,,,,,,
-382,22CS079,KAVIN M,CSE-B,IT,Batch 4,Kavin_420,,,,,,,,,,,,,,,,
-383,22CS080,KAVIN RAJ T J,CSE-B,IT,Batch 4,kavinrajtj29,,,,,,,,,,,,,,,,
-384,22CS081,KAVINRAJ E,CSE-B,IT,Batch 7,kavinraj15,,,,,,,,,,,,,,,,
-385,22CS082,KAVIRAJAN P,CSE-B,IT,Batch 11,user8502Ql,,,,,,,,,,,,,,,,
-386,22CS083,KAVIYA R,CSE-B,IT,Batch 4,kaviya_Raja,,,,,,,,,,,,,,,,
-387,22CS084,KEERTHANA R,CSE-B,IT,Batch 7,user7393Gf,,,,,,,,,,,,,,,,
-388,22CS085,KEERTHICK RAGUL R,CSE-B,IT,Batch 4,Keerthick_ragul,,,,,,,,,,,,,,,,
-389,22CS086,KEERTHIKKA S,CSE-B,IT,Batch 4,keerthikkas,,,,,,,,,,,,,,,,
-390,22CS087,KERAN LORETTA D,CSE-B,IT,Batch 7,keranloretta,,,,,,,,,,,,,,,,
-391,22CS088,KIRUTHIHASHREE S,CSE-B,IT,Batch 2,user7565Tw,,,,,,,,,,,,,,,,
-392,22CS089,KISHORE KUMAR K,CSE-B,IT,Batch 1,kishorekumark07_,,,,,,,,,,,,,,,,
-393,22CS090,KISHORE P,CSE-B,IT,Batch 4,kishore762k4,,,,,,,,,,,,,,,,
-394,22CS091,KISHORKUMAR K,CSE-B,IT,Batch 4,kishorkumar_01,,,,,,,,,,,,,,,,
-395,22CS092,KOUSHIKA T,CSE-B,IT,Batch 11,koushika2912,,,,,,,,,,,,,,,,
-396,22CS093,LAKSHMIPATHI SRINIVAS S,CSE-B,IT,Batch 4,Srinivas04,,,,,,,,,,,,,,,,
-397,22CS094,LAXMAN P,CSE-B,IT,Batch 1,laxmanpanjalingam2004,,,,,,,,,,,,,,,,
-398,22CS095,LINGESHKUMAR P,CSE-B,IT,Batch 4,Lingeshkumar_p,,,,,,,,,,,,,,,,
-399,22CS096,LINGESHWARAN K V,CSE-B,IT,Batch 1,lingeshwaran_07,,,,,,,,,,,,,,,,
-400,22CS097,MADHU SRI P S,CSE-B,IT,Batch 2,Madhu_sri02,,,,,,,,,,,,,,,,
-401,22CS098,MAGISHA G,CSE-B,IT,Batch 4,Magisha_Gopal,,,,,,,,,,,,,,,,
-402,22CS099,MAHESHKUMAR G,CSE-B,IT,Batch 11,user1932A,,,,,,,,,,,,,,,,
-403,22CS100,MANJU G T,CSE-B,IT,Batch 4,manju_1004,,,,,,,,,,,,,,,,
-404,22CS101,MEGANATHAN V,CSE-B,IT,Batch 7,Meganathanv2005,,,,,,,,,,,,,,,,
-405,22CS102,MESHAAK R,CSE-B,IT,Batch 11,meshaak25,,,,,,,,,,,,,,,,
-406,22CS103,MITHUNES V,CSE-B,IT,Batch 4,mithunes,,,,,,,,,,,,,,,,
-407,22CS104,MOHAMMED ASHIF A,CSE-B,IT,Batch 1,ashif_05,,,,,,,,,,,,,,,,
-408,22CS105,MOHAMMED SAFIK M,CSE-B,IT,Batch 7,user7901aJ,,,,,,,,,,,,,,,,
-409,22CS107,MONICA M,CSE-B,IT,Batch 2,MonicaMuthu,,,,,,,,,,,,,,,,
-410,22CS108,MONISA R J,CSE-B,IT,Batch 11,monisa21,,,,,,,,,,,,,,,,
-411,22CS109,MUKESH KUMAR B,CSE-B,IT,Batch 7,Mukeshkumar18,,,,,,,,,,,,,,,,
-412,22CS110,MURUGA PERUMAL R,CSE-B,IT,Batch 1,murugapemal1,,,,,,,,,,,,,,,,
-413,22CS111,NASVIN M,CSE-B,IT,Batch 7,Nasvin22,,,,,,,,,,,,,,,,
-414,22CS112,NAVIN J,CSE-B,IT,Batch 4,navin07,,,,,,,,,,,,,,,,
-415,22CS113,NIKIL RAGAVI C T,CSE-B,IT,Batch 7,Nikil_Ragavi07,,,,,,,,,,,,,,,,
-416,22CS114,NIRMAL S,CSE-B,IT,Batch 11,nirmal92,,,,,,,,,,,,,,,,
-417,22CS115,NITHAN ANTO J,CSE-B,IT,Batch 4,nithanantoj55,,,,,,,,,,,,,,,,
-418,22CS117,NITHINKUMAR R S,CSE-B,IT,Batch 7,nithin_11,,,,,,,,,,,,,,,,
-419,22CS118,NITHISH KUMAR S,CSE-B,IT,Batch 7,Nithish_Rayson,,,,,,,,,,,,,,,,
-420,22CS119,NITHIYA PRABHA R,CSE-B,IT,Batch 2,nithiyaprabha5,,,,,,,,,,,,,,,,
-421,22CS120,OVIYAA B,CSE-B,IT,Batch 2,Oviyaa_17,,,,,,,,,,,,,,,,
-422,22CS121,PAVITHRA J,CSE-B,IT,Batch 11,Pavithra__j,,,,,,,,,,,,,,,,
-423,22CS122,POORANIDEVI S,CSE-B,IT,Batch 7,pooranidevi_08,,,,,,,,,,,,,,,,
-424,22CS303,KAVINKUMAR S,CSE-B,IT,Batch 7,kavinkumar133,,,,,,,,,,,,,,,,
-425,22CS304,PRABHAKARAN S,CSE-B,IT,Batch 7,prabhakaran0018,,,,,,,,,,,,,,,,
-426,22CS305,SRIMATHI PRIYA M,CSE-B,IT,Batch 11,srimathipriya_m,,,,,,,,,,,,,,,,
-427,22CS123,PRADEESHVAR M,CSE-C,IT,Batch 7,pradeeshvar,,,,,,,,,,,,,,,,
-428,22CS124,PRANAV R,CSE-C,IT,Batch 7,user2370mM,,,,,,,,,,,,,,,,
-429,22CS125,PRATHIKSHA D,CSE-C,IT,Batch 2,prathiksha___12,,,,,,,,,,,,,,,,
-430,22CS126,PREDEEPKUMAR U S,CSE-C,IT,Batch 1,predeep_464,,,,,,,,,,,,,,,,
-431,22CS127,PRITHIVIRAJ R,CSE-C,IT,Batch 4,Prithiviraj_23102005,,,,,,,,,,,,,,,,
-432,22CS128,PRIYANKA B,CSE-C,IT,Batch 7,priyankabala,,,,,,,,,,,,,,,,
-433,22CS129,PURNIMA S,CSE-C,IT,Batch 7,Purnima07,,,,,,,,,,,,,,,,
-434,22CS130,RAGAPRIYA K,CSE-C,IT,Batch 4,ragaspace2004,,,,,,,,,,,,,,,,
-435,22CS131,RAGHUL M,CSE-C,IT,Batch 7,user5166tE,,,,,,,,,,,,,,,,
-436,22CS132,RAJKUMAR V,CSE-C,IT,Batch 4,rajkumar_v,,,,,,,,,,,,,,,,
-437,22CS133,RAJVIKASH R,CSE-C,IT,NON IT,rajvikash_xo,,,,,,,,,,,,,,,,
-438,22CS134,RANGESH S,CSE-C,IT,Batch 7,rahulrangesh,,,,,,,,,,,,,,,,
-439,22CS135,RASHMIKA T J,CSE-C,IT,Batch 7,rashmika_04,,,,,,,,,,,,,,,,
-440,22CS136,RAVI KUMAR K,CSE-C,IT,Batch 7,ravi019,,,,,,,,,,,,,,,,
-441,22CS137,RISHI RAJ N R,CSE-C,IT,Batch 4,rishiraj_nr20221,,,,,,,,,,,,,,,,
-442,22CS138,RISHITHA M,CSE-C,IT,Batch 7,rishitha_20,,,,,,,,,,,,,,,,
-443,22CS139,RITHDESH S K,CSE-C,IT,Batch 11,Rithdesh,,,,,,,,,,,,,,,,
-444,22CS140,RITHIGA V,CSE-C,IT,Batch 4,RITHIGA_V,,,,,,,,,,,,,,,,
-445,22CS141,RITHU ADIN G,CSE-C,IT,Batch 7,rithuadin06,,,,,,,,,,,,,,,,
-446,22CS142,RIZWANA S,CSE-C,IT,Batch 7,rizwana_04,,,,,,,,,,,,,,,,
-447,22CS143,SABARI KRISHNAN B R,CSE-C,IT,Batch 4,sabarikrishnan_2004,,,,,,,,,,,,,,,,
-448,22CS144,SABARIKANTH S,CSE-C,IT,Batch 7,user3707bb,,,,,,,,,,,,,,,,
-449,22CS145,SAKTHI M,CSE-C,IT,Batch 2,Sakthi21,,,,,,,,,,,,,,,,
-450,22CS146,SAKTHIVEL C,CSE-C,IT,Batch 11,sakthivel_926,,,,,,,,,,,,,,,,
-451,22CS147,SAMBATHKUMAR K,CSE-C,IT,Batch 11,sambathkumar_07,,,,,,,,,,,,,,,,
-452,22CS148,SANJAI B,CSE-C,IT,Batch 7,sanjaib,,,,,,,,,,,,,,,,
-453,22CS149,SARATH S,CSE-C,IT,Batch 1,Sarath_67,,,,,,,,,,,,,,,,
-454,22CS150,SARAVANA PERUMAL K,CSE-C,IT,Batch 11,Saravanaperumal_1001,,,,,,,,,,,,,,,,
-455,22CS151,SATHPRITHIKA S,CSE-C,IT,Batch 2,Sathprithikas,,,,,,,,,,,,,,,,
-456,22CS152,SHANOFA S,CSE-C,IT,Batch 4,user0725nZ,,,,,,,,,,,,,,,,
-457,22CS153,SHIBIKASRI G,CSE-C,IT,Batch 7,shibikasrig,,,,,,,,,,,,,,,,
-458,22CS154,SHIVANISREE N,CSE-C,IT,Batch 7,Winchester_07,,,,,,,,,,,,,,,,
-459,22CS155,SHREYA R,CSE-C,IT,Batch 7,Shreya0101,,,,,,,,,,,,,,,,
-460,22CS156,SIVA E,CSE-C,IT,Batch 4,SIVA__001,,,,,,,,,,,,,,,,
-461,22CS157,SIVANESH V,CSE-C,IT,Batch 11,sivanesh__07,,,,,,,,,,,,,,,,
-462,22CS159,SIVASAKTHI N,CSE-C,IT,Batch 4,sivasakthi_37,,,,,,,,,,,,,,,,
-463,22CS160,SRI SHAHITHYA T,CSE-C,IT,Batch 7,SriShahithya,,,,,,,,,,,,,,,,
-464,22CS162,SRINIVASAN N,CSE-C,IT,Batch 11,srininsv,,,,,,,,,,,,,,,,
-465,22CS165,SURYAVARSHINI K B,CSE-C,IT,Batch 7,suryavarshini,,,,,,,,,,,,,,,,
-466,22CS166,SWETHA A,CSE-C,IT,Batch 2,swetha9524,,,,,,,,,,,,,,,,
-467,22CS167,SWETHA N,CSE-C,IT,Batch 2,swetha1384,,,,,,,,,,,,,,,,
-468,22CS168,SYAM SUNDAR M,CSE-C,IT,Batch 11,user1620cQ,,,,,,,,,,,,,,,,
-469,22CS169,TAMIZHANBAN N,CSE-C,IT,Batch 4,user9101XC,,,,,,,,,,,,,,,,
-470,22CS170,TEJA SAI T G,CSE-C,IT,Batch 4,teja_lc,,,,,,,,,,,,,,,,
-471,22CS173,THIKSHA RUBINI S,CSE-C,IT,Batch 4,thiksha05,,,,,,,,,,,,,,,,
-472,22CS174,UTHAYAA M,CSE-C,IT,Batch 11,uthayaa,,,,,,,,,,,,,,,,
-473,22CS175,VASANTH K,CSE-C,IT,Batch 7,vasanth_003,,,,,,,,,,,,,,,,
-474,22CS176,VEKKASH U S,CSE-C,IT,Batch 7,vekkash,,,,,,,,,,,,,,,,
-475,22CS177,VETHAVARSHINI R,CSE-C,IT,Batch 4,vethavarshini,,,,,,,,,,,,,,,,
-476,22CS178,VIDESH R V,CSE-C,IT,Batch 4,videsh,,,,,,,,,,,,,,,,
-477,22CS179,VIGNEESH KUMAR B,CSE-C,IT,Batch 11,vigneeshkumar,,,,,,,,,,,,,,,,
-478,22CS180,VIJETA VAISNAVI T,CSE-C,IT,Batch 2,vijeta0410,,,,,,,,,,,,,,,,
-479,22CS181,VINCY J,CSE-C,IT,Batch 7,Vincy_J,,,,,,,,,,,,,,,,
-480,22CS182,VISHAKA DHESHINI G,CSE-C,IT,Batch 7,Vishaka_Dheshini,,,,,,,,,,,,,,,,
-481,22CS183,VISHVA BHARATHI G,CSE-C,IT,Batch 4,Vishvabharathi_08,,,,,,,,,,,,,,,,
-482,22CS184,YOGESHWARAN R,CSE-C,IT,Batch 11,yogesh_2004,,,,,,,,,,,,,,,,
-483,22CS306,SUBESH R,CSE-C,IT,Batch 7,user7898Li,,,,,,,,,,,,,,,,
-484,22CS307,YOGESHWARAN R,CSE-C,IT,Batch 7,user8263oO,,,,,,,,,,,,,,,,
-485,22CS501,VISHNU PRIYA S,CSE-C,IT,Batch 4,Vishnu2004,,,,,,,,,,,,,,,,
-486,22EC001,AATHITHYA R,ECE-A,IT,Batch 6,mraathi08,,,,,,,,,,,,,,,,
-487,22EC002,ABINAV G,ECE-A,IT,Batch 6,abinavg2207,,,,,,,,,,,,,,,,
-488,22EC003,ABISHEK K,ECE-A,CORE-NETWORKING,Batch 13,abishekkrishnan,,,,,,,,,,,,,,,,
-489,22EC004,AJAY BOOPATHY K,ECE-A,CORE-VLSI,NON IT,Ajay_Boopathy-K,,,,,,,,,,,,,,,,
-490,22EC005,AJIETH KUMAR V P,ECE-A,CORE-VLSI,NON IT,AJIETH_KUMAR-V-P,,,,,,,,,,,,,,,,
-491,22EC006,AKILAN N,ECE-A,CORE-NETWORKING,Batch 13,akilan2022ece,,,,,,,,,,,,,,,,
-492,22EC007,AKSHAYA J,ECE-A,IT,Batch 2,AkshayaSece,,,,,,,,,,,,,,,,
-493,22EC008,AMITH SRIRAM A,ECE-A,IT,Batch 9,amithsrirama20,,,,,,,,,,,,,,,,
-494,22EC009,ARAVIND S,ECE-A,CORE-NETWORKING,Batch 13,Aravind29,,,,,,,,,,,,,,,,
-495,22EC011,ARUN PRASAATH G,ECE-A,CORE-EMBEDDED IOT,NON IT,ARUN_PRASAATH_G,,,,,,,,,,,,,,,,
-496,22EC012,ASWIN M A,ECE-A,IT,Batch 1,maaswin02,,,,,,,,,,,,,,,,
-497,22EC013,ATHISH M,ECE-A,CORE-NETWORKING,Batch 13,Aathi_Sece,,,,,,,,,,,,,,,,
-498,22EC014,AVINATH S,ECE-A,CORE-EMBEDDED IOT,NON IT,Avinath S,,,,,,,,,,,,,,,,
-499,22EC015,BARANI PRIYADHARSHINI A,ECE-A,IT,Batch 9,Barani_09_11,,,,,,,,,,,,,,,,
-500,22EC016,BHARATHI A,ECE-A,IT,Batch 2,bharathisri,,,,,,,,,,,,,,,,
-501,22EC017,BHUVANESHWARI V,ECE-A,IT,Batch 9,Bhuvaneshwarivijaykumar,,,,,,,,,,,,,,,,
-502,22EC018,BRINDHA V,ECE-A,CORE-EMBEDDED IOT,NON IT,BrindhaV,,,,,,,,,,,,,,,,
-503,22EC019,BRITTO C,ECE-A,IT,Batch 1,brittocr17,,,,,,,,,,,,,,,,
-504,22EC020,CHARU LEELA L,ECE-A,IT,Batch 6,Charuleela04,,,,,,,,,,,,,,,,
-505,22EC021,DANIEL ANDROSE P,ECE-A,IT,Batch 6,Daniel_Androse,,,,,,,,,,,,,,,,
-506,22EC022,DEEPAK RAJAN P,ECE-A,CORE-EMBEDDED IOT,NON IT,Deepak_Rajan-07,,,,,,,,,,,,,,,,
-507,22EC023,DHANUSHWARAN S,ECE-A,IT,Batch 6,dhanushwaran2004,,,,,,,,,,,,,,,,
-508,22EC024,DHARANI G,ECE-A,IT,Batch 6,dharanig2809,,,,,,,,,,,,,,,,
-509,22EC025,DHASANA A,ECE-A,CORE-EMBEDDED IOT,NON IT,Dhasanaec,,,,,,,,,,,,,,,,
-510,22EC026,DHIVYA M,ECE-A,CORE-NETWORKING,Batch 13,dhivyam,,,,,,,,,,,,,,,,
-511,22EC027,DINESH KUMAR L,ECE-A,IT,Batch 6,DineshKumarL,,,,,,,,,,,,,,,,
-512,22EC028,DURGANANDHINI V,ECE-A,IT,Batch 9,Durganandhini_7,,,,,,,,,,,,,,,,
-513,22EC030,GAYATHRI V,ECE-A,CORE-EMBEDDED IOT,NON IT,gayathri1210,,,,,,,,,,,,,,,,
-514,22EC031,GIRIRAJ S,ECE-A,IT,Batch 9,giriraj07,,,,,,,,,,,,,,,,
-515,22EC032,GIRITHARAN A,ECE-A,CORE-NETWORKING,Batch 13,giritharan900,,,,,,,,,,,,,,,,
-516,22EC033,GOBI KISHORE S,ECE-A,CORE-EMBEDDED IOT,NON IT,gobikishore,,,,,,,,,,,,,,,,
-517,22EC034,GOKUL AMIRTH V,ECE-A,IT,Batch 9,user7795zX,,,,,,,,,,,,,,,,
-518,22EC035,GOKULNATH D,ECE-A,CORE-NETWORKING,Batch 13,gokulnath_2589,,,,,,,,,,,,,,,,
-519,22EC036,GOWSHIK M,ECE-A,IT,Batch 9,Gowshik_M,,,,,,,,,,,,,,,,
-520,22EC037,GURU PRASATH E,ECE-A,IT,Batch 9,guruprasath12,,,,,,,,,,,,,,,,
-521,22EC038,HANSHAN KUMAR B,ECE-A,IT,Batch 6,Hanshan_2k114,,,,,,,,,,,,,,,,
-522,22EC039,HARI HARA SUDHAN J,ECE-A,IT,Batch 9,HariHaraSudhan039,,,,,,,,,,,,,,,,
-523,22EC040,HARIHARAN S,ECE-A,CORE-NETWORKING,Batch 13,Hariharan__S,,,,,,,,,,,,,,,,
-524,22EC041,HARINI K,ECE-A,IT,Batch 6,user2980xz,,,,,,,,,,,,,,,,
-525,22EC042,HARINI S,ECE-A,CORE-NETWORKING,Batch 13,harinis28,,,,,,,,,,,,,,,,
-526,22EC043,HARINI S S,ECE-A,CORE-EMBEDDED IOT,NON IT,harini42,,,,,,,,,,,,,,,,
-527,22EC044,HARINI V,ECE-A,CORE-EMBEDDED IOT,NON IT,hariniv2004,,,,,,,,,,,,,,,,
-528,22EC045,HARISH M,ECE-A,CORE-NETWORKING,Batch 13,harish0610_sece,,,,,,,,,,,,,,,,
-529,22EC046,HARIYESWANTH S,ECE-A,IT,Batch 6,hariyeswanths,,,,,,,,,,,,,,,,
-530,22EC047,INBAARUNRAJ D,ECE-A,IT,Batch 9,Inba07,,,,,,,,,,,,,,,,
-531,22EC048,JANARTHANAN G,ECE-A,CORE-EMBEDDED IOT,NON IT,janarthanan03,,,,,,,,,,,,,,,,
-532,22EC049,JAYA PRAKASH N,ECE-A,IT,Batch 9,Jayaprakash1703,,,,,,,,,,,,,,,,
-533,22EC051,KALPAKA S G,ECE-A,CORE-EMBEDDED IOT,NON IT,kalpaka_k,,,,,,,,,,,,,,,,
-534,22EC052,KAMALNATH K,ECE-A,CORE-NETWORKING,Batch 13,user0283Zz,,,,,,,,,,,,,,,,
-535,22EC054,KANOJ SAIRAM S A,ECE-A,IT,Batch 9,Kanojsairam,,,,,,,,,,,,,,,,
-536,22EC055,KARISHMA T J,ECE-A,CORE-NETWORKING,Batch 13,karishmatj01,,,,,,,,,,,,,,,,
-537,22EC056,KARNA M,ECE-A,CORE-NETWORKING,Batch 13,karna77,,,,,,,,,,,,,,,,
-538,22EC057,KAVIN N,ECE-A,IT,Batch 9,user6881zW,,,,,,,,,,,,,,,,
-539,22EC058,KAVINAYA S,ECE-A,IT,Batch 6,kavinaya_subramaniam,,,,,,,,,,,,,,,,
-540,22EC059,KAVIYA P,ECE-A,IT,Batch 2,kaviyap765,,,,,,,,,,,,,,,,
-541,22EC062,KEERTHANA P,ECE-A,CORE-EMBEDDED IOT,NON IT,keerthana_p11,,,,,,,,,,,,,,,,
-542,22EC063,KEERTI MADHUVANTIKA A,ECE-A,CORE-EMBEDDED IOT,NON IT,keertimadhuvantika,,,,,,,,,,,,,,,,
-543,22EC301,ANANDHAKUMAR T,ECE-A,CORE-EMBEDDED IOT,NON IT,Anandhakumar07,,,,,,,,,,,,,,,,
-544,22EC302,DEEPAK S,ECE-A,CORE-EMBEDDED IOT,NON IT,deepaks_04,,,,,,,,,,,,,,,,
-545,22EC303,DHARANEESH J,ECE-A,IT,Batch 9,dharaneesh_j,,,,,,,,,,,,,,,,
-546,22EC064,KUMARAN K,ECE-B,IT,Batch 6,Kumaran-K,,,,,,,,,,,,,,,,
-547,22EC065,LAKSHANA S,ECE-B,CORE-NETWORKING,Batch 13,laks0202,,,,,,,,,,,,,,,,
-548,22EC066,LINGESWARAN V,ECE-B,IT,Batch 6,lingeswaran7,,,,,,,,,,,,,,,,
-549,22EC067,LOGITHA LUCKSHMI V J,ECE-B,IT,Batch 11,logithaluckshmi,,,,,,,,,,,,,,,,
-550,22EC068,MADESH A S,ECE-B,CORE-EMBEDDED IOT,NON IT,Madesh-AS,,,,,,,,,,,,,,,,
-551,22EC069,MAHALAKSHMI S,ECE-B,IT,Batch 6,Mahalakshmi2624,,,,,,,,,,,,,,,,
-552,22EC070,MAHER SHALAL J,ECE-B,CORE-CYBERSECURITY,Batch 13,Maher_Shalal,,,,,,,,,,,,,,,,
-553,22EC071,MAHESH U,ECE-B,IT,Batch 11,mahesh_high,,,,,,,,,,,,,,,,
-554,22EC072,MANMOHAN S,ECE-B,CORE-NETWORKING,Batch 13,its_manmohan,,,,,,,,,,,,,,,,
-555,22EC073,MANOJ JEGAN D,ECE-B,IT,Batch 6,Manojjegan,,,,,,,,,,,,,,,,
-556,22EC074,MANOJ KANNAN M,ECE-B,IT,Batch 11,manojkannanM,,,,,,,,,,,,,,,,
-557,22EC075,MATHANKUMAR E K,ECE-B,CORE-NETWORKING,Batch 13,mathankumarE,,,,,,,,,,,,,,,,
-558,22EC076,MEHAA C E,ECE-B,CORE-NETWORKING,Batch 13,Mehaa_22,,,,,,,,,,,,,,,,
-559,22EC077,MIDHUN R,ECE-B,CORE-NETWORKING,Batch 13,MidhunR,,,,,,,,,,,,,,,,
-560,22EC078,MIDUN KUMAR H,ECE-B,CORE-NETWORKING,Batch 13,midunkumar,,,,,,,,,,,,,,,,
-561,22EC079,MIRNALINI P,ECE-B,IT,Batch 6,P-MIRNALINI,,,,,,,,,,,,,,,,
-562,22EC080,MITHUN BALAAJI J,ECE-B,CORE-NETWORKING,Batch 13,Mithun_Balaaji,,,,,,,,,,,,,,,,
-563,22EC081,MOHAMED RUSAAM S,ECE-B,IT,Batch 11,Mohamed_Rusaam,,,,,,,,,,,,,,,,
-564,22EC082,MOHAMMED SHAMEEM S,ECE-B,CORE-CYBERSECURITY,Batch 13,Mohammed_Shameem_S,,,,,,,,,,,,,,,,
-565,22EC083,MOHAMMED YASEEN M,ECE-B,CORE-NETWORKING,Batch 13,Yaseen_m_123,,,,,,,,,,,,,,,,
-566,22EC084,MOHANAPRIYA J,ECE-B,IT,Batch 11,Mohana_priya10,,,,,,,,,,,,,,,,
-567,22EC085,MONIKA SHREE S M,ECE-B,IT,Batch 2,Monika_Marimuthu,,,,,,,,,,,,,,,,
-568,22EC086,NAGALAKSHMI S,ECE-B,CORE-NETWORKING,Batch 13,Nagalakshmi_S,,,,,,,,,,,,,,,,
-569,22EC087,NANDHAKISHORE C,ECE-B,CORE-EMBEDDED IOT,NON IT,gomathikishore2005,,,,,,,,,,,,,,,,
-570,22EC088,NANDHINI S,ECE-B,IT,Batch 11,Nandhini_nandy,,,,,,,,,,,,,,,,
-571,22EC089,NARESH R,ECE-B,IT,Batch 6,nareshr2005,,,,,,,,,,,,,,,,
-,22AD125,YASWANTH SARAN SUNDAR P,AIDS-B,NOT INTERESTED,,Yash_pavakie,,,,,,,,,,,,,,,,
-573,22EC091,NAVANEETHAN C K,ECE-B,CORE-EMBEDDED IOT,NON IT,Cknavanee1,,,,,,,,,,,,,,,,
-574,22EC092,NAVEEN KUMAR S,ECE-B,IT,Batch 6,naveenkumar24s,,,,,,,,,,,,,,,,
-575,22EC093,NAVEEN P R,ECE-B,CORE-NETWORKING,Batch 13,naveen7413,,,,,,,,,,,,,,,,
-576,22EC094,NAVIN KHUMAR S,ECE-B,CORE-NETWORKING,Batch 13,navinkhumar,,,,,,,,,,,,,,,,
-577,22EC095,NIJANTHAN V,ECE-B,IT,Batch 11,Nijanthan03,,,,,,,,,,,,,,,,
-578,22EC096,NIKHILESH S,ECE-B,CORE-NETWORKING,Batch 13,Nikhilesh20,,,,,,,,,,,,,,,,
-579,22EC097,NIRANJAN D,ECE-B,CORE-NETWORKING,Batch 13,niranjan1818,,,,,,,,,,,,,,,,
-580,22EC098,NIRMAL R,ECE-B,CORE-VLSI,NON IT,nirmalr_02,,,,,,,,,,,,,,,,
-581,22EC099,NITHISH V,ECE-B,CORE-NETWORKING,Batch 13,Nithish_V,,,,,,,,,,,,,,,,
-582,22EC100,NITHIYA R,ECE-B,IT,Batch 6,nithiya_27,,,,,,,,,,,,,,,,
-583,22EC101,PARNIKABHAVAHAARINI V,ECE-B,CORE-VLSI,NON IT,Parnika,,,,,,,,,,,,,,,,
-584,22EC102,PAVAN KHALYAN S,ECE-B,IT,Batch 11,pavankhalyan,,,,,,,,,,,,,,,,
-585,22EC103,PAVITHRA R,ECE-B,IT,Batch 6,pavithra_r2005,,,,,,,,,,,,,,,,
-586,22EC104,PAVITHRA V,ECE-B,CORE-NETWORKING,Batch 13,Pavithra__V,,,,,,,,,,,,,,,,
-587,22EC105,PRAJITH R,ECE-B,IT,Batch 11,prajith45,,,,,,,,,,,,,,,,
-588,22EC106,PRANESH S,ECE-B,IT,Batch 6,pranesh290405,,,,,,,,,,,,,,,,
-589,22EC107,PRASAANTH K Y,ECE-B,IT,Batch 11,Prasaanth-mrleetcoder,,,,,,,,,,,,,,,,
-590,22EC108,PRATHEESHBA B,ECE-B,IT,Batch 11,pratheeshba,,,,,,,,,,,,,,,,
-591,22EC109,PRAVEENA G,ECE-B,IT,Batch 11,praveena_g,,,,,,,,,,,,,,,,
-592,22EC110,PREETHI S,ECE-B,IT,Batch 11,Preethi-22,,,,,,,,,,,,,,,,
-593,22EC111,PREMKUMAR R,ECE-B,IT,Batch 6,prem6065kumar,,,,,,,,,,,,,,,,
-594,22EC112,PRITHIKSHAN S,ECE-B,CORE-NETWORKING,Batch 13,prithikshan,,,,,,,,,,,,,,,,
-595,22EC113,RAGESH KUMAR S,ECE-B,CORE-EMBEDDED IOT,NON IT,rageshkumar_06,,,,,,,,,,,,,,,,
-596,22EC114,RAGUL G,ECE-B,IT,Batch 6,ragul2818,,,,,,,,,,,,,,,,
-597,22EC115,RAGUL PRASANTH R,ECE-B,CORE-EMBEDDED IOT,NON IT,Ragul prasanthr,,,,,,,,,,,,,,,,
-598,22EC116,RAHUL V,ECE-B,IT,Batch 11,rahulkutty,,,,,,,,,,,,,,,,
-599,22EC118,RAJASHREE P,ECE-B,IT,Batch 6,raja-shree,,,,,,,,,,,,,,,,
-600,22EC119,RAJESH KUMAR E,ECE-B,CORE-EMBEDDED IOT,NON IT,mr_himalayan_soul,,,,,,,,,,,,,,,,
-601,22EC120,RAKSANASRI S,ECE-B,IT,Batch 11,raksanasri16,,,,,,,,,,,,,,,,
-602,22EC122,RANJITHA T,ECE-B,IT,Batch 6,Ranjitha_T,,,,,,,,,,,,,,,,
-603,22EC123,REKASHINI G,ECE-B,CORE-EMBEDDED IOT,NON IT,Rekashini_g,,,,,,,,,,,,,,,,
-604,22EC124,REVANTH R,ECE-B,IT,Batch 6,revanth28,,,,,,,,,,,,,,,,
-605,22EC125,RISHIKESH G S,ECE-B,CORE-VLSI,NON IT,rishikesh_006,,,,,,,,,,,,,,,,
-606,22EC126,RIYAS AHAMED M,ECE-B,CORE-EMBEDDED IOT,NON IT,Riyasahamed,,,,,,,,,,,,,,,,
-607,22EC127,ROHITH A M,ECE-B,CORE-NETWORKING,Batch 13,Eaglerohith,,,,,,,,,,,,,,,,
-,22AM006,BHARANI DHARAN M,AIML,NOT INTERESTED,,,,,,,,,,,,,,,,,,
-609,22EC128,RUPASRI D,ECE-C,CORE-NETWORKING,Batch 13,drupasri18,,,,,,,,,,,,,,,,
-610,22EC129,RUTHRA GANAPATHY R,ECE-C,CORE-NETWORKING,Batch 13,ruthra2005,,,,,,,,,,,,,,,,
-611,22EC130,RUTHRESH T,ECE-C,CORE-EMBEDDED IOT,NON IT,ruthresht,,,,,,,,,,,,,,,,
-612,22EC131,SABHAREESWARAN S,ECE-C,CORE-EMBEDDED IOT,Core,Sabhareeswaran,,,,,,,,,,,,,,,,
-613,22EC132,SABIDHARSHINI P S,ECE-C,IT,Batch 6,sabidharshini,,,,,,,,,,,,,,,,
-614,22EC133,SAI AKSHHAYAA M P,ECE-C,IT,Batch 6,saiakshhayaa,,,,,,,,,,,,,,,,
-615,22EC134,SAKTHI PRASAD M,ECE-C,IT,Batch 9,sakthi_2004,,,,,,,,,,,,,,,,
-616,22EC135,SANDHIYA R,ECE-C,CORE-VLSI,NON IT,rsandhiya031,,,,,,,,,,,,,,,,
-617,22EC136,SANJAI M S,ECE-C,CORE-EMBEDDED IOT,NON IT,mssanjai22,,,,,,,,,,,,,,,,
-618,22EC137,SANJAY E,ECE-C,CORE-EMBEDDED IOT,NON IT,sanjayE,,,,,,,,,,,,,,,,
-619,22EC138,SANJAY PRAKASH B,ECE-C,IT,Batch 6,Sanjayprakash27,,,,,,,,,,,,,,,,
-620,22EC139,SANJAY S,ECE-C,IT,Batch 6,SanjayCodes27,,,,,,,,,,,,,,,,
-621,22EC140,SANJEEV R M,ECE-C,CORE-EMBEDDED IOT,NON IT,SANJEEV-RM,,,,,,,,,,,,,,,,
-622,22EC141,SANTHA LAKSHMI S,ECE-C,CORE-EMBEDDED IOT,NON IT,santha237,,,,,,,,,,,,,,,,
-623,22EC142,SANTHOSH D,ECE-C,IT,Batch 9,santhosh6867,,,,,,,,,,,,,,,,
-624,22EC143,SANTHOSH N,ECE-C,CORE-EMBEDDED IOT,NON IT,santhosh_n2004,,,,,,,,,,,,,,,,
-625,22EC144,SANTHOSHKUMAR R,ECE-C,IT,Batch 6,santhosh5424,,,,,,,,,,,,,,,,
-626,22EC145,SARAN K,ECE-C,IT,Batch 6,saran_2004,,,,,,,,,,,,,,,,
-627,22EC146,SARATH S,ECE-C,CORE-NETWORKING,Batch 13,grey-4,,,,,,,,,,,,,,,,
-628,22EC147,SARAVANA PERUMAL S,ECE-C,CORE-NETWORKING,Batch 13,saravana_330,,,,,,,,,,,,,,,,
-629,22EC148,SARITHA J,ECE-C,CORE-VLSI,NON IT,Saritha_j,,,,,,,,,,,,,,,,
-630,22EC149,SELVABALAKRISHNAN V,ECE-C,CORE-EMBEDDED IOT,Core,SELVABALAKRISHNANVECE,,,,,,,,,,,,,,,,
-631,22EC150,SHANJITH V,ECE-C,IT,Batch 6,user5554Zu,,,,,,,,,,,,,,,,
-632,22EC151,SHANMUGA SANJEEVI P S,ECE-C,CORE-EMBEDDED IOT,NON IT,sanjeevi_72,,,,,,,,,,,,,,,,
-633,22EC154,SHRIVARSHAN C,ECE-C,IT,Batch 9,shricsv,,,,,,,,,,,,,,,,
-634,22EC155,SHRUTHIKA PRABAHAR,ECE-C,CORE-EMBEDDED IOT,NON IT,shruthikaprabahar,,,,,,,,,,,,,,,,
-635,22EC156,SIBI ANAND V M,ECE-C,IT,Batch 6,SIBI_ANAND_V_M,,,,,,,,,,,,,,,,
-636,22EC157,SIDDHARTH P,ECE-C,IT,Batch 1,siddharthp17,,,,,,,,,,,,,,,,
-637,22EC158,SIVA PRAKASH G,ECE-C,IT,Batch 11,SIVAPRAKASH_G,,,,,,,,,,,,,,,,
-638,22EC159,SIVARANJANI S,ECE-C,CORE-VLSI,NON IT,sivaranjani01,,,,,,,,,,,,,,,,
-639,22EC160,SOBIGA K,ECE-C,IT,Batch 2,Sobiga1102,,,,,,,,,,,,,,,,
-640,22EC161,SONIYA S,ECE-C,IT,Batch 6,soniyasoniya,,,,,,,,,,,,,,,,
-641,22EC162,SREE VISHNU VARTHINI S,ECE-C,CORE-VLSI,NON IT,SREE_VISHNU_VARTHINI_S,,,,,,,,,,,,,,,,
-642,22EC163,SREENITHI V,ECE-C,CORE-CYBERSECURITY,Batch 13,Sreenithi30,,,,,,,,,,,,,,,,
-643,22EC164,SRI KRISHNA M,ECE-C,CORE-EMBEDDED IOT,NON IT,sri_krishna17,,,,,,,,,,,,,,,,
-644,22EC165,SRI SATHYA PRIYA R,ECE-C,CORE-VLSI,NON IT,Srisathyapriya,,,,,,,,,,,,,,,,
-645,22EC166,SRI SIVASAKTHI R,ECE-C,CORE-VLSI,NON IT,Srisivasakthi,,,,,,,,,,,,,,,,
-646,22EC167,SRI SUDHI N,ECE-C,CORE-EMBEDDED IOT,NON IT,srisudhi_25,,,,,,,,,,,,,,,,
-647,22EC168,SRIDHAN K T,ECE-C,CORE-EMBEDDED IOT,NON IT,user8680lp,,,,,,,,,,,,,,,,
-648,22EC170,SUBASRI M,ECE-C,CORE-EMBEDDED IOT,NON IT,subasri21,,,,,,,,,,,,,,,,
-649,22EC171,SUDHARSAN K K,ECE-C,CORE-NETWORKING,Batch 13,sudharshan04,,,,,,,,,,,,,,,,
-650,22EC172,SUDHARSHANA D,ECE-C,CORE-NETWORKING,Batch 13,sudharshana_,,,,,,,,,,,,,,,,
-651,22EC173,SUDHESHNA P,ECE-C,IT,Batch 6,Sudheshna-P,,,,,,,,,,,,,,,,
-652,22EC174,SUGAN M K,ECE-C,CORE-EMBEDDED IOT,NON IT,Sugan2011,,,,,,,,,,,,,,,,
-653,22EC175,SUMAN T,ECE-C,CORE-EMBEDDED IOT,NON IT,suman_12,,,,,,,,,,,,,,,,
-654,22EC176,SUREENDRAN S,ECE-C,CORE-EMBEDDED IOT,NON IT,sureendran,,,,,,,,,,,,,,,,
-655,22EC177,SWETHA S,ECE-C,CORE-EMBEDDED IOT,NON IT,Swetha_Siva_Subramanian,,,,,,,,,,,,,,,,
-656,22EC178,TAMILARASAN M,ECE-C,CORE-VLSI,NON IT,TAMILARASAN-M,,,,,,,,,,,,,,,,
-657,22EC179,TAMILARASI K,ECE-C,CORE-VLSI,NON IT,Tamilarasi_Kannan,,,,,,,,,,,,,,,,
-658,22EC180,THIRU MURUGAN R S,ECE-C,CORE-EMBEDDED IOT,NON IT,Thirumurugan rs,,,,,,,,,,,,,,,,
-659,22EC181,VALAVAN K,ECE-C,IT,Batch 6,VaLaVaN-K,,,,,,,,,,,,,,,,
-660,22EC182,VANATHI M,ECE-C,CORE-EMBEDDED IOT,NON IT,vanathi-m,,,,,,,,,,,,,,,,
-661,22EC183,VARSHINI G M,ECE-C,CORE-VLSI,NON IT,Varshinigm,,,,,,,,,,,,,,,,
-662,22EC184,VELMURUGAN S,ECE-C,CORE-NETWORKING,Batch 13,Velmurugan02,,,,,,,,,,,,,,,,
-663,22EC185,VETRIVEL R S,ECE-C,CORE-NETWORKING,Batch 13,Vetrivel1803,,,,,,,,,,,,,,,,
-664,22EC186,VIGNESHKUMAR R,ECE-C,CORE-NETWORKING,Batch 13,vignesh2004,,,,,,,,,,,,,,,,
-665,22EC187,VISHAL K,ECE-C,CORE-EMBEDDED IOT,NON IT,Vishal-ECE,,,,,,,,,,,,,,,,
-666,22EC188,WASEEF TAUQUEER A,ECE-C,IT,Batch 9,waseeftauqueer,,,,,,,,,,,,,,,,
-667,22EC189,YOOGAANANTH K,ECE-C,IT,Batch 9,yoogaananth,,,,,,,,,,,,,,,,
-668,22EC304,NANDHA S K,ECE-C,CORE-EMBEDDED IOT,NON IT,nandha sk,,,,,,,,,,,,,,,,
-669,22EC305,RISHIKESH M,ECE-C,CORE-EMBEDDED IOT,NON IT,rishikesh17004,,,,,,,,,,,,,,,,
-670,22EC306,SURYA PRAKASH G,ECE-C,CORE-EMBEDDED IOT,NON IT,suryaece,,,,,,,,,,,,,,,,
-671,22EC307,VIJAY ANAND A,ECE-C,CORE-EMBEDDED IOT,NON IT,vijayanandsece,,,,,,,,,,,,,,,,
-672,22EC308,VISWANATHAN M,ECE-C,CORE-EMBEDDED IOT,NON IT,user0259Ap,,,,,,,,,,,,,,,,
-673,22EC309,YOGESH KANNAN V,ECE-C,CORE-EMBEDDED IOT,NON IT,user7425m,,,,,,,,,,,,,,,,
-674,22EE002,AKALYA D,EEE,IT,Batch 12,akalya_d,,,,,,,,,,,,,,,,
-675,22EE003,ARRTHI M,EEE,IT,Batch 2,Arrthi,,,,,,,,,,,,,,,,
-676,22EE004,ATHISH S A,EEE,CORE-EMBEDDED IOT,NON IT,athishsa,,,,,,,,,,,,,,,,
-677,22EE005,BALAJI P,EEE,IT,Batch 9,Balaji_EEE,,,,,,,,,,,,,,,,
-678,22EE006,BALAKESAVAN M,EEE,IT,Batch 9,balakesavanm,,,,,,,,,,,,,,,,
-679,22EE007,BATHRIBALA B,EEE,CORE-EMBEDDED IOT,NON IT,BATHRIBALA,,,,,,,,,,,,,,,,
-680,22EE008,BHARATHKUMAR P,EEE,IT,Batch 9,Bharathkumar_12,,,,,,,,,,,,,,,,
-681,22EE009,CHARAN R,EEE,IT,Batch 9,Charan2022EEEsece,,,,,,,,,,,,,,,,
-682,22EE010,DARSHANA A,EEE,IT,Batch 9,Darshanaasokan,,,,,,,,,,,,,,,,
-683,22EE011,DHANA SEKAR V,EEE,IT,Batch 9,dhanasekar_14,,,,,,,,,,,,,,,,
-684,22EE012,DHANU SREE B,EEE,CORE-EMBEDDED IOT,NON IT,dhanusreeb,,,,,,,,,,,,,,,,
-685,22EE013,DHARANIDHARAN U,EEE,IT,Batch 9,Dharanidharan_u,,,,,,,,,,,,,,,,
-686,22EE014,DHAYANANTH B,EEE,IT,Batch 9,dhayananthb,,,,,,,,,,,,,,,,
-687,22EE015,DHIVYADHARSHINI M,EEE,IT,Batch 9,DHIVYAM123,,,,,,,,,,,,,,,,
-688,22EE016,EVANJELIN ESTHER THANGAM S,EEE,CORE-EMBEDDED IOT,NON IT,Evanjelin _10,,,,,,,,,,,,,,,,
-689,22EE017,GANESH MAL K,EEE,IT,Batch 9,ganeshmal,,,,,,,,,,,,,,,,
-690,22EE018,GOKUL RAJ S,EEE,IT,Batch 12,GokulRaj0108,,,,,,,,,,,,,,,,
-691,22EE019,HARINI KEERTHANA A,EEE,IT,Batch 12,user7721sharinikeerthana,,,,,,,,,,,,,,,,
-692,22EE020,HARITHA M,EEE,CORE-EMBEDDED IOT,NON IT,haritham511,,,,,,,,,,,,,,,,
-693,22EE021,JAISHREE S,EEE,CORE-EMBEDDED IOT,NON IT,jaishree_14,,,,,,,,,,,,,,,,
-,22AM042,SANTHOSRAJ B S,AIML,NOT INTERESTED,,#N/A,,,,,,,,,,,,,,,,
-695,22EE023,JENISH J,EEE,CORE-NETWORKING,Batch 13,Jenish_,,,,,,,,,,,,,,,,
-696,22EE024,KARTHIKA S,EEE,IT,Batch 2,karthikas1411,,,,,,,,,,,,,,,,
-697,22EE025,KAVIN KUMAR S,EEE,CORE-VLSI,NON IT,kavin67,,,,,,,,,,,,,,,,
-698,22EE026,KRISHNA PRIYAA M,EEE,CORE-EMBEDDED IOT,NON IT,Krishnapriyaa,,,,,,,,,,,,,,,,
-699,22EE027,LITHIHA L,EEE,IT,Batch 9,Lithiha_L,,,,,,,,,,,,,,,,
-700,22EE028,MATHIMALAR C,EEE,CORE-VLSI,NON IT,Mathimalarchinnapppen,,,,,,,,,,,,,,,,
-701,22EE029,MATHIYARASAN S,EEE,CORE-EMBEDDED IOT,NON IT,mathiyarasan2264eee,,,,,,,,,,,,,,,,
-702,22EE030,MOHAMMED RAFI S,EEE,IT,Batch 12,mohammedrafi07,,,,,,,,,,,,,,,,
-703,22EE031,MURALIKRISHNAN J,EEE,CORE-VLSI,NON IT,muralikrish04,,,,,,,,,,,,,,,,
-704,22EE032,MUTHU BALAJI M S,EEE,IT,Batch 12,muthubalajims,,,,,,,,,,,,,,,,
-705,22EE033,NARMADHADEVI M,EEE,CORE-EMBEDDED IOT,NON IT,narmadha EEE,,,,,,,,,,,,,,,,
-706,22EE034,NAVEEN KUMAR S,EEE,IT,Batch 9,naveen1411,,,,,,,,,,,,,,,,
-707,22EE035,NAVEEN R,EEE,IT,Batch 12,naveen_2004,,,,,,,,,,,,,,,,
-708,22EE036,NITHIS KUMAR S,EEE,CORE-NETWORKING,Batch 13,user7400H,,,,,,,,,,,,,,,,
-709,22EE037,NITHYASHREE S,EEE,CORE-NETWORKING,Batch 13,user4517W,,,,,,,,,,,,,,,,
-710,22EE038,PARVADAESH S,EEE,CORE-VLSI,NON IT,parvasrinu7,,,,,,,,,,,,,,,,
-711,22EE039,PRADEEP R,EEE,CORE-EMBEDDED IOT,NON IT,pradeep2915,,,,,,,,,,,,,,,,
-712,22EE040,PRADEEP S,EEE,CORE-EMBEDDED IOT,NON IT,pradeep_2005,,,,,,,,,,,,,,,,
-713,22EE041,PRANAV KUMAR S,EEE,IT,Batch 9,pranav_kumar_s,,,,,,,,,,,,,,,,
-714,22EE042,RAMAKRISHNAN B,EEE,CORE-EMBEDDED IOT,NON IT,RamaKrishnan_b,,,,,,,,,,,,,,,,
-715,22EE043,RESHMA S,EEE,CORE-NETWORKING,Batch 13,reshma_2005,,,,,,,,,,,,,,,,
-716,22EE044,RISHIEVARDHAN B,EEE,CORE-NETWORKING,Batch 13,Rishie__08,,,,,,,,,,,,,,,,
-717,22EE045,ROHITH D,EEE,IT,Batch 9,user9870KH,,,,,,,,,,,,,,,,
-273,22CB026,KALAIVANAN R,CSBS,IT,Placed,#N/A,,,,,,,,,,,,,,,,
-719,22EE047,SABARIMANI B,EEE,IT,Batch 1,sabarimani,,,,,,,,,,,,,,,,
-720,22EE048,SANDHIYA N,EEE,IT,Batch 9,sandhiya818,,,,,,,,,,,,,,,,
-721,22EE049,SANTHIYA G M,EEE,CORE-NETWORKING,Batch 13,santhiyagm,,,,,,,,,,,,,,,,
-722,22EE050,SARAVANAN P,EEE,IT,Batch 9,Sharanp,,,,,,,,,,,,,,,,
-723,22EE051,SATHISH A,EEE,CORE-EMBEDDED IOT,NON IT,sathisha08022005,,,,,,,,,,,,,,,,
-724,22EE053,SIBIRAAJAN N,EEE,IT,Batch 9,Sibiraajan,,,,,,,,,,,,,,,,
-725,22EE055,SWETHA A,EEE,IT,Batch 12,user9139VE,,,,,,,,,,,,,,,,
-726,22EE056,SWETHASHREE G,EEE,IT,Batch 2,swethashree12,,,,,,,,,,,,,,,,
-727,22EE057,TARUUN PRASATH G S,EEE,IT,Batch 9,taruunprasathgs,,,,,,,,,,,,,,,,
-728,22EE058,THARUN C M,EEE,CORE-VLSI,NON IT,THARUNCM,,,,,,,,,,,,,,,,
-198,22CC015,GOPINATH S,CCE,IT,NON IT,#N/A,,,,,,,,,,,,,,,,
-730,22EE061,VAISHNAVI S,EEE,IT,Batch 9,vaishnavi1606,,,,,,,,,,,,,,,,
-731,22EE062,VISWANTH S,EEE,IT,Batch 9,viswa06,,,,,,,,,,,,,,,,
-732,22EE301,AHAMED ARS S,EEE,CORE-EMBEDDED IOT,NON IT,S_AHAMED-ARS007,,,,,,,,,,,,,,,,
-733,22EE302,ANBARASAN S,EEE,CORE-EMBEDDED IOT,NON IT,ANBARASAN-S,,,,,,,,,,,,,,,,
-734,22EE303,MAHESHBOOPATHI M,EEE,CORE-EMBEDDED IOT,NON IT,user4392bI,,,,,,,,,,,,,,,,
-735,22EE304,TAMILARASU A,EEE,CORE-EMBEDDED IOT,NON IT,Tamilarasu24079,,,,,,,,,,,,,,,,
-736,22EE305,VARSHAN T,EEE,CORE-EMBEDDED IOT,NON IT,user1148c,,,,,,,,,,,,,,,,
-737,22IT002,ABIRUBHA S,IT,IT,Batch 8,abirubhas,,,,,,,,,,,,,,,,
-738,22IT003,ARUNMOZHIDEVAN T,IT,IT,Batch 5,Arunmozhidevan_T,,,,,,,,,,,,,,,,
-739,22IT004,BALAHARIRAJ N,IT,IT,Batch 8,N-Balahariraj,,,,,,,,,,,,,,,,
-740,22IT005,BALAJI G,IT,IT,Batch 11,Balaji242524,,,,,,,,,,,,,,,,
-741,22IT006,BHAVANIKAA S,IT,IT,Batch 1,bhavanikaa8570C,,,,,,,,,,,,,,,,
-742,22IT007,DEVADHARSHINI S,IT,IT,Batch 5,devadharshini_007,,,,,,,,,,,,,,,,
-,22CS027,BHARANI DHARAN M,CSE-A,NOT INTERESTED,,#N/A,,,,,,,,,,,,,,,,
-744,22IT009,GIRI R,IT,IT,Batch 1,giri_2004,,,,,,,,,,,,,,,,
-745,22IT010,GIRIRAJ S A,IT,IT,Batch 5,GIRIRAJSA_19,,,,,,,,,,,,,,,,
-,22CS059,HARI PRASATH M,CSE-A,NOT INTERESTED,,#N/A,,,,,,,,,,,,,,,,
-747,22IT013,GOWTHAM R,IT,IT,Batch 5,gowtham17r,,,,,,,,,,,,,,,,
-748,22IT014,GOWTHAM S,IT,IT,Batch 5,gowtham1811,,,,,,,,,,,,,,,,
-749,22IT015,GURDEEP S N,IT,IT,Batch 8,sngurdeep,,,,,,,,,,,,,,,,
-750,22IT016,HARISH S,IT,IT,Batch 5,harish_2810,,,,,,,,,,,,,,,,
-751,22IT017,HARISH VISWANATH K,IT,IT,Batch 5,harishviswanath017,,,,,,,,,,,,,,,,
-752,22IT018,INSAMAM S,IT,IT,Batch 5,insamam_,,,,,,,,,,,,,,,,
-753,22IT019,JAMES JOHNSON A,IT,IT,Batch 5,ajamesjohnson,,,,,,,,,,,,,,,,
-754,22IT020,JANA P,IT,IT,Batch 8,Jana-2053,,,,,,,,,,,,,,,,
-755,22IT021,JASMITHA S,IT,IT,Batch 2,jasmitha17,,,,,,,,,,,,,,,,
-756,22IT023,KAMAL NATH V,IT,IT,Batch 5,Kamal_Nath,,,,,,,,,,,,,,,,
-757,22IT024,KAVIN R,IT,IT,Batch 5,rkavinlives,,,,,,,,,,,,,,,,
-758,22IT025,KEERTHANA S,IT,IT,Batch 5,Keerthana_S2k4,,,,,,,,,,,,,,,,
-759,22IT026,KRISHNA KARTHIKEYAN L,IT,IT,Batch 1,Krishnakarthikeyan_L,,,,,,,,,,,,,,,,
-760,22IT027,LIJOICE C S,IT,IT,Batch 1,lijoice,,,,,,,,,,,,,,,,
-761,22IT028,MANISHVAR M,IT,IT,Batch 5,manishvarbg,,,,,,,,,,,,,,,,
-762,22IT029,MOHAMMED GHOUSEKHAN M,IT,IT,Batch 5,user2943cf,,,,,,,,,,,,,,,,
-763,22IT031,MOHANA SWARA RAJ N,IT,IT,Batch 5,Mohan_2005_,,,,,,,,,,,,,,,,
-764,22IT032,MUGEISH KUMAR S,IT,IT,Batch 5,Mugeish_kumars,,,,,,,,,,,,,,,,
-765,22IT033,NAVTHIK RAM R K,IT,IT,Batch 1,navthik_7,,,,,,,,,,,,,,,,
-766,22IT034,PAVITHARA NAYAKI K,IT,IT,Batch 2,pavitharanayaki,,,,,,,,,,,,,,,,
-767,22IT035,POORNIMA J K,IT,IT,Batch 5,poornimajk_04,,,,,,,,,,,,,,,,
-768,22IT036,SAHASRA V,IT,IT,Batch 5,sahasit,,,,,,,,,,,,,,,,
-769,22IT037,SASHWIN S,IT,IT,Batch 1,sashwin2311,,,,,,,,,,,,,,,,
-770,22IT038,SATHISH KUMAR M,IT,IT,Batch 5,sathishkumar-m,,,,,,,,,,,,,,,,
-771,22IT039,SHAILESHWARAN S,IT,IT,Batch 1,Shailesh714,,,,,,,,,,,,,,,,
-772,22IT040,SHAMYUGTHA K R,IT,IT,Batch 1,Shamyugtha,,,,,,,,,,,,,,,,
-773,22IT041,SHOBIKA P,IT,IT,Batch 2,Shobi1-2_3,,,,,,,,,,,,,,,,
-774,22IT043,SHRI BHARANI PRIYA N,IT,IT,Batch 2,SHRIBHARANIPRIYA_N,,,,,,,,,,,,,,,,
-775,22IT044,SOWMIYA S,IT,IT,Batch 5,sowmi2080,,,,,,,,,,,,,,,,
-776,22IT045,SRI GAYATHIRI B,IT,IT,Batch 8,sri_246,,,,,,,,,,,,,,,,
-777,22IT046,SRIHARINNI J E,IT,IT,Batch 5,sri_harinni21,,,,,,,,,,,,,,,,
-778,22IT047,SRINITHI R,IT,IT,Batch 8,srinithi-r06,,,,,,,,,,,,,,,,
-779,22IT048,STEFFANIA KUBELIO,IT,NOT INTERESTED,NON IT,steffania,,,,,,,,,,,,,,,,
-780,22IT049,SUBASH S,IT,IT,Batch 11,subash100,,,,,,,,,,,,,,,,
-781,22IT050,SUKESH G,IT,IT,Batch 5,sukeshhg,,,,,,,,,,,,,,,,
-782,22IT051,SWETHA B,IT,IT,Batch 5,swetha_b,,,,,,,,,,,,,,,,
-783,22IT052,TABASWINI P S,IT,IT,Placed,TabaswiniPS,,,,,,,,,,,,,,,,
-784,22IT054,VAIDURYAA V P,IT,IT,Batch 2,vaiduryaa,,,,,,,,,,,,,,,,
-785,22IT055,VASANTH K,IT,IT,Batch 5,Vasanth2009,,,,,,,,,,,,,,,,
-786,22IT056,VIJAY A,IT,IT,Batch 5,a_vijay,,,,,,,,,,,,,,,,
-787,22IT057,VIJAY S,IT,IT,Batch 11,vijay_s_11335,,,,,,,,,,,,,,,,
-788,22IT058,VIJAYA NAARAAYANAN B,IT,IT,Batch 5,Vijay_b21,,,,,,,,,,,,,,,,
-789,22IT060,VISHWAJITH S,IT,IT,Batch 5,vishwajith_07,,,,,,,,,,,,,,,,
-790,22IT061,YUVAN SHANKAR T S,IT,IT,Batch 8,YuvanShankarts,,,,,,,,,,,,,,,,
-791,22IT062,YUVARAJ M,IT,IT,Batch 8,user0694Gf,,,,,,,,,,,,,,,,
-792,22IT301,ARUN KARTHIIK D,IT,IT,Batch 11,arunkarthiik,,,,,,,,,,,,,,,,
-793,22IT302,SUBIKSHA M,IT,IT,Batch 5,m_subiksha,,,,,,,,,,,,,,,,
-794,22ME001,ABDUL RAHMAN H,MECH,IT,Batch 9,user7957ni,,,,,,,,,,,,,,,,
-795,22ME002,ADHILINGAVIGNESH K,MECH,IT,Batch 1,Adhi2312,,,,,,,,,,,,,,,,
-796,22ME003,ADITHYA T,MECH,CORE-DESIGN,NON IT,ADITHYA_T,,,,,,,,,,,,,,,,
-797,22ME004,AJAYRAJ R,MECH,CORE-MECH,NON IT,user3988CT,,,,,,,,,,,,,,,,
-798,22ME005,AKASH RAJ M,MECH,CORE-DESIGN,NON IT,akashraj_m,,,,,,,,,,,,,,,,
-799,22ME007,BHARANI A P,MECH,CORE-MECH,NON IT,bharani131208,,,,,,,,,,,,,,,,
-800,22ME008,BHARATH VARSHAN A,MECH,CORE-DESIGN,NON IT,Bharath_varshan_05,,,,,,,,,,,,,,,,
-801,22ME010,FATHIMASHAHIBA Z,MECH,CORE-MECH,NON IT,fathima010,,,,,,,,,,,,,,,,
-802,22ME011,GOKULA MADHAVAN K,MECH,IT,Batch 9,anna_liebert,,,,,,,,,,,,,,,,
-803,22ME012,HARIKRISHNAN K,MECH,CORE-DESIGN,NON IT,harikrishnank36,,,,,,,,,,,,,,,,
-804,22ME013,HARINI S,MECH,CORE-DESIGN,NON IT,Harini_mech03,,,,,,,,,,,,,,,,
-805,22ME014,HARISHRAVAN B,MECH,CORE-MECH,NON IT,hariown06,,,,,,,,,,,,,,,,
-806,22ME015,KANISHK R,MECH,CORE-MECH,NON IT,kanishk_mech,,,,,,,,,,,,,,,,
-807,22ME017,KEERTHANA SUBISRI S,MECH,CORE-MECH,NON IT,user7301gM,,,,,,,,,,,,,,,,
-808,22ME018,KHOGULANAND V R,MECH,CORE-MECH,NON IT,khogulanand24,,,,,,,,,,,,,,,,
-809,22ME019,KISHORE A T,MECH,CORE-MECH,NON IT,kishore__at,,,,,,,,,,,,,,,,
-810,22ME020,KRISHNA MALATHI L,MECH,CORE-DESIGN,NON IT,krishnamalathi__2612,,,,,,,,,,,,,,,,
-811,22ME022,LAXMI PRIYA K,MECH,CORE-DESIGN,NON IT,user1337D,,,,,,,,,,,,,,,,
-812,22ME024,MANIRAJA K,MECH,CORE-MECH,NON IT,user0948YZ,,,,,,,,,,,,,,,,
-813,22ME025,MATHAN S,MECH,IT,Batch 9,Mathan_s2005,,,,,,,,,,,,,,,,
-814,22ME026,NAGA ARJUN R,MECH,CORE-MECH,NON IT,user1989RR,,,,,,,,,,,,,,,,
-815,22ME027,NAVIN R,MECH,CORE-DESIGN,NON IT,user6759no,,,,,,,,,,,,,,,,
-816,22ME028,NITIN P,MECH,CORE-MECH,NON IT,coodinings,,,,,,,,,,,,,,,,
-817,22ME029,PRABHANJ S R,MECH,CORE-MECH,NON IT,user5656Xk,,,,,,,,,,,,,,,,
-818,22ME030,PRITHIV RAJ K,MECH,IT,Batch 1,prithiv22l0,,,,,,,,,,,,,,,,
-819,22ME031,PRITHIV S P,MECH,IT,Batch 1,prithiv_sp,,,,,,,,,,,,,,,,
-820,22ME032,RAJ K,MECH,CORE-DESIGN,NON IT,Rajumy,,,,,,,,,,,,,,,,
-821,22ME033,RAJANARAYANAN N,MECH,CORE-DESIGN,NON IT,user3767xU,,,,,,,,,,,,,,,,
-822,22ME034,RAVISHANKAR P,MECH,CORE-DESIGN,NON IT,user7723dE,,,,,,,,,,,,,,,,
-823,22ME035,ROHANPRANESH B,MECH,CORE-MECH,NON IT,Rohanpranesh,,,,,,,,,,,,,,,,
-824,22ME036,ROHITH S,MECH,IT,Batch 9,rohith_s16,,,,,,,,,,,,,,,,
-825,22ME037,RUSHWANTH BALAJI K S,MECH,IT,Batch 9,user2788Fx,,,,,,,,,,,,,,,,
-826,22ME038,SANNUT NICHOLAS J,MECH,CORE-MECH,NON IT,sannutn_2004,,,,,,,,,,,,,,,,
-827,22ME039,SANTHOSH T,MECH,CORE-MECH,NON IT,santhosh9361365007,,,,,,,,,,,,,,,,
-828,22ME040,SENTHAMARAI SELVI B L,MECH,IT,Batch 9,user4637nB,,,,,,,,,,,,,,,,
-829,22ME041,SHYAM SUNDAR A,MECH,IT,Batch 9,profile,,,,,,,,,,,,,,,,
-830,22ME042,SOJIN S,MECH,CORE-DESIGN,NON IT,Sojin_S,,,,,,,,,,,,,,,,
-831,22ME043,SRI POORANI B,MECH,CORE-MECH,NON IT,b_sri_poorani,,,,,,,,,,,,,,,,
-832,22ME044,SRIPADMA R,MECH,CORE-MECH,NON IT,sripadmar,,,,,,,,,,,,,,,,
-833,22ME045,SUBA K,MECH,CORE-MECH,NON IT,suba09,,,,,,,,,,,,,,,,
-834,22ME046,SURENDHAR N,MECH,CORE-MECH,NON IT,surendharmech,,,,,,,,,,,,,,,,
-835,22ME047,TAMILARASAN J,MECH,IT,Batch 9,tamilarasan_555,,,,,,,,,,,,,,,,
-836,22ME048,TANIKAISELVAN G,MECH,IT,Batch 9,user9445lp,,,,,,,,,,,,,,,,
-837,22ME049,THIRUVARASU R,MECH,IT,Batch 9,user2332gx,,,,,,,,,,,,,,,,
-838,22ME050,VARSHA A R,MECH,CORE-MECH,NON IT,varshaAr,,,,,,,,,,,,,,,,
-839,22ME051,VISHVASANKAR T S,MECH,IT,Batch 9,Vishvasankar04,,,,,,,,,,,,,,,,
-840,22ME052,VISHWADEEP V,MECH,CORE-MECH,NON IT,vishwa1415,,,,,,,,,,,,,,,,
-841,22ME053,VISWARATHAN V,MECH,CORE-MECH,NON IT,Viswarathan_07,,,,,,,,,,,,,,,,
-842,22ME301,ARJUNAN M,MECH,CORE-DESIGN,NON IT,Arjunanm23,,,,,,,,,,,,,,,,
-843,22ME302,DEEPATHARAN K S,MECH,CORE-DESIGN,NON IT,Deepatharan2005,,,,,,,,,,,,,,,,
-844,22ME303,GOWTHAM T M,MECH,CORE-DESIGN,NON IT,Gowtham1290,,,,,,,,,,,,,,,,
-845,22ME304,JAI AKASH S,MECH,CORE-DESIGN,NON IT,user3961bH,,,,,,,,,,,,,,,,
-846,22ME305,KIRUBA P,MECH,IT,Batch 9,Kiruba_2005,,,,,,,,,,,,,,,,
-,22CS158,SIVARAM KUMAR S,CSE-C,NOT INTERESTED,,#N/A,,,,,,,,,,,,,,,,
-848,22ME307,PRAGADEESH A,MECH,CORE-DESIGN,NON IT,Praga2005,,,,,,,,,,,,,,,,
-,22AD015,DHINAKARAN R,AIDS-A,NOT INTERESTED,,user7627Vf,,,,,,,,,,,,,,,,
-,22AD017,GOKUL G,AIDS-A,NOT INTERESTED,,gokul1911,,,,,,,,,,,,,,,,
-,22AD025,HARIHARAN P,AIDS-A,NOT INTERESTED,,hariharan03,,,,,,,,,,,,,,,,
-,22AD028,HARRENI R,AIDS-A,NOT INTERESTED,,harreni,,,,,,,,,,,,,,,,
-,22AD034,KAMALGANTH S,AIDS-A,NOT INTERESTED,,user3806aS,,,,,,,,,,,,,,,,
-,22CS502,THOMAS ANTONY W,CSE-C,NOT INTERESTED,,,,,,,,,,,,,,,,,,
-572,22EC090,NAVANEETHAKRISHNAN A,ECE-B,CORE-NETWORKING,NON IT,#N/A,,,,,,,,,,,,,,,,
-608,22EC153,SHREE HARINI J J,ECE-B,DISCONTINUE,NON IT,#N/A,,,,,,,,,,,,,,,,
-694,22EE022,JAYARAAMA SUNDHAR V,EEE,CORE-VLSI,NON IT,,,,,,,,,,,,,,,,,
-,22AM023,LOGESHWARI R ,AIML,NOT INTERESTED,,user7271E,,,,,,,,,,,,,,,,
-,22AM026,MOHANASUNDARAM G,AIML,NOT INTERESTED,,sundarmohan378,,,,,,,,,,,,,,,,
-718,22EE046,SABARI T,EEE,CORE-EMBEDDED IOT,NON IT,,,,,,,,,,,,,,,,,
-,22AM058,VIGNESH V,AIML,NOT INTERESTED,,vignesh-sece,,,,,,,,,,,,,,,,
-,22AM060,VINOTH KUMAR S,AIML,NOT INTERESTED,,Vinothkumar1212,,,,,,,,,,,,,,,,
-,22AM061,VISHNU MALYA K G,AIML,NOT INTERESTED,,vishnumalya,,,,,,,,,,,,,,,,
-,22AM301,ANANTHAKUMAR L,AIML,NOT INTERESTED,,Ananthakumar22AM064,,,,,,,,,,,,,,,,
-,22CB041,PAVITHRA P,CSBS,NOT INTERESTED,,pavithra_pavi5,,,,,,,,,,,,,,,,
-,22CC051,SOFIYA NIVEDHINI J,CCE,NOT INTERESTED,,Sofiya02,,,,,,,,,,,,,,,,
-,22CS012,AJAY PRAKASH B,CSE-A,NOT INTERESTED,,AJAYPRAKASH2004,,,,,,,,,,,,,,,,
-,22CS013,AJAYPRANAO M,CSE-A,NOT INTERESTED,,ajaypranao,,,,,,,,,,,,,,,,
-,22CS014,AKASH SURYA A,CSE-A,NOT INTERESTED,,Akashsurya17,,,,,,,,,,,,,,,,
-,22CS022,ARUN AMARNATH S B,CSE-A,NOT INTERESTED,,arunamarnath ,,,,,,,,,,,,,,,,
-,22CS023,ARUNKUMAR S,CSE-A,NOT INTERESTED,,arunkumar2204,,,,,,,,,,,,,,,,
-,22EE059,THINAN S,EEE,NOT INTERESTED,,,,,,,,,,,,,,,,,,
-,22CS041,DHARNESH R,CSE-A,NOT INTERESTED,,dharnesh8,,,,,,,,,,,,,,,,
-729,22EE060,UDAYA RAJ KUMAR R,EEE,CORE-EMBEDDED IOT,NON IT,,,,,,,,,,,,,,,,,
-,22CS071,JOSHIKA R,CSE-B,NOT INTERESTED,,user6905eF,,,,,,,,,,,,,,,,
-,22CS074,KARMUKILAN B P,CSE-B,NOT INTERESTED,,karmukilan,,,,,,,,,,,,,,,,
-,22CS106,MOHANAPRIYA R,CSE-B,NOT INTERESTED,,user9696hZ,,,,,,,,,,,,,,,,
-743,22IT008,DHARSHINI R,IT,IT,Batch 5,#N/A,,,,,,,,,,,,,,,,
-,22CS161,SRIDHARAN A,CSE-C,NOT INTERESTED,,sridharan_2022,,,,,,,,,,,,,,,,
-,22CS163,SUDHAN R,CSE-C,NOT INTERESTED,,Sudhan-23082004/,,,,,,,,,,,,,,,,
-,22CS164,SUMAN T,CSE-C,NOT INTERESTED,,sumant2022/,,,,,,,,,,,,,,,,
-,22CS171,THARANITHARAN N,CSE-C,NOT INTERESTED,,tharani_tharan,,,,,,,,,,,,,,,,
-,22IT011,GOKULAN S B,IT,NOT INTERESTED,,#N/A,,,,,,,,,,,,,,,,
-,22EC010,ARJUN P,ECE-A,NOT INTERESTED,,Arjunsece ,,,,,,,,,,,,,,,,
-,22EC029,FATHEEN IBRAHIM S,ECE-A,NOT INTERESTED,,fatheen_ibrahim_lc,,,,,,,,,,,,,,,,
-,22EC050,JEYA GOWTHAM S,ECE-A,NOT INTERESTED,,user8156eV,,,,,,,,,,,,,,,,
-,22EC053,KANMANI K,ECE-A,NOT INTERESTED,,Kanmani-04,,,,,,,,,,,,,,,,
-,22EC060,KAVIYA S,ECE-A,NOT INTERESTED,,Kavyasu,,,,,,,,,,,,,,,,
-,22EC061,KAVYASREE T S,ECE-A,NOT INTERESTED,,kavyasree20,,,,,,,,,,,,,,,,
-,22EC117,RAJA SELVIN A,ECE-B,NOT INTERESTED,,Rajauchiha17,,,,,,,,,,,,,,,,
-,22EC121,RAM BAHWAN A K,ECE-B,NOT INTERESTED,,itsram1974,,,,,,,,,,,,,,,,
-,22EC152,SHARUKNAL SHREE A,ECE-C,NOT INTERESTED,,sharuknal -ECE,,,,,,,,,,,,,,,,
-,22EC169,SUBASH K,ECE-C,NOT INTERESTED,,subash173,,,,,,,,,,,,,,,,
-,22EE001,ABINAYA M,EEE,NOT INTERESTED,,user7022Ei,,,,,,,,,,,,,,,,
-,22EE052,SHREE MITHRA K C,EEE,NOT INTERESTED,,shreemithrakc ,,,,,,,,,,,,,,,,
-,22EE054,SUDHARSHINI M,EEE,NOT INTERESTED,,sudharshini_22,,,,,,,,,,,,,,,,
-746,22IT012,GOKULNATH RS,IT,IT,NON IT,#N/A,,,,,,,,,,,,,,,,
-,22IT001,ABDHEY S,IT,NOT INTERESTED,,abdhey22,,,,,,,,,,,,,,,,
-847,22ME306,NITHEESH S,MECH,CORE-MECH,NON IT,,,,,,,,,,,,,,,,,
-,22IT042,SHOBIKA R,IT,NOT INTERESTED,,shobika_16,,,,,,,,,,,,,,,,
-,22IT053,THASVINI P M,IT,NOT INTERESTED,,thasvinipm25,,,,,,,,,,,,,,,,
-,22IT059,VISHNUBAGAVAN K,IT,NOT INTERESTED,,vishnubagavan,,,,,,,,,,,,,,,,
-,22IT303,VISHWADHARAN R,IT,NOT INTERESTED,,Vishwadharan_R,,,,,,,,,,,,,,,,
-,22ME006,ARUN S M,MECH,NOT INTERESTED,,arungbero,,,,,,,,,,,,,,,,
-,22ME009,ELVIN VARGHESE,MECH,NOT INTERESTED,,elvinislazy,,,,,,,,,,,,,,,,
-,22ME016,KAVINADHITHAN S,MECH,NOT INTERESTED,,user4097hS,,,,,,,,,,,,,,,,
-,22ME021,LALITH SURYA B,MECH,NOT INTERESTED,,MECH,,,,,,,,,,,,,,,,
-,22ME023,LUCKSHAN ADITYA S L,MECH,NOT INTERESTED,,user2976aC,,,,,,,,,,,,,,,,
-,22AD120,VIMALL R N,AIDS-B,NOT INTERESTED,,Vimallrn,,,,,,,,,,Batch 12,IT,,Data Science,,,NIP
-,22CS028,BHARANIDAR S,CSE-A,NOT INTERESTED,,bharani7,,,,,,,,,Non-IT - Batch 11,Batch 11,IT,,Cyber Security,,,NOT INTERESTED
-,22CS172,THEEBESHWAR S,CSE-A,NOT INTERESTED,,Theebesh,,,,,,,,,,Batch 11,IT,,#N/A,,,D
+S.no,RANK,Roll No,Name,DEPT,GENDER,PHONE NUMBER,EMAIL ID,IT/Core/Not Interested,Interested Catagory,BATCH,Leetcode ID
+1,476,23AD001,AADHITHYA S,AIDS-A,Female,9043909854,aadhithya.s2023ai-ds@sece.ac.in,IT,IT,Batch - 4,aadhithya-10_11
+2,63,23AD002,ABHIRAMI T,AIDS-A,Female,9025817343,abhirami.t2023ai-ds@sece.ac.in,IT,IT,Batch - 2,abhiramit03
+3,487,23AD003,ABISHA J,AIDS-A,Female,7305686283,abisha.j2023ai-ds@sece.ac.in,IT,IT,Batch - 4,Abisha5011
+4,332,23AD004,ADHISESHAN A R,AIDS-A,Male,6385310349,adhiseshan.ar2023ai-ds@sece.ac.in,IT,IT,Batch - 4,adhiseshansece2023leetcode
+5,338,23AD005,ADHITHIYA G,AIDS-A,Male,9344935130,adhithiya.g2023ai-ds@sece.ac.in,IT,IT,Batch - 4,Adhithiya-G
+6,31,23AD006,AFRA FATHIMA M,AIDS-A,Female,7010030904,afrafathima.m2023ai-ds@sece.ac.in,IT,IT,Batch - 1,Afrafathima
+7,421,23AD007,AJAI KANNAN M,AIDS-A,Male,9025357467,ajaikannan.m2023ai-ds@sece.ac.in,IT,IT,Batch - 4,ajai24
+8,350,23AD008,AJAY D,AIDS-A,Male,7639990012,ajay.d2023ai-ds@sece.ac.in,IT,IT,Batch - 4,ajay0016
+9,179,23AD009,AKASH G,AIDS-A,Male,9360357057,akash.g2023ai-ds@sece.ac.in,IT,IT,Batch - 3,Akash01_2
+10,143,23AD011,AKSHAYA N,AIDS-A,Female,6369782894,akshaya.n2023ai-ds@sece.ac.in,IT,IT,Batch - 2,23AIDS011
+11,35,23AD012,ANANDHI A,AIDS-A,Female,8838163997,anandhi.a2023ai-ds@sece.ac.in,IT,IT,Batch - 1,user5746UC
+12,246,23AD013,ANBUCHEZHIYAN A M,AIDS-A,Male,7695860188,anbuchezhiyan.am2023ai-ds@sece.ac.in,IT,IT,Batch - 3,anbuchezhiyan2005
+13,119,23AD014,ANURAKTHI K M,AIDS-A,Female,9361631612,anurakthi.km2023ai-ds@sece.ac.in,IT,IT,Batch - 2,anurakthi-km
+14,52,23AD015,ANWAR RAJA A,AIDS-A,Male,9159772693,anwarraja.a2023ai-ds@sece.ac.in,IT,IT,Batch - 1,Anwarraja7088
+15,470,23AD016,ARCHANA S,AIDS-A,Female,7904345192,archana.s2023ai-ds@sece.ac.in,IT,IT,Batch - 4,user9539GC
+16,316,23AD017,ARSHIYA A,AIDS-A,Female,9444156181,arshiya.a2023ai-ds@sece.ac.in,IT,IT,Batch - 4,arshiya9
+17,323,23AD018,ARUMUGAVEL K,AIDS-A,Male,9786634853,arumugavel.k2023ai-ds@sece.ac.in,IT,IT,Batch - 4,arumugavel018
+18,219,23AD019,ARUN R S,AIDS-A,Male,6374475344,arun.rs2023ai-ds@sece.ac.in,IT,IT,Batch - 3,2005arun
+19,221,23AD020,ASHINI R,AIDS-A,Female,9384754510,ashini.r2023ai-ds@sece.ac.in,IT,IT,Batch - 2,Ashini_27
+20,171,23AD021,ATCHAYA S,AIDS-A,Female,98439 79738,atchaya.s2023ai-ds@sece.ac.in,IT,IT,Batch - 2,AtchayaS
+21,107,23AD022,ATHARSHA P,AIDS-A,Female,8870455742,atharsha.p2023ai-ds@sece.ac.in,IT,IT,Batch - 2,Atharsha_P
+22,580,23AD023,ATHIKESAVAN M,AIDS-A,Male,9786441415,athikesavan.m2023ai-ds@sece.ac.in,IT,IT,Batch - 5,athikesavanm
+23,423,23AD024,ATHITHYAN M,AIDS-A,Male,9363431801,athithyan.m2023ai-ds@sece.ac.in,IT,IT,Batch - 4,athi5453
+24,747,23AD025,BALAHARAN S,AIDS-A,Male,7448308510,balaharan.s2023ai-ds@sece.ac.in,IT,IT,Batch - 5,balaharan
+25,597,23AD026,BAVISHNAVI S,AIDS-A,Female,9150772935,bavishnavi.s2023ai-ds@sece.ac.in,Not Interested,NOT INTERESTED,,bavishnaviS
+26,189,23AD027,CHANDRAMUHILAN M,AIDS-A,Male,9894536003,chandramuhilan.m2023ai-ds@sece.ac.in,IT,IT,Batch - 3,chandru2301y
+27,296,23AD028,CHARUHASINI P,AIDS-A,Female,9042851763,charuhasini.p2023ai-ds@sece.ac.in,IT,IT,Batch - 4,charuhasini308
+28,43,23AD029,DEAVANATHAN S,AIDS-A,Male,8668087984,deavanathan.s2023ai-ds@sece.ac.in,IT,IT,Batch - 1,deava_dna_05
+29,92,23AD030,DEEPIKA M,AIDS-A,Female,8610715318,deepika.m2023ai-ds@sece.ac.in,IT,IT,Batch - 2,m__deepika
+30,252,23AD032,DEVDARSHAN A,AIDS-A,Male,9865645563,devdarshan.a2023ai-ds@sece.ac.in,IT,IT,Batch - 3,Devdarshan
+31,705,23AD033,DHANALAKSHMI R,AIDS-A,Female,8015435055,dhanalakshmi.r2023ai-ds@sece.ac.in,IT,IT,Batch - 5,dhanara
+32,0,23AD034,DHANUSHBALAN N,AIDS-A,Male,8667627318,dhanushbalan.n2023ai-ds@sece.ac.in,IT,IT,Batch - 5,DhanushbalanN
+33,0,23AD035,DHIRAAJ M,AIDS-A,Male,7708468119,dhiraaj.m2023ai-ds@sece.ac.in,IT,IT,Batch - 5,dhiraaj_m
+34,628,23AD036,DHIVYA P,AIDS-A,Female,9751901471,dhivya.p2023ai-ds@sece.ac.in,IT,IT,Batch - 5,Dhivya_P
+35,38,23AD037,DIVYA N,AIDS-A,Female,7845952214,divya.n2023ai-ds@sece.ac.in,IT,IT,Batch - 1,divyanagaraj
+36,557,23AD038,DIVYASREERITHA R,AIDS-A,Female,6374202018,divyasreeritha.r2023ai-ds@sece.ac.in,IT,IT,Batch - 4,DIVYASREERITHA
+37,333,23AD039,ESTHERRANI J,AIDS-A,Female,9025659939,estherrani.j2023ai-ds@sece.ac.in,IT,IT,Batch - 4,Estherrani603
+38,48,23AD040,GOKUL U,AIDS-A,Male,8140491233,gokul.u2023ai-ds@sece.ac.in,IT,IT,Batch - 1,Gokul_30
+39,499,23AD041,GOWTHAM S L,AIDS-A,Male,9566980082,gowtham.sl2023ai-ds@sece.ac.in,IT,IT,Batch - 4,user6404Qf
+40,581,23AD042,HARIHARASHUDHAN G,AIDS-A,Male,9629415297,hariharashudhan.g2023ai-ds@sece.ac.in,IT,IT,Batch - 5,Hariharashudhan_g_08
+41,745,23AD043,HARIKRISHNAN E,AIDS-A,Male,9500964148,harikrishnan.e2023ai-ds@sece.ac.in,IT,IT,Batch - 5,harikrishnan20
+42,356,23AD044,HARINIVASH S,AIDS-A,Male,8015336943,harinivash.s2023ai-ds@sece.ac.in,IT,IT,Batch - 4,Harinivash46
+43,363,23AD045,HARIPRIYA M,AIDS-A,Female,9042399762,haripriya.m2023ai-ds@sece.ac.in,IT,IT,Batch - 4,Haripriya1806
+44,23,23AD046,HARISH R,AIDS-A,Male,8807639930,harish.r2023ai-ds@sece.ac.in,IT,IT,Batch - 1,harishravikumar2005
+45,525,23AD047,HARISH S,AIDS-A,Male,9345306280,harish.s2023ai-ds@sece.ac.in,IT,IT,Batch - 4,malarharish007
+46,17,23AD048,HARISMITA B,AIDS-A,Female,8838606966,harismita.b2023ai-ds@sece.ac.in,IT,IT,Batch - 1,hari_smita
+47,61,23AD049,HARSHA K,AIDS-A,Female,8015621431,harsha.k2023ai-ds@sece.ac.in,IT,IT,Batch - 2,harsha-049
+48,203,23AD050,HARSHAVARSHINI P S,AIDS-A,Female,6381368436,harshavarshini.ps2023ai-ds@sece.ac.in,IT,IT,Batch - 2,harshavarshini_26
+49,311,23AD051,HARSHAWARDHINI M,AIDS-A,Female,9952441592,harshawardhini.m2023ai-ds@sece.ac.in,IT,IT,Batch - 4,Harshawardhini
+50,255,23AD052,IRFAN KHAN A,AIDS-A,Male,8220791013,irfankhan.a2023ai-ds@sece.ac.in,IT,IT,Batch - 3,ifankhan2005
+51,102,23AD053,JAGATH VISHNU S V,AIDS-A,Male,9345584636,jagathvishnu.sv2023ai-ds@sece.ac.in,IT,IT,Batch - 3,Jagath_Vishnu
+52,405,23AD054,JAYASASIREKHA M,AIDS-A,Female,9345914328,jayasasirekha.m2023ai-ds@sece.ac.in,IT,IT,Batch - 4,sasirekha_123
+53,56,23AD055,JEEVANANTHAM S,AIDS-A,Male,9994901632,jeevanantham.s2023ai-ds@sece.ac.in,IT,IT,Batch - 1,jeevanantham_S23
+54,105,23AD056,KAMALESH G J,AIDS-A,Male,6381678783,kamalesh.gj2023ai-ds@sece.ac.in,IT,IT,Batch - 3,Kamalesh_G_J
+55,65,23AD057,KANCHIMALAI M,AIDS-A,Male,9344965849,kanchimalai.m2023ai-ds@sece.ac.in,IT,IT,Batch - 3,Kanchimalai15
+56,0,23AD058,KAVIN SANJAY S,AIDS-A,Male,9942950320,kavinsanjay.s2023ai-ds@sece.ac.in,IT,IT,Batch - 5,kavinsanjay058
+57,582,23AD059,KAVYA R,AIDS-A,Female,9345490462,kavya.r2023ai-ds@sece.ac.in,IT,IT,Batch - 5,kavya_r28
+58,351,23AD060,KEERTHIKHAA K R,AIDS-A,Female,8870575724,keerthikhaa.kr2023ai-ds@sece.ac.in,IT,IT,Batch - 4,keerthikhaa-2005
+59,0,23AD061,KISHORE KANNAN G,AIDS-A,Male,9384393406,kishorekannan.g2023ai-ds@sece.ac.in,IT,IT,Batch - 5,kishorekannan_g
+60,357,23AD062,KISHORE R,AIDS-A,Male,6381864540,kishore.r2023ai-ds@sece.ac.in,IT,IT,Batch - 4,user2772FC
+61,364,23AD063,LAKSHANA R,AIDS-A,Female,8248776781,lakshana.r2023ai-ds@sece.ac.in,IT,IT,Batch - 4,lakshana21
+62,441,23AD064,LALIT ADITYA S,AIDS-A,Male,9677665071,lalitaditya.s2023ai-ds@sece.ac.in,IT,IT,Batch - 4,lalitadi11
+63,0,23AD065,MADHUPRIYA T,AIDS-A,Female,7010034622,madhupriya.t2023ai-ds@sece.ac.in,IT,IT,Batch - 5,user9572cl
+64,535,23AD066,MAHARAJA C,AIDS-B,Male,7538863980,maharaja.c2023ai-ds@sece.ac.in,IT,IT,Batch - 4,maharaja_10
+65,537,23AD067,MAHASRI A,AIDS-B,Female,6374795649,mahasri.a2023ai-ds@sece.ac.in,IT,IT,Batch - 4,Mahasri02
+66,706,23AD068,MAHENDRA VIKAS R,AIDS-B,Male,9994961552,mahendravikas.r2023ai-ds@sece.ac.in,IT,IT,Batch - 5,mahendra46
+67,629,23AD069,MALINI A,AIDS-B,Female,8122552304,malini.a2023ai-ds@sece.ac.in,IT,IT,Batch - 5,MaliniAlaguraj
+68,716,23AD070,MANIKANDAN M,AIDS-B,Male,7845411816,manikandan.m2023ai-ds@sece.ac.in,IT,IT,Batch - 5,Manikadan_M_5969
+69,259,23AD071,MANOJ V,AIDS-B,Male,9842810470,manoj.v2023ai-ds@sece.ac.in,IT,IT,Batch - 4,manojvenkat_18
+70,564,23AD072,MEGALA BASKAR,AIDS-B,Female,8940090783,megalabaskar2023ai-ds@sece.ac.in,IT,IT,Batch - 5,megalabaskar
+71,266,23AD073,METHUNA M S,AIDS-B,Female,9345405842,methuna.ms2023ai-ds@sece.ac.in,IT,IT,Batch - 2,methunams
+72,500,23AD074,MITHUN M,AIDS-B,Male,9361123237,mithun.m2023ai-ds@sece.ac.in,IT,IT,Batch - 4,Mithun1706
+73,274,23AD075,MOHAMMED RAFI H,AIDS-B,Male,8667249549,mohammedrafi.h2023ai-ds@sece.ac.in,IT,IT,Batch - 4,Rafi35
+74,665,23AD076,MOHANA PRASATH S,AIDS-B,Male,8438129626,mohanaprasath.s2023ai-ds@sece.ac.in,IT,IT,Batch - 5,mohanprasath07
+75,0,23AD077,MOHIT R,AIDS-B,Male,7373022288,mohit.r2023ai-ds@sece.ac.in,IT,IT,Batch - 5,Mohitkalaichelvan
+76,590,23AD078,MUHAMMED HAKIM S,AIDS-B,Male,9042234701,muhammedhakim.s2023ai-ds@sece.ac.in,IT,IT,Batch - 5,S_muhammedhakim
+77,365,23AD079,MUTHU VISALAKSHI M,AIDS-B,Female,6383526031,muthuvisalakshi.m2023ai-ds@sece.ac.in,IT,IT,Batch - 4,muthu_visalakshi
+78,0,23AD080,NANDHINI K P,AIDS-B,Female,7845064799,nandhini.kp2023ai-ds@sece.ac.in,IT,IT,Batch - 5,nandhini_18
+79,519,23AD081,NATCHATRRA R B,AIDS-B,Female,9655593737,natchatrra.rb2023ai-ds@sece.ac.in,IT,IT,Batch - 4,Natchatrra_RB_5
+80,0,23AD082,NAVEEN KUMAR R,AIDS-B,Male,8122905051,naveenkumar.r2023ai-ds@sece.ac.in,Not Interested,NOT INTERESTED,,naveenkumarr5115
+81,375,23AD083,NAVIYA DHARSHINI A S,AIDS-B,Female,9363625699,naviyadharshini.as2023ai-ds@sece.ac.in,IT,IT,Batch - 4,23AD083
+82,377,23AD084,NIBUNA A,AIDS-B,Male,9080425184,nibuna.a2023ai-ds@sece.ac.in,IT,IT,Batch - 4,Nibuna083
+83,62,23AD085,NIDHISH M,AIDS-B,Male,9597898538,nidhish.m2023ai-ds@sece.ac.in,IT,IT,Batch - 3,Nidhish_Muralidharan
+84,699,23AD086,NISHAD N,AIDS-B,Male,9442343613,nishad.n2023ai-ds@sece.ac.in,IT,IT,Batch - 5,nishadn
+85,154,23AD087,NISHOK S,AIDS-B,Male,8438392730,nishok.s2023ai-ds@sece.ac.in,IT,IT,Batch - 3,Nishokss
+86,547,23AD088,NITHIN PRANAV R,AIDS-B,Male,6385855891,nithinpranav.r2023ai-ds@sece.ac.in,IT,IT,Batch - 4,h6TDtwq9CD
+87,161,23AD089,NITHISHKUMAR S,AIDS-B,Male,8122789229,nithishkumar.s2023ai-ds@sece.ac.in,IT,IT,Batch - 3,Nithishkumars04
+88,0,23AD090,NITHUL MADHU A,AIDS-B,Male,6238920944,nithulmadhu.a2023ai-ds@sece.ac.in,IT,IT,Batch - 5,BALzMdPvdW
+89,260,23AD091,NITHYA SREE G,AIDS-B,Female,9600897649,nithyasree.g2023ai-ds@sece.ac.in,IT,IT,Batch - 2,nithyasree04
+90,334,23AD092,NITHYASHREE E,AIDS-B,Female,8668155911,nithyashree.e2023ai-ds@sece.ac.in,IT,IT,Batch - 4,nithyashreeeswaran
+91,649,23AD093,NIVITHA M,AIDS-B,Female,9790261959,nivitha.m2023ai-ds@sece.ac.in,IT,IT,Batch - 5,McjHlOljLM
+92,415,23AD094,OM PRAKASH SAH TELI,AIDS-B,Male, ,omprakashsahteli2023ai-ds@sece.ac.in,IT,IT,Batch - 4,omprakash44044
+93,422,23AD095,PABITHA S,AIDS-B,Female,9361669036,pabitha.s2023ai-ds@sece.ac.in,IT,IT,Batch - 4,Pabitha_S
+94,280,23AD096,PADMAPRASHATH S,AIDS-B,Male,9942483170,padmaprashath.s2023ai-ds@sece.ac.in,IT,IT,Batch - 4,prashath125
+95,591,23AD097,PAVITHRA A,AIDS-B,Female,9363414491,pavithra.a2023ai-ds@sece.ac.in,IT,IT,Batch - 5,Pavithra_Ajaikumar
+96,238,23AD098,PEERMOHIDEEN HAMEED A,AIDS-B,Male,8870692288,peermohideenhameed.a2023ai-ds@sece.ac.in,IT,IT,Batch - 3,hameed_2005
+97,754,23AD099,POOJA M,AIDS-B,Female,8610429839,pooja.m2023ai-ds@sece.ac.in,IT,IT,Batch - 5,poojayad
+98,146,23AD100,POORRNISHA K S,AIDS-B,Female,8056803295,poorrnisha.ks2023ai-ds@sece.ac.in,IT,IT,Batch - 2,Poorrnisha
+99,528,23AD101,PRAJESH U R,AIDS-B,Male,7806995263,prajesh.ur2023ai-ds@sece.ac.in,IT,IT,Batch - 4,prajesh_23
+100,198,23AD102,PRAVEEN J,AIDS-B,Male,9014718812,praveen.j2023ai-ds@sece.ac.in,IT,IT,Batch - 3,praveen-9014
+101,4,23AD103,PRAVEENKUMAR S,AIDS-B,Male,6379604045,praveenkumar.s2023ai-ds@sece.ac.in,IT,IT,Batch - 1,praveenkumarS42a
+102,312,23AD104,PRIYADHARSHINI M,AIDS-B,Female,9578291193,priyadharshini.m2023ai-ds@sece.ac.in,IT,IT,Batch - 4,priyadharshini511
+103,256,23AD105,PRIYANKA U,AIDS-B,Female,9025885255,priyanka.u2023ai-ds@sece.ac.in,IT,IT,Batch - 2,Priyanka_U
+104,0,23AD106,RAHGUL S A,AIDS-B,Male,8122940364,rahgul.sa2023ai-ds@sece.ac.in,Not Interested,NOT INTERESTED,,user7040WM
+105,164,23AD108,RAM DHARSHAN E,AIDS-B,Male,8056425286,ramdharshan.e2023ai-ds@sece.ac.in,IT,IT,Batch - 3,Ram_Dharshan07
+106,643,23AD109,RAM KUMAR K,AIDS-B,Male,7418346491,ramkumar.k2023ai-ds@sece.ac.in,Not Interested,NOT INTERESTED,,ramkumark1607
+107,0,23AD110,RAMANA KUMAR M,AIDS-B,Male,9952673327,ramanakumar.m2023ai-ds@sece.ac.in,IT,IT,Batch - 5,ramana1106
+108,12,23AD111,RAMYA T,AIDS-B,Female,9895655834,ramya.t2023ai-ds@sece.ac.in,IT,IT,Batch - 1,ramya-t1156
+109,734,23AD112,RANJANKUMAR S M,AIDS-B,Male,7010160466,ranjankumar.sm2023ai-ds@sece.ac.in,IT,IT,Batch - 5,ranjan__34z
+110,505,23AD113,RAVICHANDRAN V P,AIDS-B,Male,9043537219,ravichandran.vp2023ai-ds@sece.ac.in,IT,IT,Batch - 4,ravichandran11
+111,138,23AD114,ROSHINI B,AIDS-B,Female,9342778607,roshini.b2023ai-ds@sece.ac.in,IT,IT,Batch - 2,roshinibalamurugan
+112,670,23AD115,SAKTHEESWAR KUMARAN,AIDS-B,Male, ,saktheeswarkumaran2023ai-ds@sece.ac.in,IT,IT,Batch - 5,Sakthi_zzzz
+113,239,23AD116,SAKTHIVEL M,AIDS-B,Male,9952130239,sakthivel.m2023ai-ds@sece.ac.in,IT,IT,Batch - 3,sakthi3119
+114,755,23AD117,SAM BENADICK J,AIDS-B,Male,6381516048,sambenadick.j2023ai-ds@sece.ac.in,IT,IT,Batch - 5,sambenadick_27
+115,243,23AD118,SANDHYA A,AIDS-B,Female,9384938618,sandhya.a2023ai-ds@sece.ac.in,IT,IT,Batch - 2,sandhyakumar1009
+116,609,23AD119,SANGEETH S,AIDS-B,Male,7904013459,sangeeth.s2023ai-ds@sece.ac.in,IT,IT,Batch - 5,sangeeth_sece
+117,93,23AD120,SANJANA S PILLAI,AIDS-B,Female,86673 20813,sanjana.s.pillai2023ai-ds@sece.ac.in,IT,IT,Batch - 2,Sanjana0507
+118,538,23AD121,SANJAY P C,AIDS-B,Male,9500322339,sanjay.pc2023ai-ds@sece.ac.in,IT,IT,Batch - 4,sanjayPC
+119,623,23AD122,SANJAY PRIYAN S,AIDS-B,Male,6379810885,sanjaypriyan.s2023ai-ds@sece.ac.in,IT,IT,Batch - 5,sanjaypriyan
+120,157,23AD123,SANJEEVITHA C S,AIDS-B,Female,8940802221,sanjeevitha.cs2023ai-ds@sece.ac.in,IT,IT,Batch - 2,Sanjeevitha_cs
+121,44,23AD124,SANTHOSH P,AIDS-B,Male,9789504631,santhosh.p2023ai-ds@sece.ac.in,IT,IT,Batch - 1,Santhosh_P_007
+122,28,23AD125,SANTHOSH S,AIDS-B,Male,8072113041,santhosh.s2023ai-ds@sece.ac.in,IT,IT,Batch - 1,santhosh-sivakumar
+123,491,23AD126,SARA DAWOOD S,AIDS-B,Female,9385824145,saradawood.s2023ai-ds@sece.ac.in,IT,IT,Batch - 4,saradawoodai-ds04
+124,650,23AD127,SATHEESH A,AIDS-B,Male,6374557250,satheesh.a2023ai-ds@sece.ac.in,IT,IT,Batch - 5,Satheesh127
+125,32,23AD128,SELVAMOUNIKA K,AIDS-B,Female,7539964915,selvamounika.k2023ai-ds@sece.ac.in,IT,IT,Batch - 1,selvamounika_k
+126,583,23AD129,SHAAM S R,AIDS-B,Male,8610272665,shaam.sr2023ai-ds@sece.ac.in,IT,IT,Batch - 5,shaam_31
+127,41,23AD130,SHASTY VENKATESH G,AIDS-B,Male,8056384871,shastyvenkatesh.g2023ai-ds@sece.ac.in,IT,IT,Batch - 1,shasty_venkatesh
+128,324,23AD107,RAJAT JAISWAL,AIDS-C,Male,8960106544,rajatjaiswal2023ai-ds@sece.ac.in,IT,IT,Batch - 4,rajatjaishwal
+129,49,23AD131,SHIV KUMAR GUPTA,AIDS-C,Male,7739439995,shivkumargupta.2023ai-ds@sece.ac.in,IT,IT,Batch - 1,shivgupta19
+130,184,23AD132,SHREE RAM SUNDAR T,AIDS-C,Male,8189967703,shreeramsundar.t2023ai-ds@sece.ac.in,IT,IT,Batch - 3,Shreeram-2706
+131,756,23AD133,SHRI DHARSINI G,AIDS-C,Female,9629705639,shridharsini.g2023ai-ds@sece.ac.in,Not Interested,NOT INTERESTED,,SHRIDHARSINI
+132,36,23AD134,SHRUTI KUMARI JAISWAL,AIDS-C,Female,7739447323,shrutikumarijaiswal2023ai-ds@sece.ac.in,IT,IT,Batch - 1,Shruti198
+133,378,23AD135,SNEYA B R,AIDS-C,Female,9385397212,sneya.br2023ai-ds@sece.ac.in,IT,IT,Batch - 4,user1161Fn
+134,199,23AD136,SOWMIYA S,AIDS-C,Female,8148088511,sowmiya.s2023ai-ds@sece.ac.in,IT,IT,Batch - 2,sowmiya-2809
+135,204,23AD137,SRI SURIYA S,AIDS-C,Male,6383676973,srisuriya.s2023ai-ds@sece.ac.in,IT,IT,Batch - 3,SRISURIYA
+136,313,23AD138,SRIDHARAN S,AIDS-C,Male,9345888109,sridharan.s2023ai-ds@sece.ac.in,IT,IT,Batch - 4,sridharan-2005
+137,125,23AD139,SRIRAM M,AIDS-C,Male,9597458562,sriram.m2023ai-ds@sece.ac.in,IT,IT,Batch - 3,sriram22122
+138,325,23AD140,SRUTHY SUJI,AIDS-C,Female,8714717788,sruthysuji.2023ai-ds@sece.ac.in,IT,IT,Batch - 4,Sruthysuji13
+139,0,23AD141,SUGANDEEPAK V,AIDS-C,Male,9003515643,sugandeepak.v2023ai-ds@sece.ac.in,IT,IT,Batch - 5,Sugandeepak
+140,634,23AD142,SUMITHA R,AIDS-C,Female,7418981700,sumitha.r2023ai-ds@sece.ac.in,IT,IT,Batch - 5,sumithar77
+141,409,23AD143,SURENDAR P S,AIDS-C,Male,6384900104,surendar.ps2023ai-ds@sece.ac.in,IT,IT,Batch - 4,SUREN05
+142,267,23AD144,SURIYA A,AIDS-C,Female,8148567441,suriya.a2023ai-ds@sece.ac.in,IT,IT,Batch - 2,suriya_sece
+143,735,23AD145,SURYA PRABHA B,AIDS-C,Female,9789365076,suryaprabha.b2023ai-ds@sece.ac.in,IT,IT,Batch - 5,SuryaPrabha_145
+144,344,23AD146,SUSITHA C,AIDS-C,Female,9025918248,susitha.c2023ai-ds@sece.ac.in,IT,IT,Batch - 4,susitha2425
+145,177,23AD147,SUTHISH BALAJI R,AIDS-C,Male,8122782482,suthishbalaji.r2023ai-ds@sece.ac.in,IT,IT,Batch - 3,suthishbalajir
+146,671,23AD148,SWETHA D,AIDS-C,Female,9585844450,swetha.d2023ai-ds@sece.ac.in,Not Interested,NOT INTERESTED,,Swetha_D123
+147,240,23AD149,TARUN J,AIDS-C,Male,9677752642,tarun.j2023ai-ds@sece.ac.in,IT,IT,Batch - 3,tarun_001
+148,603,23AD150,THANU SRI A,AIDS-C,Female,8438684468,thanusri.a2023ai-ds@sece.ac.in,IT,IT,Batch - 5,thanusri_14
+149,526,23AD151,THARUNA D,AIDS-C,Female,9500298626,tharuna.d2023ai-ds@sece.ac.in,IT,IT,Batch - 4,tharuna0809
+150,529,23AD152,VAIMITRA S,AIDS-C,Female,9843950022,vaimitra.s2023ai-ds@sece.ac.in,IT,IT,Batch - 4,VaimitraSenthilkumar
+151,304,23AD153,VASANTH R,AIDS-C,Male,9994373370,vasanth.r2023ai-ds@sece.ac.in,IT,IT,Batch - 4,vasanth37141
+152,464,23AD154,VEERAVASANTHAN R,AIDS-C,Male,7397149308,veeravasanthan.r2023ai-ds@sece.ac.in,IT,IT,Batch - 4,veeravasanthan18
+153,211,23AD155,VIBISHA V,AIDS-C,Female,9171764640,vibisha.v2023ai-ds@sece.ac.in,IT,IT,Batch - 2,Vibisha
+154,477,23AD156,VINOTHA K,AIDS-C,Female,8778857094,vinotha.k2023ai-ds@sece.ac.in,IT,IT,Batch - 4,Vinotha_K
+155,480,23AD157,VISHNU SHIVA PRAKASH S,AIDS-C,Male,6385888410,vishnushivaprakash.s2023ai-ds@sece.ac.in,IT,IT,Batch - 4,vishnushivaprakashs
+156,55,23AD158,VISHNU YOGESH V K,AIDS-C,Male,7339610830,vishnuyogesh.vk2023ai-ds@sece.ac.in,IT,IT,Batch - 1,VISHNUYOGESH
+157,565,23AD159,YAMUNA SHRI T,AIDS-C,Female,6369705152,yamunashri.t2023ai-ds@sece.ac.in,IT,IT,Batch - 5,YamunaShri
+158,172,23AD160,YASHVANTH K P,AIDS-C,Male,8667094355,yashvanth.kp2023ai-ds@sece.ac.in,IT,IT,Batch - 3,Yashvanth27
+159,736,23AD161,YUVAN SHANKAR S,AIDS-C,Male,8610526897,yuvanshankar.s2023ai-ds@sece.ac.in,IT,IT,Batch - 5,YuvanShankar-2005
+160,0,23AD301,ABDUL LATHEEF MM,AIDS-C,Male,9445539677,abdullatheef.mm2023laids@sece.ac.in,IT,IT,Batch - 5,abdullatheef1601
+161,0,23AD302,GOWSHIC K,AIDS-C,Male,6385427087,gowshic.k2023laids@sece.ac.in,IT,IT,Batch - 5,gowshic
+162,0,23AD303,KEERTHANAAGNISHA M,AIDS-C,Female,8870625853,keerthanaagnisha.m2023laids@sece.ac.in,IT,IT,Batch - 5,keerthanaagnisha m
+163,605,23AD304,SHIVAPRAKASH M,AIDS-C,Male,7010398656,shivaprakash.m2023laids@sece.ac.in,IT,IT,Batch - 5,shriram1422
+164,0,23AD305,SHRIRAM S,AIDS-C,Male,7708225323,shriram.s2023laids@sece.ac.in,IT,IT,Batch - 5,shriram1422
+165,748,23AM001,ABINANDHANA C,AIML,Female,9345371150,abinandhana.c2023aiml@sece.ac.in,Not Interested,NOT INTERESTED,,Abinandhana-sek
+166,598,23AM002,ABISHEK B,AIML,Male,8190878580,abishek.b2023aiml@sece.ac.in,IT,IT,Batch - 5,abishek2912
+167,371,23AM003,AFRIN FATHIMA A,AIML,Female,6379248870,afrinfathima.a2023aiml@sece.ac.in,IT,IT,Batch - 4,afrinfathima
+168,194,23AM004,AKILAN B,AIML,Male,6383565590,akilan.b2023aiml@sece.ac.in,IT,IT,Batch - 3,akilanb2005
+169,0,23AM005,ASHFAQ A,AIML,Male,9943675577,bessildominic.a2023aiml@sece.ac.in,IT,IT,Batch - 5,user9138Vn
+170,610,23AM006,ASWIN AATHARSH J,AIML,Male,9025107466,aswinaatharsh.j2023aiml@sece.ac.in,IT,IT,Batch - 5,ASWINAATHARASH
+171,614,23AM007,ASWIN KUMAR R,AIML,Male,9025958422,aswinkumar.r2023aiml@sece.ac.in,IT,IT,Batch - 5,aswinramaraj
+172,205,23AM008,BESSIL DOMINIC A,AIML,Male,9943675577,bessildominic.a2023aiml@sece.ac.in,IT,IT,Batch - 3,user9138Vn
+173,471,23AM009,BHUPESH S,AIML,Male,9361580936,bhupesh.s2023aiml@sece.ac.in,IT,IT,Batch - 4,bhupe0106
+174,0,23AM010,BUVANES E,AIML,Male,9042751804,buvanes.e2023aiml@sece.ac.in,IT,IT,Batch - 5,Buvanes E
+175,712,23AM011,DEEKSHITHAA S V,AIML,Female,7904767424,deekshithaa.sv2023aiml@sece.ac.in,IT,IT,Batch - 5,deekshileetcode
+176,64,23AM012,DHANAPRIYA V A,AIML,Female,8015671191,dhanapriya.v2023aiml@sece.ac.in,IT,IT,Batch - 2,dhana11
+177,261,23AM013,DHANUSH D,AIML,Male,9080094957,dhanush.d2023aiml@sece.ac.in,IT,IT,Batch - 4,Dhanush-2023
+178,222,23AM014,DHARSHINI S,AIML,Female,7708479319,dharshini.s2023aiml@sece.ac.in,IT,IT,Batch - 2,dharshini2629
+179,0,23AM015,DHEEKSHITH J,AIML,Male,7418629290,dheekshith.j2023aiml@sece.ac.in,IT,IT,Batch - 5,dheekshith_03
+180,0,23AM016,DINESH R,AIML,Male,9342889660,dinesh.r2023aiml@sece.ac.in,IT,IT,Batch - 5,dineshr555
+181,173,23AM017,EISHANTH PALANISAMY,AIML,Male,9003423391,eishanthpalanisamy2023aiml@sece.ac.in,IT,IT,Batch - 3,Eishanth
+182,133,23AM018,ESWAR NANDHA A,AIML,Male,6369489951,eswarnandha.a2023aiml@sece.ac.in,IT,IT,Batch - 3,eswar_anand
+183,231,23AM019,GANDHIRAJ J,AIML,Male,7812891502,gandhiraj.j2023aiml@sece.ac.in,IT,IT,Batch - 3,gandhiraj_j
+184,67,23AM020,GAYATHRI S,AIML,Female,6379006081,gayathri.s2023aiml@sece.ac.in,IT,IT,Batch - 2,gayu1804
+185,592,23AM021,GOKUL V,AIML,Male,6379080459,gokul.v2023aiml@sece.ac.in,IT,IT,Batch - 5,gokul718
+186,599,23AM022,GOWTHAM VALLARASU K,AIML,Male,9345865017,gowthamvallarasu.k2023aiml@sece.ac.in,IT,IT,Batch - 5,gowthamk___
+187,293,23AM023,HARIHARAN M,AIML,Male,6374949396,hariharan.m2023aiml@sece.ac.in,IT,IT,Batch - 4,Hari_2810
+188,2,23AM024,HARIHARESHWAR D P,AIML,Male,9952597230,harihareshwar.dp2023aiml@sece.ac.in,IT,IT,Batch - 1,Harihareshwar_D_P
+189,197,23AM025,HARINI C,AIML,Female,9345391040,harini.c2023aiml@sece.ac.in,IT,IT,Batch - 2,harini2006
+190,380,23AM026,ILAMURUGAN A,AIML,Male,9345262594,ilamurugan.a2023aiml@sece.ac.in,IT,IT,Batch - 4,ilamurugan831
+191,26,23AM027,JAYARANI M,AIML,Female,6380704358,jayarani.m2023aiml@sece.ac.in,IT,IT,Batch - 1,JAYARANIMANIMARAN
+192,388,23AM028,JEYAKUMAR T,AIML,Male,7540042495,jeyakumar.t2023aiml@sece.ac.in,IT,IT,Batch - 4,jeyakumar1805
+193,0,23AM029,KARNEETH AKASH T,AIML,Male,9443549815,karneethakash.t2023aiml@sece.ac.in,IT,IT,Batch - 5,Akash_2223
+194,394,23AM030,KARTHIK RAJ K,AIML,Male,9942321977,karthikraj.k2023aiml@sece.ac.in,IT,IT,Batch - 4,KARTHIKRAJ_K
+195,73,23AM031,KOUSHIKA V,AIML,Female,9025904414,koushika.v2023aiml@sece.ac.in,IT,IT,Batch - 2,koushi2211
+196,165,23AM032,LOKITHA P,AIML,Female,9360001962,lokitha.p2023aiml@sece.ac.in,IT,IT,Batch - 2,lokitha_p
+197,644,23AM033,MITHUN S,AIML,Male,8220279886,mithun.s2023aiml@sece.ac.in,IT,IT,Batch - 5,Mithun_2526
+198,569,23AM034,MOHAMMED ASWATH M,AIML,Male,8248547453,mohammedaswath.m2023aiml@sece.ac.in,IT,IT,Batch - 5,Mohammed_Aswath
+199,66,23AM035,MONISH KANNA M,AIML,Male,8668129523,monishkanna.m2023aiml@sece.ac.in,IT,IT,Batch - 3,MONISH_KANNA_M_2442
+200,275,23AM036,NANDHAKUMAR K,AIML,Male,7339578148,nandhakumar.k2023aiml@sece.ac.in,IT,IT,Batch - 4,Nandhakumark05
+201,506,23AM037,NAREN K G,AIML,Male,9597400881,naren.kg2023aiml@sece.ac.in,IT,IT,Batch - 4,narenkg
+202,285,23AM038,PRATEEKSHA G V,AIML,Female,8248717352,prateeksha.gv2023aiml@sece.ac.in,IT,IT,Batch - 2,gvprateeksha01
+203,514,23AM039,RAGAVAN V,AIML,Male,9500472742,ragavan.v2023aiml@sece.ac.in,IT,IT,Batch - 4,Ragavan_V
+204,87,23AM040,RAGUL R,AIML,Male,7373539566,ragul.r2023aiml@sece.ac.in,IT,IT,Batch - 3,ragul555
+205,7,23AM041,RAJAMURUGAN A,AIML,Male,9976235509,rajamurugan.a2023aiml@sece.ac.in,IT,IT,Batch - 1,___RajaMurugan___
+206,9,23AM042,RAVIKUMAR D,AIML,Male,8825677072,ravikumar.d2023aiml@sece.ac.in,IT,IT,Batch - 1,ravikumard
+207,250,23AM043,ROSHINI GS,AIML,Female,6379403651,roshini.gs2023aiml@sece.ac.in,IT,IT,Batch - 2,23AIML043
+208,206,23AM044,SAHANAA B,AIML,Female,8735960437,sahanaa.b2023aiml@sece.ac.in,IT,IT,Batch - 2,BSahanaa
+209,54,23AM045,SAISHREE S,AIML,Female,9677330011,saishree.s2023aiml@sece.ac.in,IT,IT,Batch - 1,saishree-07
+210,548,23AM046,SHIVASURYA R,AIML,Male,6383143419,shivasurya.r2023aiml@sece.ac.in,IT,IT,Batch - 4,r_shivasurya
+211,19,23AM047,SIDDIQSHA A,AIML,Female,8220724545,siddiqsha.a2023aiml@sece.ac.in,IT,IT,Batch - 1,Siddiqsha
+212,558,23AM048,SIVA VISHAAK A K,AIML,Male,9361623321,sivavishaak.ak2023aiml@sece.ac.in,IT,IT,Batch - 5,user0959Wk
+213,725,23AM049,SRI HARI R,AIML,Male,9994202287,srihari.r2023aiml@sece.ac.in,IT,IT,Batch - 5,Srihari12
+214,30,23AM050,SUDHESH RAJAN M N,AIML,Male,9344788579,sudheshrajan.mn2023aiml@sece.ac.in,IT,IT,Batch - 1,M_N_SUDHESH_RAJAN
+215,576,23AM051,SUJITH RAJA R,AIML,Male,7418884408,sujithraja.r2023aiml@sece.ac.in,IT,IT,Batch - 5,7sujith_raja
+216,276,23AM052,SURYA J,AIML,Male,9342691995,surya.j2023aiml@sece.ac.in,IT,IT,Batch - 4,surya_aiml20
+217,588,23AM053,SUVETHAA D R,AIML,Female,6379054448,suvethaa.d2023aiml@sece.ac.in,IT,IT,Batch - 5,suve06
+218,749,23AM054,THANGADURAI S,AIML,Male,7871691614,thangadurai.s2023aiml@sece.ac.in,IT,IT,Batch - 5,thangadurais
+219,515,23AM055,THEERTHA R,AIML,Female,8870152376,theertha.r2023aiml@sece.ac.in,IT,IT,Batch - 4,Theertha08
+220,520,23AM056,THIRUMENI O V,AIML,Male,9842923995,thirumeni.ov2023aiml@sece.ac.in,IT,IT,Batch - 4,Thirumeniov
+221,69,23AM057,THIRUNEELIN V P,AIML,Male,6381103900,thiruneelin.vp2023aiml@sece.ac.in,IT,IT,Batch - 3,Thiruneelin
+222,117,23AM058,TIVYATHARSHINI J,AIML,Female,9345391404,tivyatharshini.j2023aiml@sece.ac.in,IT,IT,Batch - 2,Tivyatharshini
+223,695,23AM059,UMAMAHESWARI G,AIML,Female,8124013128,umamaheswari.g2023aiml@sece.ac.in,IT,IT,Batch - 5,Umamaheswari_G
+224,539,23AM060,VANAJ KALYAN S R,AIML,Male,8825547951,vanajkalyan.sr2023aiml@sece.ac.in,IT,IT,Batch - 4,VanajKalyan
+225,314,23AM061,VIJEY ROSHAN M,AIML,Male,9042389136,vijeyroshan.m2023aiml@sece.ac.in,IT,IT,Batch - 4,VijeyRoshanM
+226,214,23AM062,VISHAL R,AIML,Male,8610946501,vishal.r2023aiml@sece.ac.in,IT,IT,Batch - 3,Vishal3012
+227,27,23AM063,YAZHINI R,AIML,Female,9003701564,yazhini.r2023aiml@sece.ac.in,IT,IT,Batch - 1,yazhini21
+228,635,23AM301,HARIHARPRADEEEP J,AIML,Male,9942771202,hariharpradeep.j2023aiml@sece.ac.in,IT,IT,Batch - 5,hariharpradeep_15
+229,0,23AM302,HARSHAVARTHAN S B,AIML,Male,7448377089,harshavarthan.sb2023laiml@sece.ac.in,IT,IT,Batch - 5,Harshavarthan7
+230,566,23CC001,ADHITHYA VEERAMALAI MANICKAM,CCE,Male,8072563091,adhithyaveeramalaimanickam2023cce@sece.ac.in,IT,IT,Batch - 9,ADHITHYA_V_M
+231,268,23CC002,AJIBA REESHMA B,CCE,Female,6385719891,ajibareeshma.b2023cce@sece.ac.in,IT,IT,Batch - 2,Ajiba_Reeshma
+232,737,23CC003,ARVIND B,CCE,Male,8438417501,arvind.b2023cce@sece.ac.in,IT,IT,Batch - 9,arvindbalasubramanian587
+233,277,23CC004,ASWIN E,CCE,Male,9842795095,aswin.e2023cce@sece.ac.in,IT,IT,Batch - 9,aswinelaiya
+234,425,23CC005,CHANDRU D,CCE,Male,9500744764,chandru.d2023cce@sece.ac.in,IT,IT,Batch - 9,chandru232305
+235,0,23CC006,DEVANANTH S S,CCE,Male,6382178168,devananth.ss2023cce@sece.ac.in,IT,IT,Batch - 9,devananthshanmugasundaram
+236,432,23CC007,DEVASHREE R,CCE,Female,8682832760,devashree.r2023cce@sece.ac.in,IT,IT,Batch - 9,Devashree_27
+237,185,23CC008,DHANAVARSHINI P R,CCE,Female,9791499819,dhanavarshini.pr2023cce@sece.ac.in,IT,IT,Batch - 2,Dhanavarshini_PR
+238,521,23CC009,DHARSHANA M,CCE,Female,9025152169,dharshana.m2023cce@sece.ac.in,IT,IT,Batch - 9,Dharshana_M
+239,683,23CC010,DHARUN ADITHYA R,CCE,Male,9487787974,dharunadithya.r2023cce@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,adithyarajendran098
+240,452,23CC012,DHIVYADHARSHINI R,CCE,Female,9788588092,dhivyadharshini.r2023cce@sece.ac.in,IT,IT,Batch - 9,23CCE012
+241,305,23CC013,DINESH KUMAR I,CCE,Male,9345643622,dineshkumar.i2023cce@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,11Dk
+242,0,23CC014,GOPI P,CCE,Male,9363166576,gopi.p2023cce@sece.ac.in,Not Interested,NOT INTERESTED,,gopi23CC014
+243,207,23CC016,GURUPRASATH M,CCE,Male,8870627998,guruprasath.m2023cce@sece.ac.in,IT,IT,Batch - 3,mguruprasath416
+244,472,23CC017,HARINI C,CCE,Female,9943083826,harini.c2023cce@sece.ac.in,IT,IT,Batch - 9,Harini_70
+245,317,23CC018,JAISHREE Y,CCE,Female,9361280237,jaishree.y2023cce@sece.ac.in,IT,IT,Batch - 9,jaishree8888
+246,400,23CC019,JASON JOSHUVA J,CCE,Male,9003407379,jasonjoshuva.j2023cce@sece.ac.in,IT,IT,Batch - 9,jasonjoshuva10
+247,636,23CC020,JEIYA SHIVANI S S,CCE,Female,9843990499,jeiyashivani.ss2023cce@sece.ac.in,IT,IT,Batch - 9,Jeiyashivani
+248,223,23CC021,JEYANTHI A,CCE,Female,9629382411,jeyanthi.a2023cce@sece.ac.in,IT,IT,Batch - 2,jeyanthi_a
+249,0,23CC022,JODHIKRISHNAA P,CCE,Male,6385374709,jodhikrishnaa.p2023cce@sece.ac.in,IT,IT,Batch - 9,"Jodhikrishnaa30
+"
+250,22,23CC023,KALAIDHARSHINI K,CCE,Female,9042406930,kalaidharshini.k2023cce@sece.ac.in,IT,IT,Batch - 1,user1622FQ
+251,345,23CC024,KARPAGAYALINI R,CCE,Female,7373603603,karpagayalini.r2023cce@sece.ac.in,IT,IT,Batch - 1,KARPAGAYALINI2106
+252,281,23CC025,KAVIKA S,CCE,Female,6381553457,kavika.s2023cce@sece.ac.in,IT,IT,Batch - 2,user7065LH
+253,672,23CC026,KAVINESH E,CCE,Male,9360817465,kavinesh.e2023cce@sece.ac.in,IT,IT,Batch - 9,kavinesh123
+254,516,23CC027,KAVIYARASU M,CCE,Male,9677513639,kaviyarasu.m2023cce@sece.ac.in,IT,IT,Batch - 9,user4096B
+255,144,23CC028,KAWIN M,CCE,Male,8807304048,kawin.m2023cce@sece.ac.in,IT,IT,Batch - 3,kawinmuthukumar
+256,297,23CC029,KEERTHANA R,CCE,Female,63851 69748 ,keerthana.r2023cce@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,user1742Vs
+257,530,23CC030,KEERTHANA S,CCE,Female,9080036845,keerthana.s2023cce@sece.ac.in,IT,IT,Batch - 9,Keerthana_S0401
+258,306,23CC031,KISHORE T,CCE,Male,6369941808,kishore.t2023cce@sece.ac.in,IT,IT,Batch - 1,kishore_07k
+259,540,23CC032,LAVANYA V,CCE,Female,9342201049,lavanya.v2023cce@sece.ac.in,IT,IT,Batch - 9,Lavanya-15
+260,253,23CC033,MADHESH KANNA A,CCE,Male,9677348421,madheshkanna.a2023cce@sece.ac.in,IT,IT,Batch - 3,Madhesh-kanna-06
+261,0,23CC034,MUGESH G,CCE,Male,6380809090,mugesh.g2023cce@sece.ac.in,IT,IT,Batch - 9,Mugesh81
+262,6,23CC035,MURALIDHARAN S,CCE,Male,8270640316,muralidharan.s2023cce@sece.ac.in,IT,IT,Batch - 1,Mu_LEE
+263,406,23CC036,NAVEEN R,CCE,Male,9095930717,naveen.r2023cce@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,naveenffts
+264,224,23CC037,NAVEEN RAJ R,CCE,Male,8148316014,naveenraj.r2023cce@sece.ac.in,IT,IT,Batch - 3,Naveenraj2705
+265,174,23CC038,NIKHILA D,CCE,Female,9789124752,nikhila.d2023cce@sece.ac.in,IT,IT,Batch - 2, Nikhila_D
+266,270,23CC039,NIRMAL RAAJU M B,CCE,Male,6384316892,nirmalraaju.mb2023cce@sece.ac.in,IT,IT,Batch - 9,nirmalraaju_mb
+267,135,23CC040,PAVITHRA E,CCE,Female,9345710286,pavithra.e2023cce@sece.ac.in,IT,IT,Batch - 2,Pavith_ra-05
+268,282,23CC041,PRADEEPA M,CCE,Female,6380121932,pradeepa.m2023cce@sece.ac.in,IT,IT,Batch - 2,pradeepamcce
+269,180,23CC042,PRASANTH M,CCE,Male,9894510975,prasanth.m2023cce@sece.ac.in,IT,IT,Batch - 3,prasanth09102005
+270,141,23CC043,PRISHA S,CCE,Female,7598653900,prisha.s2023cce@sece.ac.in,IT,IT,Batch - 2,prishasanthosh
+271,242,23CC044,SAMUVEL GIPSON S,CCE,Male,7708440307,samuvelgipson.s2023cce@sece.ac.in,IT,IT,Batch - 3,Samuvel_gipson
+272,0,23CC045,SANJAY M,CCE,Male,9585317574,sanjay.m2023cce@sece.ac.in,IT,IT,Batch - 9,Sanjay_Murugesan
+273,453,23CC046,SANJITH S,CCE,Male,9894755053,sanjith.s2023cce@sece.ac.in,IT,IT,Batch - 9,sanjithsece
+274,94,23CC047,SARATHI U,CCE,Male,7010766304,sarathi.u2023cce@sece.ac.in,IT,IT,Batch - 3,Sarathi_Udhai
+275,208,23CC048,SAUMYA M,CCE,Female,9489675186,saumya.m2023cce@sece.ac.in,IT,IT,Batch - 2,SaumyaM_2005
+276,5,23CC050,SHOBIHA S,CCE,Female,7200908022,shobiha.s2023cce@sece.ac.in,IT,IT,Batch - 1,shobiha
+277,257,23CC051,SHUBHA GITA K,CCE,Female,6374846400,shubhagita.k2023cce@sece.ac.in,IT,IT,Batch - 2,shubha_06
+278,0,23CC052,SRIDHAR N,CCE,Male,9597760309,sridhar.n2023cce@sece.ac.in,IT,IT,Batch - 9,srisridhar
+279,217,23CC053,SRIRAM K V,CCE,Male,6383091664,sriram.kv2023cce@sece.ac.in,IT,IT,Batch - 3,sriramkv1409
+280,637,23CC054,SRIVIGNESH S,CCE,Male,8608633110,srivignesh.s2023cce@sece.ac.in,CORE,CORE- VLSI,Batch - 11,srivignesh_cce
+281,492,23CC055,SUBHIKSHA R,CCE,Female,9342757732,subhiksha.r2023cce@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,RSUBHIKSHA 
+282,570,23CC056,SUGAN PRABHU G,CCE,Male,7397108517,suganprabhu.g2023cce@sece.ac.in,IT,IT,Batch - 9,suganprabhu
+283,501,23CC057,SURENDAR R,CCE,Male,7010559510,surendar.r2023cce@sece.ac.in,IT,IT,Batch - 9,7uAbe382RM
+284,741,23CC058,THAMARAI SELVAN S,CCE,Male,9042963306,thamaraiselvan.s2023cce@sece.ac.in,IT,IT,Batch - 9,thamaraiselvansubbiah
+285,507,23CC059,VAINAVI S,CCE,Female,9344140919,vainavi.s2023cce@sece.ac.in,IT,IT,Batch - 9,VAINAVI S CCE
+286,593,23CC060,VARUN S,CCE,Male,8838192429,varun.s2023cce@sece.ac.in,IT,IT,Batch - 9,varunsanthanam14
+287,289,23CC061,VISHWA N,CCE,Male,6382720381,vishwa.n2023cce@sece.ac.in,IT,IT,Batch - 9,Vishwa063
+288,58,23CC062,YASWANTH B,CCE,Male,9514751105,yaswanth.b2023cce@sece.ac.in,IT,IT,Batch - 1,yaswanthvisa
+289,447,23CC063,YUVARAJ N,CCE,Male,8883369683,yuvaraj.n2023cce@sece.ac.in,IT,IT,Batch - 9,yuvarajcce
+290,454,23CB001,Adriannaa Anand,CSBS,Female,9999488428,adriannaaanand.2023csbs@sece.ac.in,IT,IT,Batch - 6,Adriannaa_Anand 
+291,95,23CB002,Aghilan D J,CSBS,Male,6381365151,aghilan.dj2023csbs@sece.ac.in,IT,IT,Batch - 3,aghilandj
+292,0,23CB003,Akshaya SV,CSBS,Female,8098223683,akshaya.sv2023csbs@sece.ac.in,IT,IT,Batch - 6,user6955qQ
+293,151,23CB004,Angupranisa U,CSBS,Female,9080176126,angupranisa.u2023csbs@sece.ac.in,IT,IT,Batch - 2,angupranisa
+294,473,23CB005,Aravindh G,CSBS,Male,8925276618,aravindh.g2023csbs@sece.ac.in,IT,IT,Batch - 6,aravindh17
+295,126,23CB006,Ashmika R,CSBS,Female,9843624205,ashmika.r2023csbs@sece.ac.in,IT,IT,Batch - 2,ashmika_29
+296,162,23CB007,Ashwinth S,CSBS,Male,8248576071,ashwinth.s2023csbs@sece.ac.in,IT,IT,Batch - 3,ashwinth_22_
+297,559,23CB008,Bharanidharan S,CSBS,Male,7708300732,bharanidharan.s2023csbs@sece.ac.in,IT,IT,Batch - 6,bharanidharansivakumar64
+298,263,23CB009,Bowyashree K,CSBS,Female,9952852946,birunthadevi.s2023csbs@sece.ac.in,IT,IT,Batch - 2,user9432c
+299,494,23CB010,Bowyashree K,CSBS,Female,9043398009,bowyashree.k2023csbs@sece.ac.in,IT,IT,Batch - 6,birunthadevi
+300,134,23CB011,Darsan S,CSBS,Male,9342347756,darsan.s2023csbs@sece.ac.in,IT,IT,Batch - 3,darsan1425
+301,79 ( (Will attend only japanese company),23CB012,DHARANI R S,CSBS,Male,7904867441,dharani.rs2023csbs@sece.ac.in,IT,IT,Batch - 3,rsd_004
+302,283,23CB013,Dharshini,CSBS,Female,6374950485,dharshini.n2023csbs@sece.ac.in,IT,IT,Batch - 2,Dharshini_2005
+303,594,23CB014,Dhivith kumar,CSBS,Male,9488607845,dhivithkumar.2023csbs@sece.ac.in,IT,IT,Batch - 6,Dhivithkumar
+304,366,23CB015,Dhora M,CSBS,Female,8122273244,dhora.m2023csbs@sece.ac.in,IT,IT,Batch - 6,doracsbs015
+305,442,23CB016,Haarish Guru Y,CSBS,Male,6380172636,haarishguru.y2023csbs@sece.ac.in,IT,IT,Batch - 6,Haarishcsbs016
+306,684,23CB017,Harish K M,CSBS,Male,9344495646,harish.km2023csbs@sece.ac.in,IT,IT,Batch - 6,harish_875
+307,0,23CB018,Jack Bruno A,CSBS,Male,8883325277,jackbruno.a2023csbs@sece.ac.in,IT,IT,Batch - 6,Jackbruno
+308,455,23CB019,Janarthani D,CSBS,Female,9943282058,janarthani.d2023csbs@sece.ac.in,IT,IT,Batch - 6,Janarthani_d
+309,70,23CB020,JAYASUBRAMANIAN N,CSBS,Male,9952231755,jayasubramanian.n2023csbs@sece.ac.in,IT,IT,Batch - 3,user4954ud
+310,541,23CB021,Jerlin Princy F,CSBS,Female,9344883844,jerlinprincy.f2023csbs@sece.ac.in,IT,IT,Batch - 6,jerlinprincyf
+311,0,23CB022,Jithender,CSBS,Male,9360396560,jithender.j2023csbs@sece.ac.in,IT,IT,Batch - 6,Jithenderj
+312,0,23CB023,Jithesh Mouriya R,CSBS,Male,7200274008,jitheshmouriya.r2023csbs@sece.ac.in,IT,IT,Batch - 6,Jithesh_Mouriya
+313,99,23CB024,Kiruthika S,CSBS,Female,8072014142,kiruthika.s2023csbs@sece.ac.in,IT,IT,Batch - 2, kiruthikasivakumar
+314,318,23CB025,Kishor S,CSBS,Male,9788114422,kishor.s2023csbs@sece.ac.in,IT,IT,Batch - 6,KISHOR_S_06
+315,20,23CB026,KISHORE KUMAR G,CSBS,Male,6379954958,kishorekumar.g2023csbs@sece.ac.in,IT,IT,Batch - 1,Kishore_csbs
+316,638,23CB027,Krisha US,CSBS,Female,6380053647,krisha.us2023csbs@sece.ac.in,IT,IT,Batch - 6,krishaus_16
+317,103,23CB028,Krishna B S,CSBS,Male,9498431469,krishna.bs2023csbs@sece.ac.in,IT,IT,Batch - 3,KRISHNA_3406
+318,131,23CB029,Lakshitha SM,CSBS,Female,9843358300,lakshitha.sm2023csbs@sece.ac.in,IT,IT,Batch - 2,Lakshitha_SM
+319,502,23CB030,Lavanya S,CSBS,Female,7397426640,lavanya.s2023csbs@sece.ac.in,IT,IT,Batch - 6,user8749DW
+320,742,23CB031,Manoj Singh D,CSBS,Male,6380621885,manojsingh.d2023csbs@sece.ac.in,IT,IT,Batch - 6,manojsinghd
+321,0,23CB032,Meena R,CSBS,Female,9500391157,meena.r2023csbs@sece.ac.in,IT,IT,Batch - 6,meena032
+322,508,23CB033,Mithilesh T,CSBS,Male,8973339000,mithilesh.t2023csbs@sece.ac.in,IT,IT,Batch - 6,mithil_123
+323,673,23CB034,Mithraja M,CSBS,Female,9080545261,mithraja.m2023csbs@sece.ac.in,IT,IT,Batch - 6,Mithraja
+324,436,23CB035,Mohan Prasath N,CSBS,Male,9345552405,mohanprasath.n2023csbs@sece.ac.in,IT,IT,Batch - 6,mohanprasath2006
+325,59,23CB036,MUTHAIAH P,CSBS,Male,9074430872,muthaiah.p2023csbs@sece.ac.in,IT,IT,Batch - 1,muthaiah_panchanathan
+326,448,23CB037,Nirmal S,CSBS,Male,9543406696,nirmal.s2023csbs@sece.ac.in,IT,IT,Batch - 6,nirmal77
+327,531,23CB038,Nithya Sri,CSBS,Female,9043943232,nithyasri.n2023csbs@sece.ac.in,IT,IT,Batch - 6,nithyanagamuthu
+328,615,23CB039,Pragadeswaran P A,CSBS,Male,9003806988,pragadeswaran.pa2023csbs@sece.ac.in,IT,IT,Batch - 6,pragadeswaran
+329,152,23CB040,Prathiksha D,CSBS,Female,7540059700,prathiksha.d2023csbs@sece.ac.in,IT,IT,Batch - 2,Prathiksha12
+330,474,23CB041,Prem Kumar K,CSBS,Male,8667834372,premkumar.k2023csbs@sece.ac.in,IT,IT,Batch - 6,premkumar_karunanithi
+331,630,23CB042,Raghul S,CSBS,Male,8220627199,raghul.s2023csbs@sece.ac.in,IT,IT,Batch - 6,Ragghhul
+332,45 (Will attend only japanese company),23CB043,RAGURAM G,CSBS,Male,6380872616,raguram.g2023csbs@sece.ac.in,IT,IT,Batch - 1,raguram832
+333,46,23CB044,Rathina Moorthy C,CSBS,Male,6374795710,rathinamoorthy.c2023csbs@sece.ac.in,IT,IT,Batch - 1, rathina_7
+334,75,23CB045,SANJAY S,CSBS,Male,8220234410,sanjay.s2023csbs@sece.ac.in,IT,IT,Batch - 3,SanjaySaravanan123
+335,651,23CB046,SANJAY SHANMUGASUNDARAM S,CSBS,Male,9360784613,sanjayshanmugasundaram.2023csbs@sece.ac.in,IT,IT,Batch - 6,Sanjayshanmugasundaram
+336,0,23CB047,Sanjeeth J,CSBS,Male,6374011263,sanjeeth.j2023csbs@sece.ac.in,IT,IT,Batch - 6,HhUWSnR3vy
+337,577,23CB048,Sathyan Deepak S,CSBS,Male,9150573862,sathyandeepak.s2023csbs@sece.ac.in,IT,IT,Batch - 6,Sathyan_Deepak
+338,80,23CB049,Shri sudharsan M,CSBS,Male,7708727425,shrisudharsan.m2023csbs@sece.ac.in,IT,IT,Batch - 3,Sudhan_005
+339,426,23CB050,SHIVA KUMAR M,CSBS,Male,8870431643,sivakumar.m2023csbs@sece.ac.in,IT,IT,Batch - 6,Sivakumar09072004
+340,358,23CB051,Sivavashini S,CSBS,Female,9003467635,sivavashini.s2023csbs@sece.ac.in,IT,IT,Batch - 6,Sivavashini_S
+341,600,23CB052,Sowmya tiwari,CSBS,Female,8072492743,sowmyatiwari.2023csbs@sece.ac.in,IT,IT,Batch - 6,sowmyatiwari
+342,522,23CB053,sri Geethani R,CSBS,Female,7397454084,srigeethani.r2023csbs@sece.ac.in,IT,IT,Batch - 6,geethanisri
+343,195,23CB054,Sri sakthi B,CSBS,Female,9789525261,srisakthi.b2023csbs@sece.ac.in,IT,IT,Batch - 2,sri_sakthi_b
+344,148,23CB055,Sundaresen M W,CSBS,Male,6383123363,sundaresan.mw2023csbs@sece.ac.in,IT,IT,Batch - 3,Sundar_1004
+345,0,23CB056,Suruthiksha S,CSBS,Female,8072597477,suruthiksha.s2023csbs@sece.ac.in,IT,IT,Batch - 6,Suruthiksha 
+346,307,23CB057,Vaishnav P V,CSBS,Male,9003881776,vaishnav.pv2023csbs@sece.ac.in,IT,IT,Batch - 6,vaishnavpv29
+347,465,23CB058,Vengadesh P,CSBS,Male,8270859094,vengadesh.p2023csbs@sece.ac.in,IT,IT,Batch - 6,vengadesh_7
+348,389,23CB059,vethanarrthana,CSBS,Female,9344189418,vethanarrthana.s2023csbs@sece.ac.in,IT,IT,Batch - 6,Vethanarrthana
+349,550,23CB060,Vishali M,CSBS,Female,6374999125,vishali.m2023csbs@sece.ac.in,IT,IT,Batch - 6,user9918vi
+350,21,23CB061,Vishnu R,CSBS,Male,7598650777,vishnu.r2023csbs@sece.ac.in,IT,IT,Batch - 1,user3161EP
+351,3,23CB062,YUNUS M M,CSBS,Male,9597463093,yunus.mm2023csbs@sece.ac.in,IT,IT,Batch - 1,yunus_mm
+352,225,23CS001,AADHISESAN P,CSE-A,Male,6382471224,aadhisesan.p2023cse@sece.ac.in,IT,IT,Batch - 3,aadhiaadhi5435
+353,652,23CS002,ABHISHEK KUNWAR,CSE-A,Male,7708520329,abhishekkunwar2023cse@sece.ac.in,IT,IT,Batch - 8,Abhishek_Kunwar23
+354,14,23CS003,ABIRAMI T,CSE-A,Female,9894647827,abirami.t2023cse@sece.ac.in,IT,IT,Batch - 1,Abirami6
+355,584,23CS004,ADITYA V N,CSE-A,Male,6381178409,aditya.vn2023cse@sece.ac.in,IT,IT,Batch - 7,adityavn03
+356,427,23CS005,AGADEESHWARAN D,CSE-A,Male,8807557756,agadeeshwaran.d2023cse@sece.ac.in,IT,IT,Batch - 7,Agadeeshwaran
+357,750,23CS006,AISHWARYA V,CSE-A,Female,8903744691,aishwarya.v2023cse@sece.ac.in,IT,IT,Batch - 8,nsmhjtj
+358,34,23CS007,AJAY K K,CSE-A,Male,6381861035,ajay.kk2023cse@sece.ac.in,IT,IT,Batch - 1,Ajay_kannan35
+359,604,23CS008,AJAYARAVIND P S,CSE-A,Male,9751928811,ajayaravind.ps2023cse@sece.ac.in,IT,IT,Batch - 7,user1472ch
+360,685,23CS009,AKASH KRISHNAN K,CSE-A,Male,9042548283,akashkrishnan.k2023cse@sece.ac.in,IT,IT,Batch - 8,Akazh_krishnan
+361,300,23CS010,AKHSHAY T P,CSE-A,Male,6383128964,akhshay.tp2023cse@sece.ac.in,IT,IT,Batch - 7,AkhshayTP
+362,696,23CS011,AKSHAY P,CSE-A,Male,9843960702,akshay.p2023cse@sece.ac.in,IT,IT,Batch - 8,Akshaypree007
+363,618,23CS012,ANANTHKISHORE S,CSE-A,Male,8072713135,ananthkishore.s2023cse@sece.ac.in,IT,IT,Batch - 7,ananthkishore11
+364,315,23CS013,ANEASH K A,CSE-A,Male,9345656366,aneash.ka2023cse@sece.ac.in,IT,IT,Batch - 7,aneash
+365,551,23CS014,ANGU RAKANISA S,CSE-A,Female,8778507260,angurakanisa.s2023cse@sece.ac.in,IT,IT,Batch - 7,ANGURAKANISA
+366,481,23CS015,ANIROODH T V,CSE-A,Male,8610826001,aniroodh.tv2023cse@sece.ac.in,IT,IT,Batch - 7,user3903wV
+367,488,23CS016,ANISHA DHARSHINI A,CSE-A,Female,9442190883,anishadharshini.a2023cse@sece.ac.in,IT,IT,Batch - 7,AnishaDharshini
+368,226,23CS017,ANTO SHREYA N,CSE-A,Female,9345724782,antoshreya.n2023cse@sece.ac.in,IT,IT,Batch - 2,ANTO_SHREYA
+369,40,23CS018,ANUSHIYA K,CSE-A,Female,6385715049,anushiya.k2023cse@sece.ac.in,IT,IT,Batch - 1,Anushiya_01
+370,57,23CS019,ARAVINENDH R,CSE-A,Male,8838795259,aravinendh.r2023cse@sece.ac.in,IT,IT,Batch - 1,AravinendhR
+371,232,23CS020,ARAVINTHAN V,CSE-A,Male,8667373509,aravinthan.v2023cse@sece.ac.in,IT,IT,Batch - 3,aravinthanvijayakumar5
+372,42,23CS021,ARUN R,CSE-A,Male,6374181274,arun.r2023cse@sece.ac.in,IT,IT,Batch - 1,arunrajasekaran1209
+373,433,23CS022,ASATH A,CSE-A,Male,9042170658,asath.a2023cse@sece.ac.in,IT,IT,Batch - 7,asathasath435
+374,86,23CS023,ASHIQ AHAMED N,CSE-A,Male,9842363006,ashiqahamed.n2023cse@sece.ac.in,IT,IT,Batch - 3,Ashiq17
+375,112,23CS024,ASHIYA PARVEEN,CSE-A,Female,6379191694,ashiyaparveen.r2023cse@sece.ac.in,IT,IT,Batch - 2,ashiyaparveen
+376,686,23CS025,ASHUTOSH JAIRAM S,CSE-A,Male,9003036548,ashutoshjairam.s2023cse@sece.ac.in,IT,IT,Batch - 8,AshJay009
+377,456,23CS026,ASHWIN M,CSE-A,Male,9750009955,ashwin.m2023cse@sece.ac.in,IT,IT,Batch - 7,Ashwin-M
+378,308,23CS027,ASWIN SURIYA C,CSE-A,Male,9344081155,aswinsuriya.c2023cse@sece.ac.in,IT,IT,Batch - 7,aswinsuriya
+379,97,23CS029,BALACHANDAR B,CSE-A,Male,9344154685,balachandar.b2023cse@sece.ac.in,IT,IT,Batch - 3,balachandarb
+380,155,23CS030,BALASURYA D,CSE-A,Male,9345708778,balasurya.d2023cse@sece.ac.in,IT,IT,Batch - 3,user8937cr
+381,713,23CS031,BARATH S,CSE-A,Male,9791836833,barath.s2023cse@sece.ac.in,IT,IT,Batch - 8,Barath1234S
+382,717,23CS032,BARATHKUMAR R,CSE-A,Male,6369088565,barathkumar.r2023cse@sece.ac.in,IT,IT,Batch - 8,Barath_kumar_R
+383,47,23CS033,BAVANETHA M R,CSE-A,Female,9042457521,bavanetha.mr2023cse@sece.ac.in,IT,IT,Batch - 1,Bavanetha27
+384,493,23CS034,BENNY HINN L,CSE-A,Male,9345702484,bennyhinn.l2023cse@sece.ac.in,IT,IT,Batch - 7,Benny03
+385,228,23CS035,BHARATHKUMAR M,CSE-A,Male,9952250033,bharathkumar.m2023cse@sece.ac.in,IT,IT,Batch - 3,XpL0itX
+386,341,23CS036,BOOBALAN R S,CSE-A,Male,9080054315,boobalan.rs2023cse@sece.ac.in,IT,IT,Batch - 7,boobalan_rs
+387,11,23CS037,BOOPATHI V,CSE-A,Male,7010868772,boopathi.v2023cse@sece.ac.in,IT,IT,Batch - 1,BOOPATHI_V
+388,235,23CS038,DANUSH SIDDARTH K,CSE-A,Male,7845891631,danushsiddarth.k2023cse@sece.ac.in,IT,IT,Batch - 3,danushsiddarth
+389,595,23CS039,DARSAN V,CSE-A,Male,9894605705,darsan.v2023cse@sece.ac.in,IT,IT,Batch - 7, darsanv_27
+390,186,23CS040,DEEKSHITHA M,CSE-A,Female,7305105954,deekshitha.m2023cse@sece.ac.in,IT,IT,Batch - 2,DeekshithaMariyappan
+391,190,23CS041,DHARANISH A M,CSE-A,Male,8668030261,dharanish.am2023cse@sece.ac.in,IT,IT,Batch - 3,dharanisham
+392,50,23CS042,DHARANYA S,CSE-A,Female,9715134447,dharanya.s2023cse@sece.ac.in,IT,IT,Batch - 1,Dharanya_S
+393,532,23CS043,DHARSHAN S M,CSE-A,Male,9361773069,dharshan.sm2023cse@sece.ac.in,IT,IT,Batch - 7,dharshan19122005
+394,71,23CS044,DHIVIYA LAKSHIME C,CSE-A,Female,9042742416,dhiviyalakshime.c2023cse@sece.ac.in,IT,IT,Batch - 2,dhiviya_c
+395,153,23CS045,DIVAKAR R,CSE-A,Male,6369171753,divakar.r2023cse@sece.ac.in,IT,IT,Batch - 3,divakarravi
+396,156,23CS046,ELANGOVAN S,CSE-A,Male,8973344303,elangovan.s2023cse@sece.ac.in,IT,IT,Batch - 3,iam_elango
+397,319,23CS047,ELAVARASAN P,CSE-A,Male,6369576578,elavarasan.p2023cse@sece.ac.in,IT,IT,Batch - 7,Elavarasan_P
+398,163,23CS048,GANGA SREE M,CSE-A,Female,8870211647,gangasree.m2023cse@sece.ac.in,IT,IT,Batch - 2,Ganga_sree
+399,39,23CS049,GEETHAPRIYAN S,CSE-A,Male,9003593274,geethapriyan.s2023cse@sece.ac.in,IT,IT,Batch - 1,GeethapriyanS
+400,264,23CS050,GURUVISHAL M,CSE-A,Male,7540024169,guruvishal.m2023cse@sece.ac.in,IT,IT,Batch - 7,guruvishal
+401,269,23CS051,HARI DHARSAUN R L,CSE-A,Male,9489664261,haridharsaun.rl2023cse@sece.ac.in,IT,IT,Batch - 7,HariDharsaun
+402,8,23CS052,HARISH KUMAR R,CSE-A,Male,7558112296,harishkumar.r2023cse@sece.ac.in,IT,IT,Batch - 1,harishkumar20
+403,136,23CS053,HARSHINI M,CSE-A,Female,9994071277,harshini.m2023cse@sece.ac.in,IT,IT,Batch - 2,harshini_74
+404,352,23CS054,HEMAVARNA S,CSE-A,Female,7708727188,hemavarna.s2023cse@sece.ac.in,IT,IT,Batch - 7,Hemavarna_Sundar
+405,359,23CS055,HEMAVATHY J,CSE-A,Female,9566381966,hemavathy.j2023cse@sece.ac.in,IT,IT,Batch - 7,Hemavathy123
+406,111,23CS056,HEMMA LEKHA R,CSE-A,Female,7708382823,hemmalekha.r2023cse@sece.ac.in,IT,IT,Batch - 2,Hemma_lekha
+407,145,23CS057,HITESH JOSHI,CSE-A,Male,8015600894,hiteshjoshi2023cse@sece.ac.in,IT,IT,Batch - 3,hejoshi77
+408,113,23CS058,ISHAN BAHADUR SINGH,CSE-A,Male,7483937126,ishanbahadursingh2023cse@sece.ac.in,IT,IT,Batch - 3,Ishansingh7
+409,247,23CS059,JAYASURYA M,CSE-A,Male,9787541002,jayasurya.m2023cse@sece.ac.in,IT,IT,Batch - 3,jayasuryam
+410,459,23CS060,JEGAN VIJAY J,CSE-A,Male,9384735572,jeganvijay.j2023cse@sece.ac.in,IT,IT,Batch - 7,vijayaww
+411,385,23CS061,JEYAPRAKASH R,CSE-A,Male,8072834897,jeyaprakash.r2023cse@sece.ac.in,IT,IT,Batch - 7,Jeya__007
+412,10,23CS062,JOANNA SHARON D,CSE-A,Female,9791375747,joannasharon.d2023cse@sece.ac.in,IT,IT,Batch - 1,JoannaSharonD
+413,395,23CS063,KAARTHIKA A S,CSE-A,Female,8838473573,kaarthika.as2023cse@sece.ac.in,IT,IT,Batch - 7,kaarthikasekar
+414,401,23CS064,KAJINI PERIYASAMY KAMARAJ,CSE-A,Male,8122990908,kajiniperiyasamykamaraj2023cse@sece.ac.in,IT,IT,Batch - 7,Kajini_Periyasamy_K
+415,0,23CS301,AJALESH B,CSE-A,Male,8056671431,ajalesh.b2023lcse@sece.ac.in,IT,IT,Batch - 8,Ajalesh
+416,168,23CS302,ARJUN JAI SHANMUGAM P V N,CSE-A,Male,9345999936,arjunjaishanmugam.pvn2023Icse@sece.ac.in,IT,IT,Batch - 3,Arjun655_PVN
+417,503,23CS303,BOOBALAN K,CSE-A,Male,9360500232,boobalan.k2023lcse@sece.ac.in,IT,IT,Batch - 7,BoobalanK
+418,571,23CS305,GURUVEL P,CSE-A,Male,8667281540,guruvel.p2023lcse@sece.ac.in,IT,IT,Batch - 7,Guruvel
+419,0,23CS306,KRISHNA PRATHAP G,CSE-A,Male,8438882241,krishnaprathap.g2023lcse@sece.ac.in,IT,IT,Batch - 8,krishnaprathap_G12
+420,0,23CS310,RANAJAY S,CSE-A,male,9123538941,ranajay.s2023lcse@sece.ac.in,IT,IT,Batch - 8,RANA15
+421,0,23CS314,VIGNESHVAR PANDI R,CSE-A,Male,8220749019,vigneshvarpandi.r2023lcse@sece.ac.in,IT,IT,Batch - 8,vicky_07_
+422,346,23CS065,KARPAGAMAHESWARI V,CSE-B,Female,9894538127,karpagamaheswari.v2023cse@sece.ac.in,IT,IT,Batch - 7,karpagammaheswari12
+423,353,23CS066,KARTHICK G R,CSE-B,Male,7845341216,karthick.gr2023cse@sece.ac.in,IT,IT,Batch - 7,Karthickgr__08
+424,674,23CS067,KARTHIK RAJA G,CSE-B,Male,9361933807,karthikraja.g2023cse@sece.ac.in,IT,IT,Batch - 8,karthikraja-18
+425,437,23CS068,KARTHIKESH N,CSE-B,Male,6369604292,karthikesh.n2023cse@sece.ac.in,IT,IT,Batch - 7,Karthikesh03
+426,191,23CS069,KAVI SHANTHINI G,CSE-B,Female,9345542116,kavishanthini.g2023cse@sece.ac.in,IT,IT,Batch - 2,user6363RF
+427,88,23CS070,KAVIPRABHA S T,CSE-B,Female,7402164864,kaviprabha.st2023cse@sece.ac.in,Not Interested,NOT INTERESTED,,user38490z
+428,0,23CS071,KAVYASHREE G,CSE-B,Female,7904824985,kavyashree.g2023cse@sece.ac.in,IT,IT,Batch - 8,kavyashreecse
+429,1,23CS072,KIRTICK M M,CSE-B,Male,9600570881,kirtick.mm2023cse@sece.ac.in,IT,IT,Batch - 1,kirtick_28
+430,381,23CS073,KIRUBHA SAGAR T,CSE-B,Male,8778408536,kirubhasagar.t2023cse@sece.ac.in,IT,IT,Batch - 7,kirubha_sagar
+431,53,23CS074,KISHOR RAGURAM G,CSE-B,Male,9025771541,kishorraguram.g2023cse@sece.ac.in,IT,IT,Batch - 1,user0861hO
+432,212,23CS075,KRITIKA SAPKOTA,CSE-B,Female,9746502681,kritikasapkota2023cse@sece.ac.in,IT,IT,Batch - 2,kritikasapkota
+433,158,23CS076,LAKSHETAA R,CSE-B,Female,9655023336,lakshetaa.r2023cse@sece.ac.in,IT,IT,Batch - 2,Lakshetaa
+434,718,23CS077,MADHAVA KRISHNAN T,CSE-B,Male,8610331381,madhavakrishnan.t2023cse@sece.ac.in,IT,IT,Batch - 8,MadhavakrishnanThangaraj
+435,29,23CS078,MADHUMATHI V E,CSE-B,Female,6383508484,madhumathi.ve2023cse@sece.ac.in,IT,IT,Batch - 1,user9315qK
+436,129,23CS079,MAHESH KUMAR S,CSE-B,Male,9025447519,maheshkumar.s2023cse@sece.ac.in,IT,IT,Batch - 3,mahesh-kumarr
+437,0,23CS080,MALARVIZHI S,CSE-B,Female,9790208800,malarvizhi.s2023cse@sece.ac.in,IT,IT,Batch - 8,malarvizhi_s
+438,412,23CS081,MAMTHA @ AKSHAYA R,CSE-B,Female,6383766926,mamthaaliesakshaya.r2023cse@sece.ac.in,IT,IT,Batch - 7,mamtha_006
+439,77,23CS082,MANIMEGALAI E S,CSE-B,Female,8122828730,manimegalai.es2023cse@sece.ac.in,IT,IT,Batch - 2,ManimegalaiElangovan
+440,659,23CS083,MANISH RAGHUL S J,CSE-B,Male,8220563218,manishraghul.sj2023cse@sece.ac.in,Not Interested,NOT INTERESTED,,rahulmanish05
+441,746,23CS084,MANOBALAN M,CSE-B,Male,8525010809,manobalan.m2023cse@sece.ac.in,IT,IT,Batch - 8,manobalan_08
+442,0,23CS085,MANOBHARATHI K,CSE-B,Female,9994236656,manobharathi.k2023cse@sece.ac.in,IT,IT,Batch - 8,Manobharathi_11
+443,140,23CS086,MHITHUN T R,CSE-B,Male,9626132633,mhithun.tr2023cse@sece.ac.in,IT,IT,Batch - 3,Mhithun_TR
+444,241,23CS087,MIDHUNA A,CSE-B,Female,9677631125,midhuna.a2023cse@sece.ac.in,IT,IT,Batch - 2,midhuna06
+445,192,23CS088,MIRUNA C,CSE-B,Female,8122490927,miruna.c2023cse@sece.ac.in,IT,IT,Batch - 2,miruna_3905
+446,147,23CS089,MOGAN PRASADH K,CSE-B,Male,9791741633,moganprasadh.k2023cse@sece.ac.in,IT,IT,Batch - 3,moganprasadh
+447,611,23CS090,MOHAMED ANAS A,CSE-B,Male,6380159668,mohamedanas.a2023cse@sece.ac.in,IT,IT,Batch - 7,Mohamed_Anas_3300
+448,0,23CS091,MOHAMED FAZIL M,CSE-B,Male,7094697300,mohamedfazil.m2023cse@sece.ac.in,IT,IT,Batch - 8,Mohammadfazil
+449,382,23CS092,MOHAMMED SAFIL S,CSE-B,Male,9789378657,mohammedsafil.s2023cse@sece.ac.in,IT,IT,Batch - 1,mohammedsafil
+450,700,23CS093,MOHANA PRIYA M,CSE-B,Female,6379829863,mohanapriya.m2023cse@sece.ac.in,IT,IT,Batch - 8,CSE093
+451,0,23CS094,MOHITH B,CSE-B,Male,8637466768,mohith.b2023cse@sece.ac.in,Not Interested,NOT INTERESTED,,mohithb2023cse
+452,0,23CS095,MONISHA U,CSE-B,Female,8220287460,monisha.u2023cse@sece.ac.in,IT,IT,Batch - 8,23cse095
+453,624,23CS096,MUGILAN R,CSE-B,Male,9360042481,mugilan.r2023cse@sece.ac.in,IT,IT,Batch - 8,mugilan1505
+454,396,23CS097,MUKISH KUMAR T,CSE-B,Male,9489089361,mukishkumar.t2023cse@sece.ac.in,IT,IT,Batch - 7,MukishKumarT
+455,326,23CS098,MYTHILI P,CSE-B,Female,9123533931,mythili.p2023cse@sece.ac.in,IT,IT,Batch - 7,user1821Ag
+456,0,23CS099,MYTHREYINI K J,CSE-B,Female,9042073550,mythreyini.kj2023cse@sece.ac.in,IT,IT,Batch - 8,MythreyiniK
+457,407,23CS100,NAGALAKSHMI S,CSE-B,Female,9003046993,nagalakshmi.s2023cse@sece.ac.in,IT,IT,Batch - 7,nagalakshmi24082005
+458,645,23CS101,NARESH S,CSE-B,Male,7094410058,naresh.s2023cse@sece.ac.in,IT,IT,Batch - 8,naresh2812
+459,413,23CS102,NARTHIKA M,CSE-B,Female,6369177528,narthika.m2023cse@sece.ac.in,IT,IT,Batch - 7,narthika_m
+460,656,23CS103,NAVEEN PRASANTH P,CSE-B,Male,9345535927,naveenprasanth.p2023cse@sece.ac.in,IT,IT,Batch - 8,NaveenPrasanthP
+461,660,23CS104,NIGUN KARTHI R,CSE-B,Male,9597966728,nigunkarthi.r2023cse@sece.ac.in,IT,IT,Batch - 8,nigun_karthi
+462,0,23CS105,NIKHILPRANESH K S,CSE-B,Male,8870806078,nikhilpranesh.ks2023cse@sece.ac.in,IT,IT,Batch - 8,Nikhilpranesh KS
+463,354,23CS106,NISA SOWBIKA K S,CSE-B,Female,6369874972,nisasowbika.ks2023cse@sece.ac.in,IT,IT,Batch - 2,user7365na
+464,675,23CS107,NISHANTH RAM K,CSE-B,Male,9626747956,nishanthram.k2023cse@sece.ac.in,IT,IT,Batch - 8,nishanthramk9626
+465,187,23CS108,NITHIEN S A,CSE-B,Male,9791350183,nithien.sa2023cse@sece.ac.in,IT,IT,Batch - 3,Nithien-SA
+466,60,23CS109,NITHYA GANESH K,CSE-B,Male,9042421622,nithyaganesh.k2023cse@sece.ac.in,IT,IT,Batch - 1,nithyaganeshK3
+467,25,23CS110,NITHYASARATHI M,CSE-B,Male,8925796628,nithyasarathi.m2023cse@sece.ac.in,IT,IT,Batch - 1,nithyasarathim
+468,118,23CS111,NIVETHA G,CSE-B,Female,6369386045,nivetha.g2023cse@sece.ac.in,IT,IT,Batch - 2,NIVETHA-G-CSE
+469,150,23CS112,OSHIYANI E,CSE-B,Female,7339215009,oshiyani.e2023cse@sece.ac.in,IT,IT,Batch - 2,user8420Lc
+470,98,23CS113,POOJANA S,CSE-B,Female,7904060460,poojana.s2023cse@sece.ac.in,IT,IT,Batch - 2,poojanascse
+471,390,23CS114,POONGUZHALI C,CSE-B,Female,9043296496,poonguzhali.c2023cse@sece.ac.in,IT,IT,Batch - 7,poongu_zhali_
+472,631,23CS115,PRANAOV S,CSE-B,Male,7200001121,pranaov.s2023cse@sece.ac.in,IT,IT,Batch - 8,pranaov_2701
+473,632,23CS116,PRANATI R,CSE-B,Female,6380264190,pranati.r2023cse@sece.ac.in,Not Interested,NOT INTERESTED,,Pranati_Rajagopal
+474,639,23CS117,PRASANNA KUMAR H,CSE-B,Male,9345590344,prasannakumar.h2023cse@sece.ac.in,IT,IT,Batch - 8,PrasannaKumar1907
+475,646,23CS118,PRASANNA R,CSE-B,Male,7810015562,prasanna.r2023cse@sece.ac.in,IT,IT,Batch - 8,prasan06
+476,0,23CS119,PRAVEEN MUTHU KUMAR R,CSE-B,Male,6380015902,praveenmuthukumar.r2023cse@sece.ac.in,IT,IT,Batch - 8,Praveen_007
+477,13,23CS120,RAGUL RAJ N,CSE-B,Male,9043070307,ragulraj.n2023cse@sece.ac.in,IT,IT,Batch - 1,Ragul_Raj_N
+478,0,23CS121,RAMYA S,CSE-B,Female,8015714320,ramya.s2023cse@sece.ac.in,IT,IT,Batch - 8,ramya28112005
+479,176,23CS122,RAVENA S,CSE-B,Female,8072736428,ravena.s2023cse@sece.ac.in,IT,IT,Batch - 2,ravena_s
+480,33,23CS123,RAVI AGRAHARI,CSE-B,Male,9779800795305,raviagrahari2023cse@sece.ac.in,IT,IT,Batch - 1,raviagrahari2023cse
+481,139,23CS124,RHYTHAN VARSHA J,CSE-B,Female,9842210455,rhythanvarsha.j2023cse@sece.ac.in,IT,IT,Batch - 2,Rhythan_varsha
+482,286,23CS125,RIKESH YADAV,CSE-B,Male,6297339610,rikeshyadav2023cse@sece.ac.in,IT,IT,Batch - 7,rieckace
+483,367,23CS127,RITHIGA S,CSE-B,Female,9342813454,rithiga.s2023cse@sece.ac.in,IT,IT,Batch - 7,ihtir
+484,294,23CS128,RITHIKA R,CSE-B,Female,8825632225,rithika.r2023cse@sece.ac.in,IT,IT,Batch - 7,user8796FX
+485,527,23CS129,ROHINI J K,CSE-B,Female,9360691158,rohini.jk2023cse@sece.ac.in,IT,IT,Batch - 7,rohinijk
+486,0,23CS130,ROHITH N,CSE-B,Male,8122840478,rohith.n2023cse@sece.ac.in,IT,IT,Batch - 8,RohithN
+487,697,23CS308,NITHESH S N,CSE-B,Male,9342355578,nithesh.sn2023lcse@sece.ac.in,IT,IT,Batch - 8,NitheshSuresh
+488,0,23CS312,SHANTHOSH SIVA ,CSE-B,Male,8072494873,santhoshsiva.s2023lcse@sece.ac.in,IT,IT,Batch - 8,santhoshsiva_
+489,0,23CS313,SUSINDIRAN G,CSE-B,Male,8668192648,susindiran.g2023lcse@sece.ac.in,IT,IT,Batch - 8,Susindiran_G
+490,714,23CS131,RUBAN RAJ P,CSE-C,Male,9385872672,rubanraj.p2023cse@sece.ac.in,IT,IT,Batch - 8,Rubanraj26
+491,402,23CS132,SABARI M,CSE-C,Male,6369012255,sabari.m2023cse@sece.ac.in,IT,IT,Batch - 7,sabarimcse6369
+492,74,23CS133,SABISHREE R,CSE-C,Female,9787875214,sabishree.r2023cse@sece.ac.in,IT,IT,Batch - 2,sabishree06
+493,567,23CS134,SAHARBANU A,CSE-C,Female,7339466686,saharbanu.a2023cse@sece.ac.in,IT,IT,Batch - 7,saharbanu786
+494,0,23CS135,SAJIN S,CSE-C,Male,9342069005,sajin.s2023cse@sece.ac.in,IT,IT,Batch - 8,sajinsiva
+495,572,23CS136,SAKTHISUGESH K R,CSE-C,Male,6381869191,sakthisugesh.kr2023cse@sece.ac.in,IT,IT,Batch - 7,sakthisugesh
+496,416,23CS137,SAM V,CSE-C,Male,7010835183,sam.v2023cse@sece.ac.in,IT,IT,Batch - 7,matchaswirls_
+497,0,23CS138,SAN HARIHARAN S,CSE-C,Male,9384105404,sanhariharan2023cse@sece.ac.in,IT,IT,Batch - 8,sanhariharan2023cse
+498,585,23CS139,SANIA SYAM,CSE-C,Female,9585622335,saniasyam2023cse@sece.ac.in,IT,IT,Batch - 7,Sania_5
+499,428,23CS140,SANJAIYKUMAR S V,CSE-C,Male,9342584218,sanjaiykumar.sv2023cse@sece.ac.in,IT,IT,Batch - 7,Sanjaiykumarsv
+500,0,23CS141,SANJAY KANTH K K,CSE-C,Male,9360021202,sanjaykanth.kk2023cse@sece.ac.in,IT,IT,Batch - 8,sanjaykanthkk
+501,596,23CS142,SANJAY KUMAR D K,CSE-C,Male,9786773268,sanjaykumar.dk2023cse@sece.ac.in,IT,IT,Batch - 7,dksanjaykumar
+502,15,23CS143,SANTHOSHKUMAR S,CSE-C,Male,9025276156,santhoshkumar.s2023cse@sece.ac.in,IT,IT,Batch - 1,Santhoshkumar_555
+503,295,23CS145,SARANYADEVI V,CSE-C,Female,8438582646,saranyadevi.v2023cse@sece.ac.in,IT,IT,Batch - 7,sara-2905
+504,114,23CS146,SARAVANAKARTHIEK S,CSE-C,Male,9566913073,saravanakarthiek.s2023cse@sece.ac.in,IT,IT,Batch - 3,skarthiek
+505,457,23CS147,SARAVANAN M,CSE-C,Male,7708949128,saravanan.m2023cse@sece.ac.in,IT,IT,Batch - 7,saravanan-m2006
+506,96,23CS148,SARVESH P,CSE-C,Male,9843210650,sarvesh.p2023cse@sece.ac.in,IT,IT,Batch - 3,sarvesh_24_
+507,466,23CS149,SATHANA R D,CSE-C,Female,7604881422,sathana.rd2023cse@sece.ac.in,IT,IT,Batch - 7,rdsathana
+508,707,23CS150,SAVEEN KUMAR V,CSE-C,Male,9042829339,saveenkumar.v2023cse@sece.ac.in,IT,IT,Batch - 8,Saveen_jr
+509,37,23CS151,SHAHIL B,CSE-C,Male,8921294745,shahil.b2023cse@sece.ac.in,IT,IT,Batch - 1,Shahil-b2005
+510,218,23CS152,SHANTHISH S R,CSE-C,Male,9150641733,shanthish.sr2023cse@sece.ac.in,IT,IT,Batch - 3,Shanthish
+511,166,23CS153,SHERRLYN ANNDRINA J,CSE-C,Female,8825730885,sherrlynanndrina.j2023cse@sece.ac.in,IT,IT,Batch - 2,sherrly_n31
+512,726,23CS154,SHRAVAN AARYA PRABHAKARAN,CSE-C,Male,9025256395,shravanaaryaprabhakaran2023cse@sece.ac.in,IT,IT,Batch - 8,aarya_prab
+513,106,23CS155,SHREENITHI N,CSE-C,Female,9345580982,shreenithi.n2023cse@sece.ac.in,IT,IT,Batch - 2,ShreenithiN
+514,417,23CS156,SHRERAM S S,CSE-C,Male,8925568029,shreram.ss2023cse@sece.ac.in,IT,IT,Batch - 7,shreram7
+515,661,23CS157,SHRI RAMAKRISHNAN A,CSE-C,Male,6374990371,shriramakrishnan.a2023cse@sece.ac.in,IT,IT,Batch - 8,Shri_Ramakrishnan
+516,355,23CS158,SIDDHARTH S,CSE-C,Male,6380747182,siddharth.s2023cse@sece.ac.in,IT,IT,Batch - 7,siddharth_s32
+517,511,23CS159,SITHESH V E,CSE-C,Male,9360171810,sithesh.ve2023cse@sece.ac.in,IT,IT,Batch - 7,sithu31
+518,142,23CS160,SIVA SRI VENKATESU S S,CSE-C,Male,8682082981,sivasrivenkatesu.s2023cse@sece.ac.in,IT,IT,Batch - 3,venkatesucse2718
+519,523,23CS161,SOBANA K,CSE-C,Female,7200331581,sobana.k2023cse@sece.ac.in,IT,IT,Batch - 7,sobana_k24
+520,0,23CS162,SOWMITHAA K,CSE-C,Female,8015626148,sowmithaa.k2023cse@sece.ac.in,IT,IT,Batch - 8,user5334is
+521,298,23CS163,SRIDHAR N,CSE-C,Male,9003236836,sridhar.n2023cse@sece.ac.in,IT,IT,Batch - 7,Sridhar_n09
+522,533,23CS164,SRIRAM N,CSE-C,Male,8754696349,sriram.n2023cse@sece.ac.in,IT,IT,Batch - 7,sriram_cse_07
+523,120,23CS165,SUBHASHINI K,CSE-C,Female,9362019190,subhashini.k2023cse@sece.ac.in,IT,IT,Batch - 2,subhashini01
+524,209,23CS166,SUBIKA C,CSE-C,Female,8637682233,subika.c2023cse@sece.ac.in,IT,IT,Batch - 2,user2908US
+525,123,23CS167,SUDHA J,CSE-C,Female,9698580301,sudha.j2023cse@sece.ac.in,IT,IT,Batch - 2,j_sudha
+526,397,23CS168,SUDHAKAR J,CSE-C,Male,6382841851,sudhakar.j2023cse@sece.ac.in,IT,IT,Batch - 7,sudhakar08
+527,554,23CS169,SUDHARSAN M G,CSE-C,Male,8807607899,sudharsan.mg2023cse@sece.ac.in,IT,IT,Batch - 7,sudharsan_m_g
+528,640,23CS170,SUDHARSHAN S,CSE-C,Male,6374353680,sudharshan.s2023cse@sece.ac.in,IT,IT,Batch - 8,sudharshan077
+529,568,23CS171,SUGANTH S T,CSE-C,Male,7418110432,suganth.st2023cse@sece.ac.in,IT,IT,Batch - 7,suganth_st
+530,175,23CS172,SUGAVANESHWARAN S,CSE-C,Male,6383800578,sugavaneshwaran.s2023cse@sece.ac.in,IT,IT,Batch - 3,sugavanesh37
+531,0,23CS173,SUJAN S T,CSE-C,Male,6383282925,sujan.st2023cse@sece.ac.in,IT,IT,Batch - 8,sujan_st
+532,229,23CS174,SUJITHA P,CSE-C,Female,9344153688,sujitha.p2023cse@sece.ac.in,IT,IT,Batch - 2,sujitha_2005
+533,278,23CS175,SURAN SINGH DHAMI,CSE-C,Male,8056389935,suransinghdhami2023cse@sece.ac.in,IT,IT,Batch - 7,Dhamii_7
+534,82,23CS176,SUSHANT KUMAR MISHRA,CSE-C,Male,8969903662,sushantkumarmishra2023cse@sece.ac.in,IT,IT,Batch - 3,sushantt__mishraa
+535,360,23CS177,SWETHA I,CSE-C,Female,8015673440,swetha.i2023cse@sece.ac.in,IT,IT,Batch - 7,swethaig
+536,438,23CS178,THARUN K,CSE-C,Male,7639231084,tharun.k2023cse@sece.ac.in,IT,IT,Batch - 7,tharun_06k
+537,680,23CS179,THOUFIK UMAR A,CSE-C,Male,8610076840,thoufikumar.a2023cse@sece.ac.in,IT,IT,Batch - 8,thoufikumar
+538,51,23CS180,VAISHNUPRIYA V,CSE-C,Female,8667421450,vaishnupriya.v2023cse@sece.ac.in,IT,IT,Batch - 1,VAISHNUPRIYA_V
+539,248,23CS181,VARSHA M R,CSE-C,Female,6381092021,varsha.mr2023cse@sece.ac.in,IT,IT,Batch - 2,varsha_mr5
+540,18,23CS182,VARSHEDHAA V R,CSE-C,Female,6369202167,varshedhaa.vr2023cse@sece.ac.in,IT,IT,Batch - 1,varshedhaa07
+541,0,23CS183,VARUN GOVINDASAMY,CSE-C,Male,7603871561,varungovindasamy2023cse@sece.ac.in,IT,IT,Batch - 8,Varun_Govindh
+542,619,23CS184,VIJAY GUHAN K M,CSE-C,Male,8438434868,vijayguhan.km2023cse@sece.ac.in,IT,IT,Batch - 1,vijayguhan12
+543,625,23CS185,VIJAYAKANNADHASAN T,CSE-C,Male,6369196514,vijayakannadhasan.t2023cse@sece.ac.in,IT,IT,Batch - 8,vijayakannadhasan_t
+544,215,23CS186,VIJAYAVIKASHINI P I,CSE-C,Female,8248649437,vijayavikashini.pi2023cse@sece.ac.in,IT,IT,Batch - 2,vijayavikashini7
+545,327,23CS187,VIJITHA SA,CSE-C,Female,8667795454,vijitha.sa2023cse@sece.ac.in,IT,IT,Batch - 7,vijithasa
+546,641,23CS188,VIKRAM S,CSE-C,Male,6383530178,vikram.s2023cse@sece.ac.in,IT,IT,Batch - 8,vikram58
+547,0,23CS189,VISAKAN G,CSE-C,Male,9655224934,visakan.g2023cse@sece.ac.in,IT,IT,Batch - 8,Visakan_07
+548,104,23CS190,VISHNNU V,CSE-C,Male,7904449431,vishnnu.v2023cse@sece.ac.in,IT,IT,Batch - 3,vishnnu_v
+549,573,23CS191,VISHNU MOHAN S,CSE-C,Male,7418481610,vishnumohan.s2023cse@sece.ac.in,IT,IT,Batch - 7,user8838xU
+550,78,23CS192,VISHNU N,CSE-C,Male,9092757857,vishnu.n2023cse@sece.ac.in,IT,IT,Batch - 3,vishnu1412
+551,279,23CS193,VYSHALI S,CSE-C,Female,6379007012,vyshali.s2023cse@sece.ac.in,IT,IT,Batch - 2,vyshali_08
+552,509,23CS194,YASWANTH V,CSE-C,Male,9655566664,yaswanth.v2023cse@sece.ac.in,IT,IT,Batch - 7,yaswanthcse194
+553,287,23CS195,YOGENDRA N,CSE-C,Male,6369985284,yogendra.n2023cse@sece.ac.in,IT,IT,Batch - 7,yogendra_leetcoder
+554,439,23CS196,YOGESHWAR R,CSE-C,Male,8838692486,yogeshwar.r2023cse@sece.ac.in,IT,IT,Batch - 7,Yogeshcse196
+555,0,23CS304,GUGAN S,CSE-C,Male,9080071088,gugan.s2023cse@sece.ac.in,IT,IT,Batch - 8,GUGAN2005
+556,0,23CS307,NAVEEN KUMAR D,CSE-C,Male,9944073151,naveenkumar.d2023cse@sece.ac.in,Not Interested,NOT INTERESTED,,Naveenkumar__07
+557,691,23CS311,RITHISH RAJ K S,CSE-C,Male,8056261252,rithisshraj.ks2023cse@sece.ac.in,IT,IT,Batch - 8,Rithisshaj07
+558,0,23CS315,VISHALINI S,CSE-C,Female,7904661409,visalani.s2023cse@sece.ac.in,IT,IT,Batch - 8,VISALANI24
+559,702,23EC002,ADITYA K,ECE-A,Male,6383782570,aditya.k2023ece@sece.ac.in,IT,IT,Batch - 9,adityakirthivasan
+560,320,23EC004,AJITH PRAVEEN M K,ECE-A,Male,9442141322,ajithpraveen.mk2023ece@sece.ac.in,IT,IT,Batch - 9,ajithpraveen567
+561,0,23EC019,BOOMATHI N,ECE-A,Female,8754726275,boomathi.n2023ece@sece.ac.in,IT,IT,Batch - 10,boomathinataraj
+562,687,23EC023,DHARANEESH GUHAN T,ECE-A,Male,9965225471,dharaneeshguhan.t2023ece@sece.ac.in,IT,IT,Batch - 9,Dharaneeshguhant
+563,0,23EC024,DHARANEESH S,ECE-A,Male,6381465136,dharaneesh.s2023ece@sece.ac.in,IT,IT,Batch - 10,dharaneesh_ece
+564,249,23EC025,DHARANESH V,ECE-A,Male,7904846933,dharanesh.v2023ece@sece.ac.in,IT,IT,Batch - 3,user6755ZY
+565,72,23EC030,EZHUMATHI S,ECE-A,Female,9361951342,ezhumathi.s2023ece@sece.ac.in,IT,IT,Batch - 2,Ezhumathi_senthil
+566,398,23EC031,FAZIL S,ECE-A,Male,6374804705,fazil.s2023ece@sece.ac.in,IT,IT,Batch - 9,user3661A
+567,727,23EC036,GOWTHAM G,ECE-A,Male,6374442739,gowtham.g2023ece@sece.ac.in,IT,IT,Batch - 9,Gowtham-G-15
+568,418,23EC038,GOWTHAM V,ECE-A,Male,9865050840,gowtham.v2023ece@sece.ac.in,IT,IT,Batch - 9,vgowtham2005
+569,0,23EC039,GURU SARVES.N,ECE-A,Male,9489249311,gurusarves.n2023.ece@sece.ac.im,IT,IT,Batch - 10,gurusarves
+570,348,23EC040,HARINI S,ECE-A,Female,9445181736,harini.s2023ece@sece.ac.in,IT,IT,Batch - 9,harini23ec040
+571,290,23EC043,HRITHICK RAM.M,ECE-A,Male,9659680008,hrithickram.m2023ece@sece.ac.in,IT,IT,Batch - 9,hrithick6
+572,0,23EC045,IJAZ AHAMED.M,ECE-A,Male,7010030041,ijazahamed.m2023ece@sece.ac.in,IT,IT,Batch - 10,ijazahamed_2005
+573,379,23EC049,JAYASUDHAN S,ECE-A,Male,6369279952,jayasudhan.s2023ece@sece.ac.in,IT,IT,Batch - 9,JAYASUDHAN_S
+574,460,23EC051,JEEVA MAHENDRAN S,ECE-B,MALE,9597963570,jeevamahendran.s2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,sbykH3ZR0J
+575,258,23EC054,KAARTHIK S,ECE-A,Male,9952690366,kaarthik.s2023ece@sece.ac.in,IT,IT,Batch - 3,Kaarthik_S_18
+576,108,23EC062,KARTHIKEYAN M,ECE-A,Male,9514400601,karthikeyan.m2023ece@sece.ac.in,IT,IT,Batch - 3,karthikeyan30
+577,543,23EC068,KAVIYA P,ECE-A,Female,7418700821,kaviya.p2023ece@sece.ac.in,IT,IT,Batch - 9,kaviyapalani
+578,361,23EC080,MATHIYAZHAGAN R,ECE-A,Male,7812871582,mathiyazhagan.r2023ece@sece.ac.in,IT,IT,Batch - 9,mathiofficial07
+579,606,23EC084,MOHAMED IRFAN S,ECE-A,Male,9360352112,mohamedirfan.s2023ece@sece.ac.in,IT,IT,Batch - 9,imohamedirfan40
+580,461,23EC087,MOHAN PRASATH S,ECE-A,Male,9025421149,mohanprasath.s2023ece@sece.ac.in,IT,IT,Batch - 9,MohanPrasathSece
+581,757,23EC103,NISHANTH R,ECE-A,Male,94437841142,nishantha.r2023ece@sece.ac.in,IT,IT,Batch - 9,_nishanthkraja_2005017
+582,339,23EC114,PRAVEEN GK,ECE-A,Male,7530004467,praveen.gk2023ece@sece.ac.in,IT,IT,Batch - 9,praveen18_official
+583,512,23EC120,RAMPRABHU D,ECE-A,Male,9750600100,ramprabhu.d2023ece@sece.ac.in,IT,IT,Batch - 9,prabhu2005
+584,383,23EC126,ROHITA.M,ECE-A,Female,9442654515,rohita.m2023ece@sece.ac.in,IT,IT,Batch - 9,Rohitamurali
+585,621,23EC127,ROSHINI M,ECE-A,female,9360821950,roshini.m2023ece@sece.ac.in,IT,IT,Batch - 9,Roshini_2301
+586,546,23EC128,SABEEL MOHAMED M,ECE-A,Male,8946094723,sabeelmohamed.m2023ece@sece.ac.in,IT,IT,Batch - 1,SABEELMOHAMED
+587,552,23EC130,SANDHYA R,ECE-A,female,9787115219,sandhya.r2023ece@sece.ac.in,IT,IT,Batch - 9,sandhyar2006
+588,483,23EC131,SANDHYA S,ECE-A,Female,9025612551,sandhya.s2023ece@sece.ac.in,IT,IT,Batch - 9,sandhyaspks
+589,489,23EC135,SANJU SHREE VARSHINI K K,ECE-A,Female,8072870468,sanjushreevarshini.kk2023ece@sece.ac.in,IT,IT,Batch - 9,user5546Ar
+590,0,23EC136,SARAN ADITHYA R S,ECE-A,Male,9342148360,saranadithya.rs2023ece@sece.ac.in,IT,IT,Batch - 10,SaranAdithyaRS
+591,647,23EC137,SARAVANAKUMAR S,ECE-A,Male,9487417393,saravanakumar.s2023ece@sece.ac.in,IT,IT,Batch - 9,saravana__kumarr
+592,658,23EC139,SARUBAN V,ECE-A,Male,9488479746,saruban.v2023ece@sece.ac.in,IT,IT,Batch - 9,saruban
+593,0,23EC140,SELVA PRADEEP E,ECE-A,Male,8072107266,Selvapradeep.2023ece@sece.ac.in,IT,IT,Batch - 10,selvapradeep
+594,236,23EC142,SHARAN.N,ECE-A,Male,9345480377,sharan.n2023ece@sece.ac.in,IT,IT,Batch - 3,Sharan-06
+595,434,23EC143,SHASIKUMAR R,ECE-A,Male,8870633850,shasikumar.r2023ece@sece.ac.in,IT,IT,Batch - 9,ShasiKumar_R
+596,517,23EC145,SHRIVARSHA S,ECE-A,Female,8015710080,shrivarsha.s2023ece@sece.ac.in,IT,IT,Batch - 9,5854d0
+597,91,23EC148,SIVA SUBRAMANIAN V,ECE-A,Male,7824960578,sivasubramanian.v2023ece@sece.ac.in,IT,IT,Batch - 3,siva19072005
+598,0,23EC149,SIVA SUBRAMANIAN R,ECE-A,Male,7806935495,sivasubramanian.r2023ece@sece.ac.in,IT,IT,Batch - 10,_Siva_7
+599,387,23EC151,SOUJANYA S,ECE-A,Female,8610531594,soujanya.s2023ece@sece.ac.in,IT,IT,Batch - 9,ssoujanya20050807
+600,0,23EC152,SOUNDARYA R,ECE-B,Female,9976475794,soundarya.r2023ecesece@ac.in,IT,IT,Batch - 10,soundarya47
+601,626,23EC154,SRI KARTHIKA L,ECE-A,Female,9345403910,srikarthika.l2023ece@sece.ac.in,IT,IT,Batch - 9,srikarthika20
+602,321,23EC155,SRI SIVARANJANI VR,ECE-A,Female,6383155024,srisivaranjani.vr2023ece@sece.ac.in,IT,IT,Batch - 9,Sri_Sivaranjani27
+603,411,23EC158,SRIMATHI.S,ECE-A,Female,9345200277,srimathi.s2023ece@sece.ac.in,IT,IT,Batch - 1,  user0964Dz  
+604,76,23EC159,SRINITHA K,ECE-A,Female,8072652335,srinitha.k2023ece@sece.ac.in,IT,IT,Batch - 2,srinitha2356
+605,237,23EC162,SUDHARSAN DEEPAK S,ECE-A,Male,9715394357,sudharsandeepak.s2023ece@sece.ac.in,IT,IT,Batch - 3,SudharsanDeepak
+606,84,23EC163,SUDHARSANPRAKALATHAN V M,ECE-A,Male,7845457378,sudharsanprakalathan.vm2023ece@sece.ac.in,IT,IT,Batch - 3,sudharsanprakalathanvm
+607,368,23EC164,SUREKHA A,ECE-A,Female,9042617454,surekha.a2023ece@sece.ac.in,IT,IT,Batch - 9,surekha_a
+608,524,23EC167,SWETHA M,ECE-A,Female,8122769737,swetha.m2023ece@sece.ac.in,IT,IT,Batch - 9,swetha1804
+609,451,23EC168,TAMILSELVAN M,ECE-A,Male,8428863860,tamilselvan.m2023ece@sece.ac.in,IT,IT,Batch - 1,Tamilselvan84288
+610,703,23EC171,THANARANGAN S,ECE-A,Male,8122587169,thanarangan.s2023ece@sece.ac.in,IT,IT,Batch - 9,thanarangan_s
+611,284,23EC181,VIKAS S S,ECE-A,Male,9360608684,vikas.ss2023ece@sece.ac.in,IT,IT,Batch - 1,vikasss0407
+612,182,23EC182,VIPIN KARTHIK M B,ECE-A,Male,9360030500,vipinkarthik.mb2023ece@sece.ac.in,IT,IT,Batch - 3,vipinkarthik
+613,24,23EC184,VISHWARIDHA S,ECE-A,Female,8248620584,vishwaridha.s2023ece@sece.ac.in,IT,IT,Batch - 1,vishwaridha
+614,245,23EC185,VIVEGHA V,ECE-A,Female,7904131509,vivegha.v2023ece@sece.ac.in,IT,IT,Batch - 2,VIVEGHA_V
+615,0,23EC307,MADHAN,ECE-A,Male,7695967955,madhan.a2023lece@sece.ac.in,IT,IT,Batch - 10,madhanaece307
+616,0,23EC309,VIGNESH KUMAR B,ECE-A,Male,8610683830,selvakumar.c2023lece@sece.ac.in,IT,IT,Batch - 10,selvakumar_c
+617,0,23EC311,VAISHNAV N,ECE-A,Male,8807324199,vaishnav.n2023lece@sece.ac.in,IT,IT,Batch - 10,vaishnav2023ece
+618,0,23EC312,SELVAKUMAR,ECE-A,Male,8072874842,vigneshkumar.b2023lece@sece.ac.in,IT,IT,Batch - 10,vigneshkumar2023
+619,736,23EC501,SREE HARINI J J,ECE-A,Female,8526772677,shreeharini.jj2022ece@sece.ac.in,IT,IT,Batch - 9,shreeharini22
+620,392,23EC003,AHMED NAJEEB PM,ECE-B,Male,9025226493,ahmednajeeb.pm2023ece@sece.ac.in,CORE,CORE- NETWORKING,Batch - 10,Ahmednajeeb
+621,403,23EC005,ANANDHI.C,ECE-B,FEMALE,6382928833,anandhi.c2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,spican73
+622,410,23EC008,ANTRU SUBIL A,ECE-B,Male,7845694508,antrusubil.a2023ece@sece.ac.in,CORE,CORE- NETWORKING,Batch - 10,antrusubil _1
+623,574,23EC009,APARNA A,ECE-B,Female,8248577762,aparna.a2023ece@gmail.com,CORE,CORE- VLSI,Batch - 12,APARNA2006
+624,0,23EC010,ARISHKUMAR I,ECE-B,Male,9789355826,arishkumar.i2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,Arishkumar0611
+625,271,23EC011,ARJUN S,ECE-B,Male,9629815505,arjunshanmugam2023ece@sece.ac.in,CORE,CORE- NETWORKING,Batch - 10,Arjun_ECE
+626,0,23EC012,ARUN SHAI SARAVANA VEL R,ECE-B,Male,7454820656,arunshaisaravanavel.r2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,arunshai20052006
+627,347,23EC013,ASWATH G,ECE-B,Male,8122877900,aswath.g2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,Aswath26
+628,666,23EC014,ATCHAYA G,ECE-B,Female,6369148264,atchaya.g2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,atchaya_atchaya
+629,0,23EC015,ATCHAYASHIRI. E. R,ECE-B,Female,9080444208,atchayashiri.er2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,atchayashiri
+630,0,23EC016,BHARANI RAJKUMAR SR,ECE-B,Male,8122641508,bharanirajkumar.sr2023ece@sece.ac.in,CORE,CORE- NETWORKING,Batch - 10,bharanisr2006
+631,0,23EC020,BOOMIKA V,ECE-B,Female,8825889168,boomika.v2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,boomika24
+632,0,23EC026,DHARSHIN M,ECE-B,MALE,9042740436,dharshin.m2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,dharszxn_25
+633,0,23EC027,DHIVAKAR K,ECE-B,Male,6369044467,dhivakar.k2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,Dhivakar17
+634,328,23EC032,GAYATHIRI R,ECE-B,Female,9345811488,gayathiri.r2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,Gayathiriii
+635,0,23EC034,GODSON G,ECE-B,MALE,9787329895,godson.g2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,godson03
+636,561,23EC035,GOPIKA SHREE K,ECE-B,Female,8883011873,gopikashree.k2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,Gopika_shree_23ECE035
+637,510,23EC041,HEMA DHARSHINI M,ECE-B,female,8754733650,hemadharshini.m2023ece@sece.ac.in,IT,IT,Batch - 10,hemadharshini1
+638,0,23EC044,HRITHICKRAM R,ECE-B,Male,8015246559,hrithickram.r2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,HrithickramR
+639,443,23EC047,INDHUREKA M,ECE-B,Female,8610175074,indhureka.m2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,23ECE047
+640,244,23EC048,INDIRA PRIYADHARSHINI S,ECE-B,Female,7418699870,indirapriyadharshini.s2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,indirapriya05
+641,386,23EC052,JEGADHEES J,ECE-B,Male,9159725713,jegadhees.j2023ece@sece.ac.in,IT,IT,Batch - 10,jegadhees_06
+642,495,23EC059,KANISKA S,ECE-B,Female,9942039498,kaniska.s2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,kaniska_sece
+643,692,23EC065,KAVIN KIRUTHICK M,ECE-B,Male,9566943754,kavinkiruthick.m2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,kavin-2006
+644,633,23EC071,LIKITH V D,ECE-B,Male,8072383746,likith.vd2023ece@sece.ac.in,CORE,CORE- NETWORKING,Batch - 10,Likith_v_d
+645,0,23EC072,LOGA PRABAKAR V S,ECE-B,Male,9698834366,logaprabakar.vs2023ece@sece.ac.in,CORE,CORE- NETWORKING,Batch - 10,loga_2023
+646,0,23EC073,LOGAVARSHINI R,ECE-B,Female,6374648600,logavarshini.r2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,23ECE073
+647,682,23EC083,MOHAMED AATHIL A,ECE-B,Male,9092770770,mohamedaathil.a2023ece@sece.ac.in,CORE,CORE- NETWORKING,Batch - 10,mohamedaathil_a1
+648,301,23EC085,MOHAMED THOUFIQ.S,ECE-B,Male,9952455362,mohamedthoufiq.s2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,Thoufiq0210
+649,0,23EC086,MOHAMMED FUDAIL M,ECE-B,Male,8608340486,mohammedfudail.m2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,Mdfudail
+650,545,23EC089,MOUNISH.V,ECE-B,Male,6383424596,mounish.v2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,Mounish_V
+651,159,23EC090,MUGILAN V,ECE-B,Male,9042750205,mugilan.v2023ece@sece.ac.in,CORE,CORE- NETWORKING,Batch - 3,Mugilan205
+652,404,23EC092,NAGASUBIRAMANIYAN R,ECE-B,male,7695948021,nagasubiramaniyan.r2023ece@sece.ac.in,CORE,CORE- NETWORKING,Batch - 10,user6518MW
+653,0,23EC093,NARENTHIRAN R M,ECE-B,MALE,9600771628,narenthiran.rm2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,Naren-3
+654,330,23EC094,NARESHKUMAR R P,ECE-B,Male,9043020918,nareshkumar.rp2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,NARESHKUMAR_R_P
+655,233,23EC098,NAVEENRAJ R,ECE-B,Male,6383466784,naveenraj.r2023ece@sece.ac.in,CORE,CORE- NETWORKING,Batch - 3,23ECE098
+656,602,23EC101,NISHANTH K,ECE-B,male,9345990989,nishanth.k2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,
+657,607,23EC104,NISHANTH R,ECE-B,MALE,9363661657,nishanth.r2023ece@sece.ac.in,IT,IT,Batch - 10,nishanth_rajendiran
+658,393,23EC108,PAVITHRAN T,ECE-B,Male,9941822414,pavithran.t2023ece@sece.ac.in,CORE,CORE- NETWORKING,Batch - 10,Pavithran _066
+659,482,23EC110,PHILIP JAMES,ECE-B,Male,8680061235,philipjames.2023ece@sece.ac.in,CORE,CORE- NETWORKING,Batch - 10,philip_8680
+660,220,23EC111,PRAKASH T,ECE-B,Male,8122758805,prakash.t2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,PRAKASH2005
+661,0,23EC118,RAGESH K,ECE-B,Male,9025289631,ragesh.k2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,Ragesh
+662,589,23EC119,RAJESHWARI K M,ECE-B,Female,9345861801,rajeshwari.km2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,RAJESHWARI_KM
+663,758,23EC122,RITHISH K,ECE-B,Male,6374799795,rithish.k2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,
+664,196,23EC123,RITHIV KRISHNA P,ECE-B,male,9345699269,rithivkrishna.p2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,Rithiv17
+665,0,23EC125,ROHINI S,ECE-B,Female,7603936831,rohini.s2023ece@sece.ac.in,CORE,CORE- NETWORKING,Batch - 10,rohini_1803
+666,0,23EC132,SANJAY KUMAR A,ECE-B,Male,6382063644,sanjaykumar.a2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,SanjayKumar50
+667,132,23EC138,SARAVANAKUMAR M,ECE-B,male,9342717551,saravanakumar.m2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,Saravanakumar_m20
+668,0,23EC144,SHIVAKANTH C,ECE-B,Male,7397686287,sivakanth.c2023ece@sece.ac.in,CORE,CORE- NETWORKING,Batch - 10,SK0303
+669,193,23EC146,SHRUJAN KARTHIK V,ECE-B,Male,7397460230,shrujankarthik.v2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,shrujan0275
+670,484,23EC156,SRIHARI M,ECE-B,Male,8754910589,srihari.m2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,srihari_m
+671,419,23EC160,SRUTHI,ECE-B,Female,9344470945,sruthi.s2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,Sruthi72
+672,663,23EC161,SUBASH R,ECE-B,MALE,8778328952,subash.r2023ece@sece. ac. in,CORE,CORE- VLSI,Batch - 12,Rsubash1
+673,534,23EC169,TAMIZH INIYAN M,ECE-B,Male,9600902405,tamizhiniyan.m2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,user0309au
+674,384,23EC170,TARUN S B,ECE-B,MALE,9597344855,tarun. sb2023ece@sece.ac.in,IT,IT,Batch - 10,                 Tarun_SB
+675,475,23EC172,THARANEESH R,ECE-B,Male,8778090192,tharaneesh.r2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,itharaneesh
+676,322,23EC173,THAARANEESH K S,ECE-B,Male,9626910099,tharrneesh.ks2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,TharrneeshShanmugham18
+677,329,23EC174,THINAKAR SUBRAMANIAN,ECE-B,Male,9442955629,thinakarsubramanian.2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,Thinakarsubramanian
+678,331,23EC175,THIRLOJANAN U,ECE-B,male,8122767120,thirlojanan.u2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,Thirlojanan
+679,496,23EC177,UDHAYA PRAKASH U,ECE-B,Male,6385402352,udhayaprakash.u2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,udhaya__prakash
+680,578,23EC178,VARUN PRASANNA A,ECE-B,Male,9087406704,varunprasanna.a2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,VarunPrasanna-A
+681,0,23EC179,VASANTHAN M,ECE-B,MALE,8098526314,vasanthan.m2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,vasanthan16
+682,752,23EC183,VISHNU KARTHICK G,ECE-B,male,7358920516,vishnukarthick.g2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,G_VISHNUKARTHICK
+683,463,23EC187,YASHWIN R,ECE-B,Male,6379025956,yashwin.r2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,yashwinr
+684,310,23EC188,YUGESH G,ECE-B,Male,9025493478,yugesh.g2023ece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,yugesh_g
+685,0,23EC303,DANUDARSHAN,ECE-B,Male,7904830068,dhanudharshan.s2023lece@sece.ac.in,CORE,CORE- VLSI,Batch - 12,dhanu10-_
+686,0,23EC310,SUGANTHAN K,ECE-B,Male,8667761014,suganthan.k2023lece@sece.ac.in,CORE,CORE- NETWORKING,Batch - 10,IpEo7ju6kw
+687,0,23EC001,ABINANDHAN S,ECE-C,Male,9042177140,abinandhan.s2023ece@sece.ac.in,IT,IT,Batch - 10,ABINANDHAN-S
+688,560,23EC006,ANBUSELVAN N,ECE-C,Male,9487594448,anbuselvan.n2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,anbuselvann1611
+689,0,23EC007,ANIRUDH U,ECE-C,Male,7904243126,anirudh.u2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,user6543ze
+690,181,23EC017,BHARANIDHARAN R,ECE-C,Male,9750719212,bharanidharan.r2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Bharanidharan_R
+691,0,23EC018,BHARATHWAJ S K,ECE-C,Male,9791731935,bharathwaj.sk2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Bharath_00gihijvdl
+692,440,23EC021,CHARAN MADHAV S,ECE-C,Male,6380612361,charanmadhav.s2023ece@sece.ac.in,IT,IT,Batch - 9,Charan_Madhav
+693,373,23EC022,DHANUSH RITHIICK R,ECE-C,Male,7418486917,dhanushrithick.r2023ece@sece.ac.in,IT,IT,Batch - 9,dhanushrithiick
+694,617,23EC028,DIVYA S,ECE-C,Female,7904873480,divya.s2023ece@sece.ac.in,IT,IT,Batch - 10,divya2225
+695,542,23EC029,ENBARASU S,ECE-C,Male,8667559852,enbarasu.s2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Enbarasu_23EC029
+696,653,23EC037,GOWTHAM P,ECE-C,Male,7845900694,gowtham.p2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,gowthamece
+697,676,23EC042,HISHAM SULAIMAN M,ECE-C,Male,9944733706,hishamsulaiman.m2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,HishamSulaiman-M
+698,0,23EC046,INDHU M,ECE-C,Female,9487865918,indhu.m2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,INDHUM
+699,544,23EC053,KAARMUGHILAN M U,ECE-C,Male,8056627729,kaarmughilan.mu2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Kaarmughilan
+700,0,23EC055,KAIELASH B,ECE-C,MALE,8072251461,kaielash.b2023ece@sece.ac.in,IT,IT,Batch - 10,kaielashbec055--
+701,555,23EC056,KALIESBOOPATHY S,ECE-C,MALE,9025447741,kaliesboopathy.s2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,kaliesboopathy_s
+702,723,23EC057,KANISHKA K R,ECE-C,Female,9342401587,kanishka.kr2023ece@sece.ac.in,IT,IT,Batch - 10,kanishka1475
+703,728,23EC058,KANISHKA V J,ECE-C,Female,8220007304,kanishka.vj2023ece@sece.ac.in,IT,IT,Batch - 10,kanishkavj
+704,0,23EC060,KAPIL KUMARASH V,ECE-C,Male,9345735163,kapilkumarash.v2023ece@sece.ac.in,IT,IT,Batch - 10,kapilkumarashv23
+705,738,23EC061,KARTHIKEYAN G,ECE-C,Male,9042370764,karthikeyan.g2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Karthikeyang61
+706,681,23EC063,KARTHIKEYAN P,ECE-C,Male,8838712068,karthikeyan.p2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,karhti
+707,450,23EC064,KATHIR SELVAN S,ECE-C,Male,6380802942,kathirselvan.s2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,KATHIRSELVANS
+708,0,23EC066,KAVIN RAGAV M,ECE-C,Male,9994419285,kavinragav.m2023ece@sece.ac.in,IT,IT,Batch - 10,Kavin_865
+709,309,23EC067,KAVIPRIYA M,ECE-C,Female,8778541880,kavipriya.m2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,kavikumar12
+710,254,23EC069,LAVANYA B,ECE-C,Female,9342525586,lavanya.b2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,user4060aH
+711,715,23EC070,LIKHIT.S,ECE-C,Male,9345566595,likhit.s2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,LikhitS
+712,408,23EC074,MADHAVAN R T,ECE-C,Male,6369591733,madhavan.rt2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,maddy1769
+713,335,23EC075,MAHITHA M P,ECE-C,Female,9345687981,mahitha.mp2023ece@sece.ac.in,IT,IT,Batch - 9,user8115JU
+714,732,23EC076,MANISHANKAR M,ECE-C,Male,9994211395,manishankar.m2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,ManishankarSECE
+715,504,23EC077,MANJU SRI S,ECE-C,Female,9042751605,manjusri.s2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,user7376zH
+716,586,23EC078,MANOJVEL R,ECE-C,Male,9361614124,manojvel.r2023ece@sece.ac.in,IT,IT,Batch - 9,Manojvel
+717,668,23EC079,MARAGATHAAMBIKAA R,ECE-C,Female,9042637364,maragathaambikaa.r2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Maragathaambikaa
+718,0,23EC081,MATHUMITHA K,ECE-C,Female,6379976965,mathumitha.k2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,mathumithakumarasamy
+719,601,23EC082,MEGAVARSHINI GU,ECE-C,Female,8122521305,megavarshini.gu2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,23ECE082
+720,620,23EC088,MOHAN RAJ S,ECE-C,Male,9629944783,mohanraj.s2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,mohan2006
+721,0,23EC091,MUGUNTH SANJAI.C,ECE-C,Male,7010599212,mugunthsanjai.c2023ece@sece.ac.in,IT,IT,Batch - 10,Mugunthsanjai
+722,336,23EC095,NASHRIN FATHIMA K,ECE-C,Female,8220991710,nashrinfathima.k2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,K-NASHRIN-FATHIMA
+723,654,23EC096,NAVEEN CHARLES A,ECE-C,Male,8838752285,naveencharles.a2023ece@sece.ac.in,IT,IT,Batch - 10,charles__n
+724,342,23EC097,NAVEENA N,ECE-C,Female,8056736229,naveena.n2023ece@sece.ac.in,IT,IT,Batch - 9,Naveena23ece
+725,429,23EC099,NAVEENSURYA V,ECE-C,Male,7373478687,naveensurya.v2023ece@sece.ac.in,IT,IT,Batch - 9,Naveensurya_V
+726,288,23EC100,NAVINBABU M M,ECE-C,MALE,7449089411,navinbabu.mm2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Navinbabu/
+727,0,23EC102,NISHANTH KUMAR S,ECE-C,Male,7339259409,nishanthkumar.s2023ece@sece.ac.in,Not Interested,NOT INTERESTED,,nishanthh011
+728,302,23EC105,PAVITHRA B,ECE-C,Female,6374295841,pavithra.b2023ece@sece.ac.in,IT,IT,Batch - 9,pavi30b
+729,462,23EC106,PAVITHRA. P,ECE-C,Female,6385443929,pavithra.p2023ece@sece.ac.in,IT,IT,Batch - 9,user1393BE
+730,467,23EC107,PAVITHRA S,ECE-C,Female,9042197749,pavithra.s2023ece@sece.ac.in,IT,IT,Batch - 9,user6136Jd
+731,100,23EC109,PHENICIA SHARON P,ECE-C,Female,8838592820,pheniciasharon.p2023ece@sece.ac.in,IT,IT,Batch - 2,23EC109
+732,0,23EC112,PRANAV KARTHICK S K,ECE-C,Male,6381335486,pranavkarthick.sk2023ece@sece.ac.in,IT,IT,Batch - 10,PrAnaV_120001
+733,130,23EC113,PRASANNA MURTHY N,ECE-C,Male,6383942344,prasannamurthy.2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 3,PrasannaMurthy_N
+734,0,23EC115,PRAVEEN RAJ S L,ECE-C,Male,9345816409,praveenraj.sl2023ece@sece.ac.in,IT,IT,Batch - 10,praveenraj1017
+735,657,23EC116,D.PRIYADHARSHINI,ECE-C,Female,7845452327,priyadharshini.d2023eceb@sece.ac.in,IT,IT,Batch - 10,_priyadrlgzz_
+736,587,23EC117,PRIYADHARSHINI D,ECE-C,female,8438684524,priyadharshini.d2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,user9518GA
+737,188,23EC121,RANJEEKA SHREE V,ECE-C,Female,9042064432,ranjeekashree.v2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 2,RANJEEKA_SHREE
+738,90,23EC124,RITIKA T,ECE-C,Female,6369029991,ritika.t2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 2,23ECE124
+739,0,23EC134,SANJEEV GS,ECE-C,Male,8122692176,sanjeev.gs2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,user6993bP
+740,662,23EC141,SELVAPRADEEP.K,ECE-C,Male,9345565489,selvapradeep.k2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,selvapradeepk
+741,376,23EC147,SIMON JAI S R,ECE-C,Male,7094253955,simonjai.sr2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,simonjai
+742,200,23EC150,SMRITHI L,ECE-C,Female,9345911483,smrithi.l2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 2,Smrithi_l
+743,0,23EC153,SREEENITH S,ECE-C,Female,9524190320,sreenith.s2023ece@sece.ac.in,IT,IT,Batch - 10,shreeharini22
+744,562,23EC157,SRIJITH S.M,ECE-C,Male,7010205316,srijith.sm2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,srijithsm
+745,0,23EC165,SURESH KUMAR.V,ECE-C,Male,9345853182,sureshkumar.v2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,suresh_kumar14
+746,729,23EC176,THREYA. K. S,ECE-C,Female,9842873214,threya.ks2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Threyaks2005
+747,664,23EC180,VIJAYVARMHA K. K,ECE-C,Male,9655688485,vijayvarmha.kk2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,user5987SD
+748,612,23EC186,VOMKAR B S,ECE-C,Male,9632477606,vomkar.bs2023ece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,VOMKAR_BS_14
+749,0,23EC301,Apporvanathan.S,ECE-C,Male,9042065022,apoorvanathan.s2023lece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Apoorvanath_s
+750,0,23EC302,ARJUN.M,ECE-C,Male,9791606943,arjun.m2023lece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,arjunm2005
+751,735,23EC304,Dharshini.S,ECE-C,female,9361042785,dharshini.s2023lece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,dharshini0
+752,0,23EC306,Kanakeshwari.M,ECE-C,female,9791412182,kanakeshwari.m2023lece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,kanakeshwari
+753,0,23EC308,NISHANTH.P,ECE-C,male,9363043166,nishanth.p2023lece@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,nishanth02
+754,627,23EE001,AADHI S T,EEE,Male,9025211521,aadhi.st2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,aadhi_01
+755,0,23EE002,AJAY R,EEE,male,8778300248,ajay.r2023eee@sece.ac.in,Not Interested,NOT INTERESTED,,ajay_sece
+756,216,23EE003,AKSHAYA V,EEE,Female,82200 78440 ,akshaya.v2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Akshaya2023-27EEE
+757,556,23EE004,ALLEN MATTHEW A,EEE,Male,9342632381,allenmatthew.a2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,user6438QL
+758,724,23EE005,ANUPRIYA D,EEE,Female,7358152723,anupriya.d2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Jesanu_2527
+759,648,23EE006,ASWIN KRISHNA C P,EEE,Male,8807301284,aswinkrishna.cp2023eee@sece.ac.in,IT,IT,Batch - 1,Aswinkrishna07
+760,340,23EE007,ASWINI M S,EEE,Female,7010917929,aswini.ms2023eee@sece.ac.in,CORE,IT,Batch - 11,aswini_ms
+761,343,23EE008,ATHITHIYA R K,EEE,Male,9047365556,athithiya.rk2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,user4603vi
+762,743,23EE009,BALA MUGESH M K,EEE,Male,8778848565,balamugesh.mk2023eee@sece.ac.in,Not Interested,NOT INTERESTED,,mkbm1307
+763,430,23EE010,BHARATH KISHORE T,EEE,Male,7010318389,bharathkishore.t2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,user1631Pi
+764,0,23EE011,DEERAJ V,EEE,MALE,9345982823,deeraj.v2023eee@sece.ac.in,CORE,core,Batch - 11,Deeraj_13
+765,0,23EE012,DINESH M,EEE,Male,9042679338,dinesh.m2023eee@sece.ac.in,Not Interested,NOT INTERESTED,,Dinesh01032006
+766,435,23EE013,GOWTHAMI B,EEE,Female,6374437193,gowthami.b2023eee@sece.ac.in,IT,IT,Batch - 10,user3226uu
+767,0,23EE014,HARIPRASATH G,EEE,MALE,9952845982,hariprasath.g2023eee@sece.ac.in,Not Interested,NOT INTERESTED,,hari_018
+768,753,23EE015,HARSHINI B,EEE,Female,9944999058,harshini.b2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,harshhini04
+769,0,23EE016,HARSHINI T,EEE,Female,9447211463,harshini.t2023eee@sece.ac.in,IT,IT,Batch - 10,harshini27
+770,0,23EE018,KANISH KAARTHICK V M,EEE,Male,9578757979,kanishkaarthick.vm2023eee@sece.ac.in,IT,IT,Batch - 10,user4874Bs
+771,374,23EE019,KAUSHIGHA S,EEE,FEMALE,7200980012,kaushigha.s2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Kaushighas
+772,608,23EE020,KAVIN PRABA K,EEE,Female,7904576107,kavinpraba.k2023eee@sece.ac.in,IT,IT,Batch - 10,Kavinpraba
+773,0,23EE021,KAVIYA C M,EEE,Female,9361956156,kaviya.cm2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,user4475b
+774,693,23EE022,KIRUBHAKARAN V,EEE,MALE,9342873236,kirubhakaran.v2023eee@sece.ac.in,IT,IT,Batch - 10,o8fsUu06Wd
+775,536,23EE023,KISHORE D G,EEE,MALE,6379947147,kishore.dg2023eee@sece.ac.in,IT,IT,Batch - 10,user7397HJ
+776,0,23EE024,KRUTHIKA S,EEE,Female,7010629460,kruthika.s2023eee@sece.ac.in,IT,IT,Batch - 10,Kruthikasivakumar
+777,622,23EE025,LOGESH MOORTHI R,EEE,Male,6380480224,logeshmoorthy.r2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,logesh_moorthi
+778,0,23EE026,LOGESHWARAN N,EEE,Male,9363371960,logeshwaran.n2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,logesh26
+779,708,23EE027,MOHAMMED AARIF H,EEE,Male,8300516072,mohammedaarif.h2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Mohammed_Aarif_H
+780,0,23EE028,MOHAN A,EEE,Male,9342905185,mohan.a2023eee@sece.ac.in,Not Interested,NOT INTERESTED,,Mohan_A_005
+781,0,23EE029,MOHANAPRASATH S,EEE,Male,9361032712,mohanaprasath.s2023eee@sece.ac.in,IT,IT,Batch - 10,smohanaprasath
+782,0,23EE030,MOHANRAJ C P,EEE,MALE,7092131033,mohanraj.cp2023eee@sece.ac.in,Not Interested,NOT INTERESTED,,
+783,553,23EE031,MRITHIKA S,EEE,Female,9489737491,mrithika.s2023eee@sece.ac.in,CORE,IT,Batch - 11,mrithikas
+784,719,23EE032,NANDHA KUMAR P,EEE,Male,8925795716,nandhakumar.p2023eee@sece.ac.in,IT,IT,Batch - 10,Nandhakumar07
+785,0,23EE033,NANDHAKISHORE R,EEE,Male,9655378954,nandhakishore.r2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,NandhaKishoreR
+786,563,23EE034,NITHIN NAVDEEP SUDHAKAR,EEE,Male,6374401376,nithinnavdeepsudhakar.2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,user6168fc
+787,265,23EE035,NITHYA SHREE G,EEE,Female,8248747030,nithyashree.g2023eee@sece.ac.in,IT,IT,Batch - 2,user5577RP
+788,655,23EE036,NITHYA SREE B,EEE,Female,9788112877,nithyasree.b2023eee@sece.ac.in ,Not Interested,NOT INTERESTED,,user8082uE
+789,0,23EE038,PRADEEP KUMAR K,EEE,Male,9025093071,pradeepkumar.k2023eee@sece.ac.in,Not Interested,NOT INTERESTED,,pradeepkumar28
+790,579,23EE039,PRAVEENA L,EEE,Female,8870793378,praveena.l2023eee@sece.ac.in,IT,IT,Batch - 10,praveenal
+791,349,23EE040,PRIYA E,EEE,Female,9360718700,priya.e2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Priya_Elango
+792,431,23EE042,RITTISH G,EEE,Male,7845878331,rittish.g2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Rittish
+793,751,23EE043,RIYAS RAHMAN A,EEE,MALE,9043663837,riyasrahman.a2023eee@sece.ac.in,Not Interested,NOT INTERESTED,,riyasrahman
+794,518,23EE044,SAMEEMA N,EEE,female,9600283205,sameema.n2023eee@sece.ac.in,IT,IT,Batch - 10,Sameema
+795,444,23EE045,SANDHEYA SREE G,EEE,Female,9787702843,sandheyasree.g2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,sandheyasree
+796,688,23EE046,SANTHOSSH K G,EEE,Male,8015407500,santhossh.kg2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,santhossh_k_g
+797,694,23EE047,SHRUTHI PRIYAA M R,EEE,Female,9092799174,shruthipriyaa.mr2023eee@sece.ac.in,IT,IT,Batch - 10,shruthi_raja08
+798,0,23EE048,SHYAM A,EEE,Male,9585563775,shyam.a2023eee@sece.ac.in,IT,IT,Batch - 10,a_shyam
+799,698,23EE049,SIBIPATHY M,EEE,MALE,7339319533,sibipathy.m2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,sibipathy
+800,0,23EE050,SINEKA R,EEE,Female,8870719924,sineka.r2023eee@sece.ac.in,IT,IT,Batch - 10,user1582cv
+801,0,23EE051,SIVARAM B,EEE,MALE,9787149519,sivaram.b2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,sivaram3582
+802,210,23EE052,SOWBARNIKA K,EEE,Female,8248711909,sowbarnika.k2023eee@sece.ac.in,IT,IT,Batch - 2,SOWBARNIKA
+803,0,23EE053,SRIDHARSHAN M N,EEE,Male,9344460701,sridharshan.mn2023eee@sece.ac.in,IT,IT,Batch - 10,sridharshan19
+804,709,23EE055,SURIYA R K,EEE,Male,6380956388,suriya.rk2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,SURIYA-RK
+805,478,23EE056,VARSHA S,EEE,Female,9443104201,varsha.s2023eee@sece.ac.in,IT,IT,Batch - 10,Varsha_S_
+806,720,23EE057,VASANTH P,EEE,Male,9790562932,vasanth.p2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,vasanth_57
+807,0,23EE058,VEERANESHWARAN KANNAN,EEE,Male,7904031487,veeraneshwarankannan.2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Veeraneshwaran01K
+808,128,23EE059,VIKASH S,EEE,Male,8428693426,vikash.s2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Vikash_V_
+809,730,23EE060,VISHAL INESH A B,EEE,Male,9597776728,vishalinesh.ab2023eee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,vishalineshab
+810,0,23EE061,VISHAL J,EEE,Male,7540079418,vishal.j2023eee@sece.ac.in,IT,IT,Batch - 10,user8683OF
+811,0,23EE062,YESWANTH S,EEE,Male,6382338513,yeswanth.s2023eee@sece.ac.in,IT,IT,Batch - 1,YESWANTH
+812,0,23EE301,KAVIYARASU A,EEE,Male,9578179856,kaviyarasu.a2023leee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,kaviyarasu__33.
+813,0,23EE302,MITHUN S,EEE,Male,6384163431,mithun.s2023leee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,mithun777
+814,0,23EE303,MUTHU KARTHICK J,EEE,Male,8667783030,muthukarthick.j2023leee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,
+815,0,23EE304,RAJANANDHINI M,EEE,Female,8946047317,rajanandhani.m2023leee@sece.ac.in,CORE,CORE- EMBEREDED IOT,Batch - 11,Rajanandhini07 
+816,497,23IT001,ABISHEK VISHAL M,IT,Male,9677671253,abishekvishal.m2023it@sece.ac.in,IT,IT,Batch - 6,ABISHEK_VISHAL
+817,272,23IT002,AHAMED KHALID S,IT,Male,9629918995,ahamedkhalid.s2023it@sece.ac.in,IT,IT,Batch - 6,khalid002
+818,81,23IT003,AKASH DHANKAR,IT,Male,8248538972,akashdhankar.2023it@sece.ac.in,IT,IT,Batch - 3,n8seZdOkRE
+819,669,23IT004,AKSHARA T,IT,Female,9344833307,akshara.t2023it@sece.ac.in,IT,IT,Batch - 6,aksharat17
+820,362,23IT005,ARJUN S,IT,Male,9003855715,arjun.s2023it@sece.ac.in,IT,IT,Batch - 6,ArjunRyzen
+821,369,23IT006,ARUNESHWAR E M,IT,MALE,6379448868,aruneshwar.em2023it@sece.ac.in,IT,IT,Batch - 6,aruneshwar16
+822,759,23IT007,CHANDRA PRIYAN K,IT,Male,9360190441,chandrapriyan.k2023it@sece.ac.in,IT,IT,Batch - 6,chandrapriyan
+823,115,23IT008,CHARUMATHI M,IT,Female,9597487409,charumathi.m2023it@sece.ac.in,IT,IT,Batch - 2,charumathi1212
+824,0,23IT009,DEEPIKA V,IT,Female,6374461839,deepika.v2023it@sece.ac.in,IT,IT,Batch - 6,user6427GJ
+825,613,23IT010,DHARSHAN S S,IT,MALE,9894875789,dharshan.s2023it@sece.ac.in,Not Interested,NOT INTERESTED,,ssdharshan185
+826,201,23IT011,DHUSYANTH S,IT,Male,8300061976,dhusyanth.s2023it@sece.ac.in,IT,IT,Batch - 3,Dhusyanth20
+827,468,23IT012,DINESH RAM R,IT,Male,9789507306,dineshram.r2023it@sece.ac.in,IT,IT,Batch - 6,dineshramit
+828,710,23IT013,DIVYA G,IT,Female,8940307512,divya.g2023it@sece.ac.in,IT,IT,Batch - 6,divyasece
+829,160,23IT014,ELAVARASAN R,IT,Male,9345584983,elavarasan.r2023it@sece.ac.in,IT,IT,Batch - 3,Elavarasan12_3
+830,127,23IT015,GOWTHAM K,IT,Male,7373692501,gowtham.k2023it@sece.ac.in,IT,IT,Batch - 3,GowthamK_25
+831,642,23IT016,HARISH KARTHICK S,IT,Male,8778875778,harishkarthick.s2023it@sece.ac.in,IT,IT,Batch - 6,HarishKarthick
+832,337,23IT017,HARITHA M,IT,Female,9245410700,haritha.m2023it@sece.ac.in,IT,IT,Batch - 6,haritham58it
+833,0,23IT018,HARSHAVARDHAN G K,IT,Male,6374949037,harshavardhan.gk2023it@sece.ac.in,IT,IT,Batch - 6,Harsha
+834,498,23IT019,HARSHITHA S,IT,Female,9789476871,harshitha.s2023it@sece.ac.in,IT,IT,Batch - 6,harshithasiva
+835,273,23IT020,JAI PRAKASH P S,IT,Male,9842793747,jaiprakash.ps2023it@sece.ac.in,IT,IT,Batch - 6,jaiprakashps
+836,234,23IT021,JAYASUDHI J,IT,Female,8667786315,jayasudhi.j2023it@sece.ac.in,IT,IT,Batch - 2,user2853nY
+837,0,23IT022,JOSHUA J,IT,Male,9092737477,joshua.j2023it@sece.ac.in,IT,IT,Batch - 6,joshuait
+838,83,23IT023,JOY ANDREW S,IT,Male,7806895713,joyandrew.s2023it@sece.ac.in,IT,IT,Batch - 3,JoyAndrew
+839,85,23IT024,KANISH S,IT,MALE,8668063354,kanish.s2023it@sece.ac.in,IT,IT,Batch - 3,kanish_s_28
+840,291,23IT026,KEERTHIGA M,IT,Female,7812843753,keerthiga.m2023it@sece.ac.in,IT,IT,Batch - 2,keerthigam
+841,16,23IT027,LINGESH V,IT,Male,8870750384,lingesh.v2023it@sece.ac.in,IT,IT,Batch - 1,lingeshv09092005
+842,89,23IT028,MAHAVEER K,IT,Male,6374827794,mahaveer.k2023it@sece.ac.in,IT,IT,Batch - 3,MAHAVEER-2027
+843,458,23IT029,MAJID HUSAIN J,IT,MALE,9344089929,majidhusain.j2023it@sece.ac.in,IT,IT,Batch - 6,maji_husai_123
+844,251,23IT030,PAMILA IRENE M,IT,Female,9597757669,pamilairene.m2023it@sece.ac.in,IT,IT,Batch - 2,PamilaIrene
+845,122,23IT031,POOJA SHRI S M,IT,Female,9345783513,poojashri.sm2023it@sece.ac.in,IT,IT,Batch - 2,user9128no
+846,213,23IT032,PRADEEP M,IT,Male,8807802256,pradeep.m2023it@sece.ac.in,IT,IT,Batch - 3,pradeepm516
+847,399,23IT033,PRANESH K A,IT,Male,9976121007,pranesh.ka2023it@sece.ac.in,IT,IT,Batch - 6,praneshalagesan
+848,485,23IT034,PRANESH KUMAR N,IT,MALE,9025322858,praneshkumar.n2023it@sece.ac.in,IT,IT,Batch - 6,praneesshh
+849,262,23IT035,PRAVEENKUMAR S,IT,Male,9080688360,praveenkumar.s2023it@sece.ac.in,IT,IT,Batch - 6,praveenkumar7
+850,169,23IT036,PRAVIN T,IT,MALE,7010105892,pravin.t23it@sece.ac.in,IT,IT,Batch - 3,user8282pW
+851,414,23IT037,PRITIKA J,IT,Female,7418889456,pritika.j2023it@sece.ac.in,IT,IT,Batch - 6,Pritika_16
+852,230,23IT038,PRIYA R,IT,Female,8778931266,priya.r2023it@sece.ac.in,IT,IT,Batch - 2,priya-19
+853,137,23IT039,PUVIYARASU S,IT,Male,9345713738,puviyarasu.s2023it@sece.ac.in,IT,IT,Batch - 3,puviyarasu12
+854,178,23IT040,RAHUL R,IT,MALE,9095026227,rahul.r2023it@sece.ac.in,IT,IT,Batch - 3,Rahul_R_2023
+855,513,23IT041,SACHIN V,IT,MALE,9384513173,sachin.v2023it@sece.ac.in,IT,IT,Batch - 6,sachin_v03
+856,292,23IT042,SAM GIFTSON J,IT,Male,9344822774,samgiftson.j2023it@sece.ac.in,IT,IT,Batch - 6,SamGiftson
+857,0,23IT043,SANJITH S,IT,Male,7904519362,sanjith.s2023it@sece.ac.in,Not Interested,NOT INTERESTED,,#N/A
+858,68,23IT044,SARANYA S,IT,Female,6374194813,saranya.s2023it@sece.ac.in,IT,IT,Batch - 2,SaranyaS29
+859,116,23IT045,SARAVANAN K,IT,Male,9080562233,saravanan.k2023it@sece.ac.in,IT,IT,Batch - 3,saravananit2005
+860,149,23IT046,SAVITHA S,IT,Female,8825919924,savitha.s2023it@sece.ac.in,IT,IT,Batch - 2,user5268Wq
+861,202,23IT047,SHRI HARINI M,IT,Female,9842268727,shriharini.m2023it@sece.ac.in,IT,IT,Batch - 2,Shriharinimuralidharan29
+862,469,23IT048,SIVADHARNI V M,IT,Female,9444771450,sivadharni.vm2023it@sece.ac.in,IT,IT,Batch - 6,sivadharni21
+863,124,23IT049,SIVAGAYATHRI P,IT,Female,9894465065,sivagayathri.p2023it@sece.ac.in,IT,IT,Batch - 2,user6074bw
+864,101,23IT050,SOWMIYA A,IT,Female,9843883388,sowmiya.a2023it@sece.ac.in,IT,IT,Batch - 2,Sowmiya820
+865,486,23IT051,SUPRIYA D V,IT,Female,9865988663,supriya.dv2023it@sece.ac.in,IT,IT,Batch - 6,Supriya_venkatasalapathi
+866,167,23IT052,SWATHI N,IT,Female,6384648469,swathi.n2023it@sece.ac.in,IT,IT,Batch - 2,swathi2005
+867,170,23IT053,TAMIL SELVAN M,IT,MALE,6381695650,tamilselvan.m2023it@sece.ac.in,IT,IT,Batch - 3,tamil143
+868,575,23IT054,TAMIZH MANI B,IT,Male,7871689540,tamizhmani.b2023it@sece.ac.in,IT,IT,Batch - 6,tamizhmani13270
+869,739,23IT055,TARIKA S,IT,Female,8248313835,tarika.s2023it@sece.ac.in,IT,IT,Batch - 6,__tarika___
+870,109,23IT056,THAMILARASAN G P,IT,Male,9566699153,thamilarasan.gp2023it@sece.ac.in,IT,IT,Batch - 3,thamilarasangp
+871,110,23IT057,THARAN A,IT,Male,8072572018,tharan.a2023it@sece.ac.in,IT,IT,Batch - 3,tharan_a0812
+872,183,23IT058,THARANI S,IT,Female,8072505851,tharani.s2023it@sece.ac.in,IT,IT,Batch - 2,user6328wY
+873,370,23IT059,THARASRI MAGESHKUMAR,IT,Female,8778173009,tharasrimageshkumar2023it@sece.ac.in,IT,IT,Batch - 6,THARASRI_MAGESHKUMAR
+874,445,23IT060,VARUN G,IT,Male,8610929579,varun.g2023it@sece.ac.in,IT,IT,Batch - 6,VarunGovindarajan
+875,299,23IT061,VIBITHA B K,IT,Female,9790760296,vibitha.bk2023it@sece.ac.in,IT,IT,Batch - 6,VibithaBalamurali
+876,303,23IT062,YASVANTH P,IT,Male,8714983498,yasvanth.p2023it@sece.ac.in,IT,IT,Batch - 6,YASVANTH_PALANISAMY
+877,121,23IT063,YUVASRI B,IT,Female,9344880295,yuvasri.b2023it@sece.ac.in,IT,IT,Batch - 2,Yuvasri_b11
+878,711,23IT301,GOKUL C,IT,Male,9025690221,gokul.c2023lit@sece.ac.in,IT,IT,Batch - 6,Mohan200223
+879,704,23IT302,KAVIN S,IT,Male,9629600483,kavin.s2023lit@sece.ac.in,IT,IT,Batch - 6,Kavin-m4x
+880,0,23IT303,MOHAMMED ASIK A,IT,Male,9789181465,mohammedasik.a2023lit@sece.ac.in,IT,IT,Batch - 6,Gokul_C_5591
+881,0,23IT304,SRIDHARAN C,IT,Male,9363737913,sridharan.c2023lit@sece.ac.in,IT,IT,Batch - 6,Sridharan_c12
+882,0,23IT501,MOHAN KUMAR M,IT,Male,6380648908,Mohankumar.m2022it@sece.ac.in,Not Interested,NOT INTERESTED,,Mohan200223
+883,0,23ME001,ASHOK I,MECH,Male,9360326616,ashok.i2023mech@sece.ac.in,CORE,CORE- PRODUCTION,Batch - 12,Ashok I
+884,479,23ME002,DHANVANTH S,MECH,Male,9345742029,dhanvanth.s2023mech@sece.ac.in,IT,IT,Batch - 10,DhanvanthS
+885,0,23ME003,DHARANI THARAN S,MECH,Male,8610265040,dharanitharan.s2023mech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,Dharanitharan0609
+886,0,23ME005,GOKUL M,MECH,Male,8667053757,gokul.m2023mech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,GOKULM
+887,490,23ME006,GOKULAN R S,MECH,Male,8438824417,gokulan.rs2023mech@sece.ac.in,IT,IT,Batch - 1,Gokulan_RS
+888,0,23ME007,HAMSAVARSHINI J S,MECH,Female,9486913457,hamsavarshini.js2023mech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,user0101rz
+889,0,23ME008,HARISH T,MECH,Male,9080752687,harish.t2023mech@sece.ac.in,Not Interested,NOT INTERESTED,,harish06
+890,0,23ME009,JAMEEL AHMED M R,MECH,Male,9597358808,jameelahmed.mr2023mech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,Jameelahmedmr
+891,0,23ME010,JEEVAN T,MECH,Male,6385254262,jeevan.t2023mech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,JEEVAN_T
+892,0,23ME011,JEYA SREE M,MECH,Female,8015604317,jeyasree.m2023mech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,Jeyasree_Muthumani1408
+893,0,23ME012,KAMALESH R,MECH,Male,9787963907,kamalesh.r2023mech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,kamalesh_12
+894,0,23ME013,KAVIN C,MECH,Male,9345431468,kavin.c2023mech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,kavinc
+895,0,23ME014,MANI BHARATHI P,MECH,Male,7868039898,manibharathi.p2023@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,user5395fl
+896,0,23ME015,MEHA V,MECH,Female,8870829161,meha.v2023mech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,Meha Venugopal
+897,0,23ME016,MONISH T,MECH,Male,8610083896,monish.t2023mech@sece.ac.in,Not Interested,NOT INTERESTED,,monish_t
+898,0,23ME017,MUVESH J,MECH,Male,9025970545,muvesh.j2023mech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,Muvesh
+899,0,23ME018,NIKHILA V S,MECH,Female,9791365175,nikhila.vs2023mech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,Nikhilavs
+900,0,23ME019,RAHULRAJ C,MECH,Male,7845503129,rahulraj.c2023mech@sece.ac.in,Not Interested,NOT INTERESTED,,rahulrajj
+901,731,23ME020,ROHITH R,MECH,Male,7418749270,rohith.r2023mech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,Rohith080620
+902,0,23ME021,SAMRAT C,MECH,Male,8248492258,samrat.c2023mech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,samratc
+903,0,23ME023,SOUNDHAR D M,MECH,Male,9566647825,soundhar.dm2023mech@sece.ac.in,IT,IT,Batch - 10,Soundhar01042006
+904,0,23ME024,SRI PARASURAM T R,MECH,Male,6381457568,sriparasuram.tr2023mech@sece.ac.in,CORE,CORE- PRODUCTION,Batch - 12,Sriparasuram_tr
+905,0,23ME025,STEVU GIFTSEN S,MECH,Male,9994162018,stevugiftsen.s2023mech@sece.ac.in,CORE,CORE- HVAC,Batch - 12,stevugiftsen26
+906,733,23ME026,THANGAVEL P,MECH,Male,9025628426,thangavel.p2023mech@sece.ac.in,IT,IT,Batch - 10,thangavelp2005
+907,420,23ME027,THIANESSVAR V,MECH,Male,9360701722,thianessvar.v2023mech@sece.ac.in,IT,IT,Batch - 10,MALE
+908,744,23ME028,VAISALI S,MECH,Female,9445817709,vaisali.s2023mech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,Vaisali_Senthilkumar
+909,0,23ME029,VIGNESVARAN G,MECH,Male,8428779337,vignesvaran.g2023mech@sece.ac.in,CORE,CORE- EV,Batch - 12,vignesvaran
+910,0,23ME301,AJAY S,MECH,Male,7904369105,ajay.s2023lmech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,ajay0408
+911,0,23ME302,DEVAPPRAKASH A,MECH,Male,6381358984,devapprakash.a2023mech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,Devapprakash_A
+912,0,23ME303,DHANUSHKUMAR P,MECH,Male,9384566435,dhanushkumar.p2023lmech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,dhanushkumar2005
+913,0,23ME304,PURUSHOTHAMAN M,MECH,Male,9976965930,purushothaman.m2023lmech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,Purushoth@2005
+914,721,23ME004,GOFORTH WALKER P,MECH,Male,9080635607,goforthwalker.p2023mech@sece.ac.in,CORE,CORE- DESIGN,Batch - 12,GoforthWalker

@@ -2,19 +2,9 @@ import requests
 import pandas as pd
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# Function to fetch LeetCode user statistics using GraphQL API
+# Fetch LeetCode stats
 def get_leetcode_stats(username):
-    """
-    Retrieves LeetCode user statistics for a given username via GraphQL API.
-    
-    Args:
-        username (str): LeetCode username to query.
-    
-    Returns:
-        tuple: (username, response_data) if successful, (username, None) if failed.
-    """
     url = "https://leetcode.com/graphql"
-    # GraphQL query to fetch user profile, submission stats, and contest ranking
     query = """
     query getUserProfile($username: String!) {
       matchedUser(username: $username) {
@@ -39,162 +29,135 @@ def get_leetcode_stats(username):
     """
     variables = {"username": username}
     try:
-        # Send POST request to LeetCode GraphQL API
         response = requests.post(url, json={"query": query, "variables": variables})
         if response.status_code == 200:
             return username, response.json()
     except Exception:
-        # Handle network or API errors gracefully
         pass
     return username, None
 
-# Function to process a single user's data
+
+# Process single user
 def process_user(row, titles_output):
-    """
-    Processes a single user's data, fetching LeetCode stats and formatting output.
-    
-    Args:
-        row (pd.Series): Row from input DataFrame containing user information.
-        titles_output (list): List of column names for the output DataFrame.
-    
-    Returns:
-        pd.DataFrame: Single-row DataFrame with user's data or N/A for missing fields.
-    """
-    username = str(row["LeetCodeid"]).strip()
+    username = str(row.get("Leetcode ID", "")).strip()
 
-    # Handle missing or empty username
+    # If no username, fill N/A
     if not username:
-        return pd.DataFrame(
-            [
-                [
-                    row["S.no"],
-                    row["ROLL NO"],
-                    row["Name"],
-                    row["DEPT"],
-                    row["Interested Catagory"],
-                    row["BATCH"],
-                    username,
-                ]
-                + ["N/A"] * (len(titles_output) - 7)  # Fill remaining columns with N/A
-            ],
-            columns=titles_output,
-        )
+        return pd.DataFrame([[row.get("S.no", "N/A"),
+                              row.get("RANK", "N/A"),
+                              row.get("Roll No", "N/A"),
+                              row.get("Name", "N/A"),
+                              row.get("DEPT", "N/A"),
+                              row.get("GENDER", "N/A"),
+                              row.get("PHONE NUMBER", "N/A"),
+                              row.get("EMAIL ID", "N/A"),
+                              row.get("IT/Core/Not Interested", "N/A"),
+                              row.get("Interested Catagory", "N/A"),
+                              username,
+                              row.get("BATCH", "N/A"),
+                              "N/A",  # medium
+                              "N/A",  # hard
+                              "N/A",  # problem count
+                              "N/A",  # contest attended
+                              "N/A",  # contest rating
+                              "N/A",   # global ranking
+                              "N/A"
+                             ]], columns=titles_output)
 
-    # Fetch user statistics from LeetCode
     username, stats = get_leetcode_stats(username)
 
-    # Handle case where user data is not found or invalid
+    # If not found, fill N/A for stats
     if not stats or stats["data"]["matchedUser"] is None:
         print(f"⚠ Username '{username}' not found. Filling with N/A.")
-        user = [row["Name"], row["ROLL NO"], row["DEPT"], row["BATCH"], username]
-        invalid_users.append(user)  # Track invalid users
-        return pd.DataFrame(
-            [
-                [
-                    row["S.no"],
-                    row["ROLL NO"],
-                    row["Name"],
-                    row["DEPT"],
-                    row["Interested Catagory"],
-                    row["BATCH"],
-                    username,
-                ]
-                + ["N/A"] * (len(titles_output) - 7)  # Fill remaining columns with N/A
-            ],
-            columns=titles_output,
-        )
+        return pd.DataFrame([[row.get("S.no", "N/A"),
+                              row.get("RANK", "N/A"),
+                              row.get("Roll No", "N/A"),
+                              row.get("Name", "N/A"),
+                              row.get("DEPT", "N/A"),
+                              row.get("GENDER", "N/A"),
+                              row.get("PHONE NUMBER", "N/A"),
+                              row.get("EMAIL ID", "N/A"),
+                              row.get("IT/Core/Not Interested", "N/A"),
+                              row.get("Interested Catagory", "N/A"),
+                              username,
+                              row.get("BATCH", "N/A"),
+                              "N/A",
+                              "N/A",
+                              "N/A",
+                              "N/A",
+                              "N/A",
+                              "N/A",
+                              "N/A"
+                             ]], columns=titles_output)
 
-    # Extract relevant data from API response
     matched_user = stats["data"]["matchedUser"]
     contest_info = stats["data"]["userContestRanking"]
 
-    # Create DataFrame row with all user data
-    return pd.DataFrame(
-        [
-            [
-                row["S.no"],
-                row["ROLL NO"],
-                row["Name"],
-                row["DEPT"],
-                row["Interested Catagory"],
-                row["BATCH"],
-                matched_user["username"],
-                matched_user["submitStats"]["acSubmissionNum"][0]["count"],  # Total problems
-                matched_user["profile"]["ranking"],  # General ranking
-                matched_user["profile"]["reputation"],  # Reputation score
-                contest_info["rating"] if contest_info else "N/A",  # Contest rating
-                contest_info["attendedContestsCount"] if contest_info else "N/A",  # Contests attended
-                contest_info["globalRanking"] if contest_info else "N/A",  # Global contest ranking
-                matched_user["submitStats"]["acSubmissionNum"][1]["count"],  # Easy problems
-                matched_user["submitStats"]["acSubmissionNum"][2]["count"],  # Medium problems
-                matched_user["submitStats"]["acSubmissionNum"][3]["count"],  # Hard problems
-            ]
-        ],
-        columns=titles_output,
-    )
+    # Extract stats safely
+    easy = matched_user["submitStats"]["acSubmissionNum"][1]["count"]
+    medium = matched_user["submitStats"]["acSubmissionNum"][2]["count"]
+    hard = matched_user["submitStats"]["acSubmissionNum"][3]["count"]
+    total = matched_user["submitStats"]["acSubmissionNum"][0]["count"]
 
-# Define column names for output DataFrame
+    return pd.DataFrame([[row.get("S.no", "N/A"),
+                          row.get("RANK", "N/A"),
+                          row.get("Roll No", "N/A"),
+                          row.get("Name", "N/A"),
+                          row.get("DEPT", "N/A"),
+                          row.get("GENDER", "N/A"),
+                          row.get("PHONE NUMBER", "N/A"),
+                          row.get("EMAIL ID", "N/A"),
+                          row.get("IT/Core/Not Interested", "N/A"),
+                          row.get("Interested Catagory", "N/A"),
+                          matched_user["username"],
+                          row.get("BATCH", "N/A"),
+                          easy,
+                          medium,
+                          hard,
+                          total,
+                          contest_info["attendedContestsCount"] if contest_info else "N/A",
+                          contest_info["rating"] if contest_info else "N/A",
+                          contest_info["globalRanking"] if contest_info else "N/A"
+                         ]], columns=titles_output)
+
+
+# Output columns in correct order
 titles_output = [
     "S.no",
-    "ROLL NO",
+    "RANK",
+    "Roll No",
     "Name",
     "DEPT",
+    "GENDER",
+    "PHONE NUMBER",
+    "EMAIL ID",
+    "IT/Core/Not Interested",
     "Interested Catagory",
+    "Leetcode ID",
     "BATCH",
-    "Leetcodeid",
-    "Problem Count",
-    "General Ranking",
-    "Reputation",
-    "Contest Rating",
-    "Contest Attended",
-    "Global Ranking",
-    "easy",
+    "Easy",
     "medium",
     "hard",
+    "Problem Count",
+    "Contest Attended",
+    "Contest Rating",
+    "Global Ranking",
 ]
 
-# Define column names for invalid users DataFrame
-titles_invalid = ["Name", "ROLL NO", "Dept", "Batch", "username"]
-
-# Initialize list to track invalid users and empty DataFrame for invalid users
-invalid_users = []
-df_invalid = pd.DataFrame(columns=titles_invalid)
-
-# Read input data from CSV file
+# Read input CSV
 df_input = pd.read_csv("input.csv")
-
-# Initialize empty DataFrame for output
 df_output = pd.DataFrame(columns=titles_output)
 
-# Log start of scraping process
 print(f"🚀 Starting LeetCode scraping for {len(df_input)} users...\n")
 
-# Use ThreadPoolExecutor for concurrent API requests
-max_threads = 10  # Adjust based on network capacity and API rate limits
+max_threads = 1000  # Lower to avoid API bans
 with ThreadPoolExecutor(max_workers=max_threads) as executor:
-    # Submit tasks for each user
-    futures = [
-        executor.submit(process_user, row, titles_output)
-        for _, row in df_input.iterrows()
-    ]
-
-    # Process completed tasks and collect results
+    futures = [executor.submit(process_user, row, titles_output) for _, row in df_input.iterrows()]
     for idx, future in enumerate(as_completed(futures), start=1):
         result = future.result()
         df_output = pd.concat([df_output, result], ignore_index=True)
         print(f"[{idx}/{len(futures)}] ✅ Processed")
 
-# Sort output DataFrame by S.no
 df_output = df_output.sort_values(by="S.no")
-
-# Save output to CSV
 df_output.to_csv("output.csv", index=False)
 print("\n🎉 Finished! Saved as 'output.csv'")
-
-# Save invalid users to CSV, sorted by department
-for user in invalid_users:
-    df_invalid.loc[len(df_invalid)] = user
-
-df_invalid = df_invalid.sort_values(by="Dept")
-df_invalid.to_csv("invalid_users.csv", index=False)
-print("\n🎉 Finished! Saved as 'invalid_users.csv'")
