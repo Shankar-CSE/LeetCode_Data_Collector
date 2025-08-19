@@ -1,107 +1,75 @@
-## LeetCode Stats Scraper
-This Python script fetches LeetCode statistics for multiple users in parallel and generates a comprehensive CSV report.
+## LeetCode Data Collector
+This Python script fetches LeetCode statistics for multiple users in parallel and generates a comprehensive CSV report with student information and their coding performance metrics.
 
 ## Features
-Fetches LeetCode user statistics using GraphQL API
-
-Processes multiple users concurrently for fast performance
-
-Handles missing or invalid usernames gracefully
-
-Generates a detailed CSV report with user information and stats
-
-Preserves original input data while adding LeetCode metrics
+- Fetches LeetCode user statistics using GraphQL API
+- Processes multiple users concurrently for fast performance (up to 1000 threads)
+- Handles missing or invalid usernames gracefully
+- Generates a detailed CSV report preserving original student data
+- Adds LeetCode metrics to existing student records
+- Progress tracking with real-time console updates
 
 ## Data Collected
 For each user, the script retrieves:
 
-Basic profile information (username, ranking, reputation)
+**Problem Solving Statistics:**
+- Easy problems solved
+- Medium problems solved  
+- Hard problems solved
+- Total problems solved
 
-Problem solving stats:
-
-Easy, Medium, and Hard problems solved
-
-Total problem count
-
-Contest participation:
-
-Number of contests attended
-
-Current rating
-
-Global ranking
+**Contest Performance:**
+- Number of contests attended
+- Current contest rating
+- Global ranking
 
 ## Usage
-Prepare an input.csv file with user data including a "Leetcode ID" column
-
-Run the script: python leetcode_scraper.py
-
-Results will be saved to output.csv
+1. Prepare an `input.csv` file with student data including a "Leetcode ID" column
+2. Run the script: `python data_collector.py`
+3. Results will be saved to `output.csv`
 
 ## Input CSV Requirements
-The input file should contain these columns (at minimum):
+The input file must contain these columns:
+- S.no
+- RANK
+- Roll No
+- Name
+- DEPT
+- GENDER
+- PHONE NUMBER
+- EMAIL ID
+- IT/Core/Not Interested
+- Interested Catagory
+- Leetcode ID
+- BATCH
 
-Leetcode ID
-
-S.no
-
-RANK
-
-Roll No
-
-Name
-
-DEPT
-
-GENDER
-
-PHONE NUMBER
-
-EMAIL ID
-
-IT/Core/Not Interested
-
-Interested Catagory
-
-BATCH
-
-## Output Columns
-The generated CSV will include all input columns plus:
-
-Easy (problems solved)
-
-medium (problems solved)
-
-hard (problems solved)
-
-Problem Count (total solved)
-
-Contest Attended
-
-Contest Rating
-
-Global Ranking
+## Output Format
+The generated CSV includes all input columns plus LeetCode metrics:
+- Easy (problems solved)
+- medium (problems solved)
+- hard (problems solved)
+- Problem Count (total solved)
+- Contest Attended
+- Contest Rating
+- Global Ranking
 
 ## Configuration
-Adjust max_threads to control concurrent requests (default: 1000)
+- `max_threads`: Controls concurrent requests (default: 1000)
+- Invalid usernames are marked as "N/A" in output
+- Output is sorted by "S.no" to maintain original order
 
-The script handles API errors gracefully and will mark unavailable data as "N/A"
-
-Requirements
-Python 3.x
-
-pandas
-
-requests
-
-Install dependencies with:
-
+## Requirements
 ```bash
 pip install pandas requests
 ```
-## Notes
-The script may be rate-limited by LeetCode's API if too many requests are made
 
-Invalid usernames will be reported in the console and marked as "N/A" in output
+## Error Handling
+- Gracefully handles API errors and timeouts
+- Missing usernames are filled with "N/A"
+- Invalid usernames are reported in console with warning messages
+- Network issues are handled without crashing the script
 
-Output is sorted by the original "S.no" column to maintain input order
+## Performance
+- Uses ThreadPoolExecutor for concurrent processing
+- Progress tracking shows completion status
+- Optimized for large datasets with hundreds of users
