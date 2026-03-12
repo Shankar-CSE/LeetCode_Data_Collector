@@ -1,8 +1,10 @@
 import os
 import json
+from pathlib import Path
 
-from fastapi import FastAPI, Query, HTTPException
+from fastapi import FastAPI, Query, HTTPException, APIRouter
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 from pymongo import MongoClient
 from dotenv import load_dotenv
 
@@ -45,6 +47,7 @@ except Exception:
 
 # --------------- FastAPI App ---------------
 app = FastAPI(title="LeetCode Analytics API")
+router = APIRouter(prefix="/api")
 
 app.add_middleware(
     CORSMiddleware,
@@ -83,7 +86,7 @@ def build_pipeline(group_by: str, metric: str):
 
 
 # --------------- Endpoints ---------------
-@app.get("/analytics")
+@router.get("/analytics")
 def analytics(
     group_by: str = Query(..., description="Field to group by"),
     metric: str = Query(..., description="Metric to aggregate"),
@@ -104,7 +107,7 @@ def analytics(
     return result
 
 
-@app.get("/summary")
+@router.get("/summary")
 def summary():
     cached = cache_get("summary")
     if cached is not None:
@@ -136,7 +139,7 @@ def summary():
     return data
 
 
-@app.get("/leaderboard")
+@router.get("/leaderboard")
 def leaderboard():
     cached = cache_get("leaderboard")
     if cached is not None:
@@ -152,7 +155,7 @@ def leaderboard():
     return result
 
 
-@app.get("/scatter")
+@router.get("/scatter")
 def scatter():
     cached = cache_get("scatter")
     if cached is not None:
@@ -165,3 +168,21 @@ def scatter():
     result = list(cursor)
     cache_set("scatter", result)
     return result
+
+
+# --------------- Register Router + Serve Frontend ---------------
+app.include_router(router)
+
+# Serve React build in production (frontend/dist)
+FRONTEND_DIR = Path(__file__).resolve().parent.parent / "frontend" / "dist"
+if FRONTEND_DIR.is_dir():
+    from fastapi.responses import FileResponse
+
+    app.mount("/assets", StaticFiles(directory=FRONTEND_DIR / "assets"), name="assets")
+
+    @app.get("/{full_path:path}")
+    def serve_frontend(full_path: str):
+        file = FRONTEND_DIR / full_path
+        if file.is_file():
+            return FileResponse(file)
+        return FileResponse(FRONTEND_DIR / "index.html")
