@@ -1,11 +1,15 @@
 import requests
 import pandas as pd
 import time
+from db import check_mongodb_connection, insert_data
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+start = time.time()
 # ==========================================================
 # CONFIGURATION SECTION (Easy to modify while testing)
 # ==========================================================
+
+check_mongodb_connection()
 
 MAX_THREADS = 10
 REQUEST_TIMEOUT = 30
@@ -14,8 +18,6 @@ RETRY_DELAY = 2
 REQUEST_DELAY = 0.05
 
 INPUT_FILE = "input.csv"
-OUTPUT_FILE = "output.csv"
-INVALID_FILE = "invalid_users.csv"   # NEW FILE for invalid usernames
 
 # ==========================================================
 # CREATE A GLOBAL SESSION
@@ -158,7 +160,6 @@ def build_row(row, username, easy, medium, hard, total, contests, rating, rankin
         "EMAIL ID": row.get("EMAIL ID", "N/A"),
         "IT/Core/Not Interested": row.get("IT/Core/Not Interested", "N/A"),
         "Interested Catagory": row.get("Interested Catagory", "N/A"),
-        "SKILLRACK ID": row.get("SKILLRACK ID", "N/A"),
         "Leetcode ID": username,
         "BATCH": row.get("BATCH", "N/A"),
         "Easy": easy,
@@ -209,7 +210,12 @@ if __name__ == "__main__":
 
     df_output = pd.DataFrame(valid_results)
     df_output = df_output.sort_values(by="S.no")
-    df_output.to_csv(OUTPUT_FILE, index=False)
+
+    df_output = df_output.drop(columns=["S.no"])
+    records = df_output.to_dict("records")
+
+    insert_data("leetcodedata", "validusers", records)
+
 
     # ======================================================
     # SAVE INVALID USERS
@@ -217,8 +223,15 @@ if __name__ == "__main__":
 
     df_invalid = pd.DataFrame(invalid_results)
     df_invalid = df_invalid.sort_values(by="S.no")
-    df_invalid.to_csv(INVALID_FILE, index=False)
+    
+    df_invalid = df_invalid.drop(columns=["S.no"])
+    records = df_invalid.to_dict("records")
+
+    insert_data("leetcodedata", "invalidusers", records)
 
     print("\n🎉 Scraping Completed!")
-    print(f"✅ Valid users saved to: {OUTPUT_FILE}")
-    print(f"⚠ Invalid users saved to: {INVALID_FILE}")
+
+
+end = time.time()
+
+print("Time taken:", end - start, "seconds")
