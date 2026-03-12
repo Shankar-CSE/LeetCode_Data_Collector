@@ -7,30 +7,30 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 # CONFIGURATION SECTION (Easy to modify while testing)
 # ==========================================================
 
-MAX_THREADS = 10             # Safe thread count (LeetCode blocks >20)
-REQUEST_TIMEOUT = 30        # Timeout for each API request
-RETRY_LIMIT = 3             # Retry failed requests
-RETRY_DELAY = 2             # Delay between retries
-REQUEST_DELAY = 0.05        # Small delay to avoid burst traffic
+MAX_THREADS = 10
+REQUEST_TIMEOUT = 30
+RETRY_LIMIT = 3
+RETRY_DELAY = 2
+REQUEST_DELAY = 0.05
 
 INPUT_FILE = "input.csv"
 OUTPUT_FILE = "output.csv"
+INVALID_FILE = "invalid_users.csv"   # NEW FILE for invalid usernames
 
 # ==========================================================
-# CREATE A GLOBAL SESSION (Improves performance)
+# CREATE A GLOBAL SESSION
 # ==========================================================
 
 session = requests.Session()
 
-# Browser-like headers (important to avoid bot detection)
 HEADERS = {
     "Content-Type": "application/json",
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64)",
     "Referer": "https://leetcode.com",
 }
 
 # ==========================================================
-# GRAPHQL QUERY (Used to fetch user statistics)
+# GRAPHQL QUERY
 # ==========================================================
 
 LEETCODE_QUERY = """
@@ -57,14 +57,10 @@ query getUserProfile($username: String!) {
 """
 
 # ==========================================================
-# FETCH LEETCODE DATA (with retry protection)
+# FETCH LEETCODE DATA
 # ==========================================================
 
 def get_leetcode_stats(username):
-    """
-    Fetch LeetCode stats for a given username.
-    Includes retry mechanism to handle temporary failures.
-    """
 
     url = "https://leetcode.com/graphql"
     variables = {"username": username}
@@ -79,11 +75,9 @@ def get_leetcode_stats(username):
                 timeout=REQUEST_TIMEOUT,
             )
 
-            # Successful request
             if response.status_code == 200:
                 return username, response.json()
 
-            # Rate limit or blocked
             if response.status_code in [429, 403]:
                 print(f"⚠ Rate limit hit for {username}, retrying...")
                 time.sleep(RETRY_DELAY)
@@ -91,49 +85,32 @@ def get_leetcode_stats(username):
         except requests.exceptions.RequestException:
             print(f"⚠ Network error for {username}, retrying...")
 
-        # Wait before retry
         time.sleep(RETRY_DELAY)
 
-    # If all retries fail
     return username, None
 
 
 # ==========================================================
-# PROCESS EACH USER ROW
+# PROCESS USER
 # ==========================================================
 
 def process_user(row):
 
-    """
-    Extract username from CSV row and fetch stats.
-    Returns structured data for final dataframe.
-    """
-
     username = str(row.get("Leetcode ID", "")).strip()
 
-    # ------------------------------------------------------
-    # If username is empty
-    # ------------------------------------------------------
-
+    # Missing username
     if not username:
-        return build_row(row, username, "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A")
-
-    # ------------------------------------------------------
-    # Fetch LeetCode stats
-    # ------------------------------------------------------
+        return build_row(row, username, "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A"), False
 
     username, stats = get_leetcode_stats(username)
 
+    # Invalid or API failure
     if not stats or stats["data"]["matchedUser"] is None:
-        print(f"⚠ Username '{username}' not found or API failed")
-        return build_row(row, username, "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A")
+        print(f"⚠ Invalid username: {username}")
+        return build_row(row, username, "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A"), False
 
     matched_user = stats["data"]["matchedUser"]
     contest_info = stats["data"]["userContestRanking"]
-
-    # ------------------------------------------------------
-    # Extract problem counts
-    # ------------------------------------------------------
 
     try:
         easy = matched_user["submitStats"]["acSubmissionNum"][1]["count"]
@@ -143,33 +120,30 @@ def process_user(row):
     except:
         easy = medium = hard = total = "N/A"
 
-    # ------------------------------------------------------
-    # Extract contest info
-    # ------------------------------------------------------
-
     contest_attended = contest_info["attendedContestsCount"] if contest_info else "N/A"
     contest_rating = contest_info["rating"] if contest_info else "N/A"
     global_ranking = contest_info["globalRanking"] if contest_info else "N/A"
 
-    # Small delay to avoid API bursts
     time.sleep(REQUEST_DELAY)
 
-    return build_row(
-        row,
-        matched_user["username"],
-        easy,
-        medium,
-        hard,
-        total,
-        contest_attended,
-        contest_rating,
-        global_ranking,
+    return (
+        build_row(
+            row,
+            matched_user["username"],
+            easy,
+            medium,
+            hard,
+            total,
+            contest_attended,
+            contest_rating,
+            global_ranking,
+        ),
+        True,
     )
 
 
 # ==========================================================
-# BUILD OUTPUT ROW
-# (Centralized function → easier to maintain)
+# BUILD ROW STRUCTURE
 # ==========================================================
 
 def build_row(row, username, easy, medium, hard, total, contests, rating, ranking):
@@ -207,9 +181,9 @@ if __name__ == "__main__":
 
     print(f"\n🚀 Starting LeetCode scraping for {len(df_input)} users...\n")
 
-    results = []
+    valid_results = []
+    invalid_results = []
 
-    # Thread pool execution
     with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
 
         futures = [executor.submit(process_user, row) for _, row in df_input.iterrows()]
@@ -217,22 +191,34 @@ if __name__ == "__main__":
         for idx, future in enumerate(as_completed(futures), start=1):
 
             try:
-                results.append(future.result())
+                row_data, is_valid = future.result()
+
+                if is_valid:
+                    valid_results.append(row_data)
+                else:
+                    invalid_results.append(row_data)
+
                 print(f"[{idx}/{len(futures)}] ✅ Processed")
 
             except Exception as e:
                 print(f"❌ Error processing row: {e}")
 
-    # ------------------------------------------------------
-    # Convert results list to dataframe (faster than concat)
-    # ------------------------------------------------------
+    # ======================================================
+    # SAVE VALID USERS
+    # ======================================================
 
-    df_output = pd.DataFrame(results)
-
-    # Sort by S.no
+    df_output = pd.DataFrame(valid_results)
     df_output = df_output.sort_values(by="S.no")
-
-    # Save output
     df_output.to_csv(OUTPUT_FILE, index=False)
 
-    print("\n🎉 Finished! Saved as 'output.csv'")
+    # ======================================================
+    # SAVE INVALID USERS
+    # ======================================================
+
+    df_invalid = pd.DataFrame(invalid_results)
+    df_invalid = df_invalid.sort_values(by="S.no")
+    df_invalid.to_csv(INVALID_FILE, index=False)
+
+    print("\n🎉 Scraping Completed!")
+    print(f"✅ Valid users saved to: {OUTPUT_FILE}")
+    print(f"⚠ Invalid users saved to: {INVALID_FILE}")
