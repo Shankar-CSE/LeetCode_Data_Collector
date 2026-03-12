@@ -15,6 +15,7 @@ def check_mongodb_connection():
         response = requests.post(url+"/connect-check", json={"uri": mongodb_uri}, headers=headers, timeout=10)
         if response.status_code == 200:
             data = response.json()
+            print(f"MongoDB connection successful: {data.get('message', 'N/A')}")
             return data.get("success", False)
         else:
             print(f"Error: Received status code {response.status_code}")
@@ -24,24 +25,34 @@ def check_mongodb_connection():
         return False
 
 
-def insert_data(db_name,collection_name, data):
+def insert_data(db_name, collection_name, data, batch_size=200):
+    """
+    Inserts data into MongoDB in batches to avoid 413 errors.
+    """
     try:
-        drop_collection(db_name,collection_name)
-        payload = {
-    "uri": mongodb_uri,
-    "db": db_name,
-    "collection": collection_name,
-    "operation": "insertMany",
-    "params": [data]
-}
-        response = requests.post(url+"/execute", json=payload, headers=headers, timeout=10)
-        if response.status_code == 200:
-            print(f"Data inserted successfully into {collection_name}")
-        else:            
-            print(f"Error: Received status code {response.status_code} while inserting data into {collection_name}")
+        drop_collection(db_name, collection_name)
+        total_records = len(data)
+        print(f"Inserting {total_records} records into {collection_name} in batches of {batch_size}...")
+
+        for start_idx in range(0, total_records, batch_size):
+            batch = data[start_idx : start_idx + batch_size]
+            payload = {
+                "uri": mongodb_uri,
+                "db": db_name,
+                "collection": collection_name,
+                "operation": "insertMany",
+                "params": [batch],
+            }
+            response = requests.post(url + "/execute", json=payload, headers=headers, timeout=30)
+            if response.status_code != 200:
+                print(f"Error inserting batch starting at index {start_idx}: status {response.status_code}")
+            else:
+                print(f"Batch {start_idx}-{start_idx + len(batch)-1} inserted successfully")
+
+        print(f"All records inserted into {collection_name} successfully.")
+
     except Exception as e:
         print(f"Error inserting data into {collection_name}: {e}")
-
 
 def drop_collection(db_name, collection_name):
     try:

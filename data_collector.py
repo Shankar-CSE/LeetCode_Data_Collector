@@ -9,7 +9,7 @@ start = time.time()
 # CONFIGURATION SECTION (Easy to modify while testing)
 # ==========================================================
 
-check_mongodb_connection()
+print(check_mongodb_connection())
 
 MAX_THREADS = 10
 REQUEST_TIMEOUT = 30
@@ -213,6 +213,7 @@ if __name__ == "__main__":
 
     df_output = df_output.drop(columns=["S.no"])
     records = df_output.to_dict("records")
+    records = df_output.fillna("N/A").to_dict("records")
 
     insert_data("leetcodedata", "validusers", records)
 
@@ -225,7 +226,12 @@ if __name__ == "__main__":
     df_invalid = df_invalid.sort_values(by="S.no")
     
     df_invalid = df_invalid.drop(columns=["S.no"])
-    records = df_invalid.to_dict("records")
+    records = df_invalid.fillna("N/A").to_dict("records")
+
+    # Print the first record
+    print(records[0])
+
+
 
     insert_data("leetcodedata", "invalidusers", records)
 
