@@ -1,10 +1,8 @@
 import os
 import json
-from pathlib import Path
 
 from fastapi import FastAPI, Query, HTTPException, APIRouter
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.staticfiles import StaticFiles
 from pymongo import MongoClient
 from dotenv import load_dotenv
 
@@ -170,19 +168,5 @@ def scatter():
     return result
 
 
-# --------------- Register Router + Serve Frontend ---------------
+# --------------- Register Router ---------------
 app.include_router(router)
-
-# Serve React build in production (frontend/dist)
-FRONTEND_DIR = Path(__file__).resolve().parent.parent / "frontend" / "dist"
-if FRONTEND_DIR.is_dir():
-    from fastapi.responses import FileResponse
-
-    app.mount("/assets", StaticFiles(directory=FRONTEND_DIR / "assets"), name="assets")
-
-    @app.get("/{full_path:path}")
-    def serve_frontend(full_path: str):
-        file = FRONTEND_DIR / full_path
-        if file.is_file():
-            return FileResponse(file)
-        return FileResponse(FRONTEND_DIR / "index.html")
