@@ -44,7 +44,9 @@ export default function Leaderboard() {
                 {r["Problem Count"]}
               </td>
               <td className="py-2 px-3 text-right text-amber-400 font-semibold">
-                {r["Contest Rating"]?.toFixed(1) ?? "—"}
+                {typeof r["Contest Rating"] === "number"
+                  ? r["Contest Rating"].toFixed(1)
+                  : r["Contest Rating"] || "—"}
               </td>
             </tr>
           ))}

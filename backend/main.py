@@ -3,6 +3,8 @@ import json
 
 from fastapi import FastAPI, Query, HTTPException, APIRouter
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse, JSONResponse
 from pymongo import MongoClient
 from dotenv import load_dotenv
 
@@ -170,3 +172,21 @@ def scatter():
 
 # --------------- Register Router ---------------
 app.include_router(router)
+
+# --------------- Serve Frontend ---------------
+# This allows running both FE and BE on the same port (8000)
+# when the frontend is built (npm run build)
+frontend_dist = os.path.join(os.path.dirname(__file__), "..", "frontend", "dist")
+
+if os.path.exists(frontend_dist):
+    app.mount("/", StaticFiles(directory=frontend_dist, html=True), name="frontend")
+else:
+    @app.get("/")
+    def read_root():
+        return {"message": "LeetCode Analytics API is running. Build the frontend to serve it here, or run the frontend dev server."}
+
+@app.exception_handler(404)
+async def not_found_exception_handler(request, exc):
+    if os.path.exists(os.path.join(frontend_dist, "index.html")):
+        return FileResponse(os.path.join(frontend_dist, "index.html"))
+    return JSONResponse(status_code=404, content={"detail": "Not Found"})

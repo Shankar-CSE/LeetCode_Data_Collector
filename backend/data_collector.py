@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 import time
-from db import check_mongodb_connection, insert_data
+from .db import check_mongodb_connection, insert_data
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 start = time.time()
