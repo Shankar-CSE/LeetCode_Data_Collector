@@ -24,7 +24,7 @@ ALLOWED_GROUP_BY = {"DEPT", "GENDER", "BATCH"}
 ALLOWED_METRICS = {"Problem Count", "Contest Rating", "Contest Attended", "Easy", "medium", "hard"}
 
 # --------------- MongoDB ---------------
-mongo_client = MongoClient(MONGODB_URI)
+mongo_client = MongoClient(MONGODB_URI, serverSelectionTimeoutMS=5000)
 db = mongo_client[DB_NAME]
 collection = db[COLLECTION_NAME]
 
@@ -38,9 +38,11 @@ try:
         username=REDIS_USERNAME,
         password=REDIS_PASSWORD,
         decode_responses=True,
+        socket_timeout=2,
+        socket_connect_timeout=2,
     )
-    redis_client.ping()
-    print("Redis connected")
+    # redis_client.ping()
+    print("Redis connected (ping disabled for startup)")
 except Exception:
     redis_client = None
     print("Redis unavailable — running without cache")
