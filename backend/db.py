@@ -50,9 +50,30 @@ def insert_data(db_name, collection_name, data, batch_size=200):
                 print(f"Batch {start_idx}-{start_idx + len(batch)-1} inserted successfully")
 
         print(f"All records inserted into {collection_name} successfully.")
+        create_indexes(db_name, collection_name)
 
     except Exception as e:
         print(f"Error inserting data into {collection_name}: {e}")
+
+def create_indexes(db_name, collection_name):
+    indexes = ["DEPT", "GENDER", "BATCH", "Problem Count", "Contest Rating"]
+    for field in indexes:
+        try:
+            payload = {
+                "uri": mongodb_uri,
+                "db": db_name,
+                "collection": collection_name,
+                "operation": "createIndex",
+                "params": [{field: 1}],
+            }
+            response = requests.post(url + "/execute", json=payload, headers=headers, timeout=10)
+            if response.status_code == 200:
+                print(f"Index on '{field}' created successfully")
+            else:
+                print(f"Error creating index on '{field}': status {response.status_code}")
+        except Exception as e:
+            print(f"Error creating index on '{field}': {e}")
+
 
 def drop_collection(db_name, collection_name):
     try:
