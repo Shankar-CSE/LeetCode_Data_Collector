@@ -11,8 +11,11 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.1",
+    "axios": "^1.13.6",
+    "plotly.js": "^3.4.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-plotly.js": "^2.6.0",
     "tailwindcss": "^4.2.1"
   },
   "devDependencies": {
