@@ -4,10 +4,10 @@
   "description": "Unified LeetCode Data Collector",
   "main": "backend/main.py",
   "scripts": {
-    "dev": "concurrently -n \"FE,BE\" -c \"cyan,magenta\" \"npm run dev --prefix frontend -- --host\" \"conda run -n py312 uvicorn backend.main:app --reload --port 8000 --host 0.0.0.0\"",
+    "dev": "concurrently -n \"FE,BE\" -c \"cyan,magenta\" \"npm run dev --prefix frontend -- --host\" \"bash -c 'source $(conda info --base)/etc/profile.d/conda.sh && conda activate py312 && uvicorn backend.main:app --reload --port 8000 --host 0.0.0.0'\"",
     "build": "npm run build --prefix frontend",
     "install:all": "npm install --prefix frontend && conda run -n py312 pip install -r backend/requirements.txt",
-    "runbaby": "npm run dev",
+    "runbaby": "concurrently -n \"FE,BE\" -c \"cyan,magenta\" \"npm run dev --prefix frontend -- --host\" \"bash -c 'source $(conda info --base)/etc/profile.d/conda.sh && conda activate py312 && uvicorn backend.main:app --reload --port 8000 --host 0.0.0.0'\"",
     "start": "npm run build && conda run -n py312 uvicorn backend.main:app --port 8000 --host 0.0.0.0"
   },
   "devDependencies": {

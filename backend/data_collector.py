@@ -17,7 +17,7 @@ REQUEST_TIMEOUT = 15
 # RETRY_LIMIT = 3
 # RETRY_DELAY = 2
 # REQUEST_DELAY = 0.05
-INPUT_FILE = "input.csv"
+INPUT_FILE = "./backend/input.csv"
 
 
 # ==========================================================
