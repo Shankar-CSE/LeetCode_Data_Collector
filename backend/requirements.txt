@@ -7,4 +7,3 @@ python-dotenv
 aiofiles
 loguru
 tenacity
-dnspython

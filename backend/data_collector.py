@@ -1,41 +1,34 @@
-import requests
-import pandas as pd
-import time
-from db import check_mongodb_connection, insert_data
+from tenacity import retry, stop_after_attempt, wait_exponential
+from loguru import logger
 import argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import time
+import pandas as pd
+import requests
 
-start = time.time()
+from db import check_mongodb_connection, insert_data
+
 # ==========================================================
-# CONFIGURATION SECTION (Easy to modify while testing)
+# CONFIGURATION
 # ==========================================================
-
-print(check_mongodb_connection())
-
-MAX_THREADS = 10
-REQUEST_TIMEOUT = 30
-RETRY_LIMIT = 3
-RETRY_DELAY = 2
-REQUEST_DELAY = 0.05
-
+MAX_THREADS = 20
+REQUEST_TIMEOUT = 15
+# No longer needed with tenacity
+# RETRY_LIMIT = 3
+# RETRY_DELAY = 2
+# REQUEST_DELAY = 0.05
 INPUT_FILE = "input.csv"
 
-# ==========================================================
-# CREATE A GLOBAL SESSION
-# ==========================================================
 
+# ==========================================================
+# SETUP
+# ==========================================================
 session = requests.Session()
-
 HEADERS = {
     "Content-Type": "application/json",
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64)",
     "Referer": "https://leetcode.com",
 }
-
-# ==========================================================
-# GRAPHQL QUERY
-# ==========================================================
-
 LEETCODE_QUERY = """
 query getUserProfile($username: String!) {
   matchedUser(username: $username) {
@@ -59,98 +52,72 @@ query getUserProfile($username: String!) {
 }
 """
 
+
 # ==========================================================
 # FETCH LEETCODE DATA
-# ==========================================================
-
+# =_=_========================================================
+@retry(
+    stop=stop_after_attempt(3),
+    wait=wait_exponential(multiplier=1, min=2, max=10),
+    retry_error_callback=lambda retry_state: None,  # Return None on failure
+)
 def get_leetcode_stats(username):
-
+    """Fetch user stats from LeetCode API with retries."""
     url = "https://leetcode.com/graphql"
     variables = {"username": username}
-
-    for attempt in range(RETRY_LIMIT):
-
-        try:
-            response = session.post(
-                url,
-                json={"query": LEETCODE_QUERY, "variables": variables},
-                headers=HEADERS,
-                timeout=REQUEST_TIMEOUT,
-            )
-
-            if response.status_code == 200:
-                return username, response.json()
-
-            if response.status_code in [429, 403]:
-                print(f"⚠ Rate limit hit for {username}, retrying...")
-                time.sleep(RETRY_DELAY)
-
-        except requests.exceptions.RequestException:
-            print(f"⚠ Network error for {username}, retrying...")
-
-        time.sleep(RETRY_DELAY)
-
-    return username, None
+    try:
+        response = session.post(
+            url,
+            json={"query": LEETCODE_QUERY, "variables": variables},
+            headers=HEADERS,
+            timeout=REQUEST_TIMEOUT,
+        )
+        response.raise_for_status()  # Raise HTTPError for bad responses (4xx or 5xx)
+        return username, response.json()
+    except requests.exceptions.RequestException as e:
+        logger.warning(f"Network error for {username}: {e}. Retrying...")
+        raise  # Re-raise to trigger tenacity retry
 
 
 # ==========================================================
 # PROCESS USER
 # ==========================================================
-
 def process_user(row):
-
+    """Process a single user row from the input CSV."""
     username = str(row.get("Leetcode ID", "")).strip()
 
-    # Missing username
     if not username:
+        return build_row(row, "", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A"), False
+
+    result = get_leetcode_stats(username)
+    if not result or result[1]["data"]["matchedUser"] is None:
+        logger.warning(f"Invalid or failed to fetch user: {username}")
         return build_row(row, username, "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A"), False
 
-    username, stats = get_leetcode_stats(username)
-
-    # Invalid or API failure
-    if not stats or stats["data"]["matchedUser"] is None:
-        print(f"⚠ Invalid username: {username}")
-        return build_row(row, username, "N/A", "N/A", "N/A", "N/A", "N/A", "N/A", "N/A"), False
-
+    _, stats = result
     matched_user = stats["data"]["matchedUser"]
     contest_info = stats["data"]["userContestRanking"]
 
     try:
-        easy = matched_user["submitStats"]["acSubmissionNum"][1]["count"]
-        medium = matched_user["submitStats"]["acSubmissionNum"][2]["count"]
-        hard = matched_user["submitStats"]["acSubmissionNum"][3]["count"]
-        total = matched_user["submitStats"]["acSubmissionNum"][0]["count"]
-    except:
-        easy = medium = hard = total = "N/A"
+        easy = next((s["count"] for s in matched_user["submitStats"]["acSubmissionNum"] if s["difficulty"] == "Easy"), 0)
+        medium = next((s["count"] for s in matched_user["submitStats"]["acSubmissionNum"] if s["difficulty"] == "Medium"), 0)
+        hard = next((s["count"] for s in matched_user["submitStats"]["acSubmissionNum"] if s["difficulty"] == "Hard"), 0)
+        total = sum([easy, medium, hard])
+    except (TypeError, StopIteration):
+        easy, medium, hard, total = "N/A", "N/A", "N/A", "N/A"
 
     contest_attended = contest_info["attendedContestsCount"] if contest_info else "N/A"
     contest_rating = contest_info["rating"] if contest_info else "N/A"
     global_ranking = contest_info["globalRanking"] if contest_info else "N/A"
 
-    time.sleep(REQUEST_DELAY)
-
-    return (
-        build_row(
-            row,
-            matched_user["username"],
-            easy,
-            medium,
-            hard,
-            total,
-            contest_attended,
-            contest_rating,
-            global_ranking,
-        ),
-        True,
-    )
+    return build_row(row, matched_user["username"], easy, medium, hard, total, contest_attended, contest_rating, global_ranking), True
 
 
 # ==========================================================
 # BUILD ROW STRUCTURE
 # ==========================================================
-
 def build_row(row, username, easy, medium, hard, total, contests, rating, ranking):
-
+    """Build the dictionary for a user's data."""
     return {
         "S.no": row.get("S.no", "N/A"),
         "Roll No": row.get("Roll No", "N/A"),
@@ -174,71 +141,51 @@ def build_row(row, username, easy, medium, hard, total, contests, rating, rankin
 
 
 # ==========================================================
-# MAIN EXECUTION
+# MAIN
 # ==========================================================
+def main():
+    """Main execution block."""
+    start_time = time.time()
+    logger.add("data_collector.log", rotation="5 MB", level="INFO")
+    logger.info("Starting LeetCode data collection...")
 
-if __name__ == "__main__":
+    if not check_mongodb_connection():
+        logger.error("MongoDB connection failed. Exiting.")
+        return
 
-    df_input = pd.read_csv(INPUT_FILE)
+    try:
+        df_input = pd.read_csv(INPUT_FILE)
+        logger.info(f"Loaded {len(df_input)} users from {INPUT_FILE}")
+    except FileNotFoundError:
+        logger.error(f"Input file not found: {INPUT_FILE}")
+        return
 
-    print(f"\n🚀 Starting LeetCode scraping for {len(df_input)} users...\n")
-
-    valid_results = []
-    invalid_results = []
-
+    valid_results, invalid_results = [], []
     with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
-
-        futures = [executor.submit(process_user, row) for _, row in df_input.iterrows()]
-
-        for idx, future in enumerate(as_completed(futures), start=1):
-
+        futures = {executor.submit(process_user, row) for _, row in df_input.iterrows()}
+        for i, future in enumerate(as_completed(futures), 1):
             try:
                 row_data, is_valid = future.result()
-
-                if is_valid:
-                    valid_results.append(row_data)
-                else:
-                    invalid_results.append(row_data)
-
-                print(f"[{idx}/{len(futures)}] ✅ Processed")
-
+                (valid_results if is_valid else invalid_results).append(row_data)
+                logger.info(f"Processed {i}/{len(futures)}")
             except Exception as e:
-                print(f"❌ Error processing row: {e}")
+                logger.error(f"Error processing a row: {e}")
 
-    # ======================================================
-    # SAVE VALID USERS
-    # ======================================================
+    if valid_results:
+        df_output = pd.DataFrame(valid_results).sort_values(by="S.no").drop(columns=["S.no"])
+        records = df_output.fillna("N/A").to_dict("records")
+        insert_data("validusers", records)
+        logger.success(f"Inserted {len(records)} valid users into the database.")
 
-    df_output = pd.DataFrame(valid_results)
-    df_output = df_output.sort_values(by="S.no")
+    if invalid_results:
+        df_invalid = pd.DataFrame(invalid_results).sort_values(by="S.no").drop(columns=["S.no"])
+        records = df_invalid.fillna("N/A").to_dict("records")
+        insert_data("invalidusers", records)
+        logger.info(f"Inserted {len(records)} invalid users into the database.")
 
-    df_output = df_output.drop(columns=["S.no"])
-    records = df_output.to_dict("records")
-    records = df_output.fillna("N/A").to_dict("records")
-
-    insert_data("leetcodedata", "validusers", records)
-
-
-    # ======================================================
-    # SAVE INVALID USERS
-    # ======================================================
-
-    df_invalid = pd.DataFrame(invalid_results)
-    df_invalid = df_invalid.sort_values(by="S.no")
-    
-    df_invalid = df_invalid.drop(columns=["S.no"])
-    records = df_invalid.fillna("N/A").to_dict("records")
-
-    # Print the first record
-    print(records[0])
+    duration = time.time() - start_time
+    logger.success(f"Scraping completed in {duration:.2f} seconds.")
 
 
-
-    insert_data("leetcodedata", "invalidusers", records)
-
-    print("\n🎉 Scraping Completed!")
-
-
-end = time.time()
-
-print("Time taken:", end - start, "seconds")
+if __name__ == "__main__":
+    main()

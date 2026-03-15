@@ -1,22 +1,21 @@
 import os
 import json
-
 from fastapi import FastAPI, Query, HTTPException, APIRouter
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse, JSONResponse
-from pymongo import MongoClient
 from dotenv import load_dotenv
+from loguru import logger
+
+from backend.db import get_db
 
 load_dotenv()
 
 # --------------- Config ---------------
-MONGODB_URI = os.getenv("MONGODB_URI")
 REDIS_HOST = os.getenv("HOST")
 REDIS_PORT = int(os.getenv("PORT", 6379))
 REDIS_USERNAME = os.getenv("USERNAME")
 REDIS_PASSWORD = os.getenv("PASSWORD")
-DB_NAME = "leetcodedata"
 COLLECTION_NAME = "validusers"
 CACHE_TTL = 1800  # 30 minutes
 
@@ -24,8 +23,7 @@ ALLOWED_GROUP_BY = {"DEPT", "GENDER", "BATCH"}
 ALLOWED_METRICS = {"Problem Count", "Contest Rating", "Contest Attended", "Easy", "medium", "hard"}
 
 # --------------- MongoDB ---------------
-mongo_client = MongoClient(MONGODB_URI, serverSelectionTimeoutMS=5000)
-db = mongo_client[DB_NAME]
+db = get_db()
 collection = db[COLLECTION_NAME]
 
 # --------------- Redis (optional) ---------------
@@ -41,11 +39,10 @@ try:
         socket_timeout=2,
         socket_connect_timeout=2,
     )
-    # redis_client.ping()
-    print("Redis connected (ping disabled for startup)")
-except Exception:
+    logger.info("Redis connected")
+except Exception as e:
     redis_client = None
-    print("Redis unavailable — running without cache")
+    logger.warning(f"Redis unavailable: {e}")
 
 # --------------- FastAPI App ---------------
 app = FastAPI(title="LeetCode Analytics API")
@@ -57,6 +54,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 
 # --------------- Helpers ---------------
