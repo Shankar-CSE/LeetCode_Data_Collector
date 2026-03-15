@@ -1,23 +1,18 @@
 import os
 import json
+from typing import Optional
 from fastapi import FastAPI, Query, HTTPException, APIRouter
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse, JSONResponse
-from dotenv import load_dotenv
 from loguru import logger
 
+from backend.config import Config
 from backend.db import get_db
 
-load_dotenv()
-
 # --------------- Config ---------------
-REDIS_HOST = os.getenv("HOST")
-REDIS_PORT = int(os.getenv("PORT", 6379))
-REDIS_USERNAME = os.getenv("USERNAME")
-REDIS_PASSWORD = os.getenv("PASSWORD")
-COLLECTION_NAME = "validusers"
-CACHE_TTL = 1800  # 30 minutes
+COLLECTION_NAME = Config.COLLECTION_VALID_USERS
+CACHE_TTL = Config.CACHE_TTL
 
 ALLOWED_GROUP_BY = {"DEPT", "GENDER", "BATCH"}
 ALLOWED_METRICS = {"Problem Count", "Contest Rating", "Contest Attended", "Easy", "medium", "hard"}
@@ -28,24 +23,34 @@ collection = db[COLLECTION_NAME]
 
 # --------------- Redis (optional) ---------------
 redis_client = None
-try:
-    import redis
-    redis_client = redis.Redis(
-        host=REDIS_HOST,
-        port=REDIS_PORT,
-        username=REDIS_USERNAME,
-        password=REDIS_PASSWORD,
-        decode_responses=True,
-        socket_timeout=2,
-        socket_connect_timeout=2,
-    )
-    logger.info("Redis connected")
-except Exception as e:
-    redis_client = None
-    logger.warning(f"Redis unavailable: {e}")
+if Config.REDIS_HOST and Config.REDIS_PASSWORD:
+    try:
+        import redis
+        redis_client = redis.Redis(
+            host=Config.REDIS_HOST,
+            port=Config.REDIS_PORT,
+            username=Config.REDIS_USERNAME,
+            password=Config.REDIS_PASSWORD,
+            decode_responses=True,
+            socket_timeout=2,
+            socket_connect_timeout=2,
+        )
+        redis_client.ping()
+        logger.info("✓ Redis connected")
+    except Exception as e:
+        redis_client = None
+        logger.warning(f"Redis unavailable: {e}")
+else:
+    logger.info("Redis not configured, caching disabled")
 
 # --------------- FastAPI App ---------------
-app = FastAPI(title="LeetCode Analytics API")
+app = FastAPI(
+    title="LeetCode Analytics API",
+    description="API for analyzing LeetCode user statistics and performance metrics",
+    version="2.0.0",
+    docs_url="/api/docs",
+    redoc_url="/api/redoc",
+)
 router = APIRouter(prefix="/api")
 
 app.add_middleware(
@@ -54,6 +59,31 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# --------------- Health Check ---------------
+@router.get("/health")
+def health_check():
+    """Health check endpoint."""
+    try:
+        db = get_db()
+        db.command("ping")
+        mongo_status = "healthy"
+    except Exception as e:
+        mongo_status = f"unhealthy: {str(e)}"
+    
+    redis_status = "healthy" if redis_client else "disabled"
+    if redis_client:
+        try:
+            redis_client.ping()
+        except Exception:
+            redis_status = "unhealthy"
+    
+    return {
+        "status": "ok",
+        "version": "2.0.0",
+        "mongodb": mongo_status,
+        "redis": redis_status,
+    }
 
 
 

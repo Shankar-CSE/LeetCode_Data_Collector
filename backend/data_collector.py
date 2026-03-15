@@ -1,22 +1,18 @@
 from tenacity import retry, stop_after_attempt, wait_exponential
 from loguru import logger
-import argparse
-from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
 import pandas as pd
 import requests
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from db import check_mongodb_connection, insert_data
+from backend.config import Config
+from backend.db import check_mongodb_connection, insert_data
 
 # ==========================================================
 # CONFIGURATION
 # ==========================================================
-MAX_THREADS = 20
-REQUEST_TIMEOUT = 15
-# No longer needed with tenacity
-# RETRY_LIMIT = 3
-# RETRY_DELAY = 2
-# REQUEST_DELAY = 0.05
+MAX_THREADS = Config.MAX_THREADS
+REQUEST_TIMEOUT = Config.REQUEST_TIMEOUT
 INPUT_FILE = "./backend/input.csv"
 
 
@@ -174,14 +170,14 @@ def main():
     if valid_results:
         df_output = pd.DataFrame(valid_results).sort_values(by="S.no").drop(columns=["S.no"])
         records = df_output.fillna("N/A").to_dict("records")
-        insert_data("validusers", records)
-        logger.success(f"Inserted {len(records)} valid users into the database.")
+        insert_data(Config.COLLECTION_VALID_USERS, records)
+        logger.success(f"✓ Inserted {len(records)} valid users into the database.")
 
     if invalid_results:
         df_invalid = pd.DataFrame(invalid_results).sort_values(by="S.no").drop(columns=["S.no"])
         records = df_invalid.fillna("N/A").to_dict("records")
-        insert_data("invalidusers", records)
-        logger.info(f"Inserted {len(records)} invalid users into the database.")
+        insert_data(Config.COLLECTION_INVALID_USERS, records)
+        logger.info(f"✓ Inserted {len(records)} invalid users into the database.")
 
     duration = time.time() - start_time
     logger.success(f"Scraping completed in {duration:.2f} seconds.")

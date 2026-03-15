@@ -1,29 +1,26 @@
-import os
 from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure, ConfigurationError
-from dotenv import load_dotenv
 from loguru import logger
-
-load_dotenv()
-
-mongodb_uri = os.getenv("MONGODB_URI")
-DB_NAME = "leetcodedata"
-
-if not mongodb_uri:
-    raise ValueError("MONGODB_URI environment variable is required")
+from backend.config import Config
 
 # Singleton client
 _client = None
 
 def get_mongo_client():
+    """Get MongoDB client singleton."""
     global _client
     if _client is None:
-        _client = MongoClient(mongodb_uri, serverSelectionTimeoutMS=30000)
+        _client = MongoClient(
+            Config.MONGODB_URI,
+            serverSelectionTimeoutMS=30000,
+            connectTimeoutMS=20000,
+            socketTimeoutMS=20000,
+        )
     return _client
 
 def get_db():
-    """Get leetcodedata database."""
-    return get_mongo_client()[DB_NAME]
+    """Get database instance."""
+    return get_mongo_client()[Config.DB_NAME]
 
 def check_mongodb_connection():
     """Check MongoDB connection."""
