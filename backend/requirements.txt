@@ -1,6 +1,10 @@
 fastapi
 uvicorn[standard]
 pymongo
+dnspython
 redis
 python-dotenv
 aiofiles
+loguru
+tenacity
+dnspython

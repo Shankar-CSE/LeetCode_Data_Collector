@@ -13,7 +13,6 @@ This Python script fetches LeetCode statistics for multiple users in parallel an
 For each user, the script retrieves:
 
 **Problem Solving Statistics:**
-- Easy problems solved
 - Medium problems solved  
 - Hard problems solved
 - Total problems solved
